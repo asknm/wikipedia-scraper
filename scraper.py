@@ -6,10 +6,10 @@ class WikiSpider(scrapy.Spider):
     custom_settings = {
         'DUPEFILTER_DEBUG': True,
     }
-    start_urls = ['https://en.wikipedia.org/wiki/Sweden']
-    visited = [start_urls[0]]
-    completed = []
-    to_visit = []
+    file = open("to_visit.txt", "r")
+    start = file.readline()
+    start_urls = ["https://en.wikipedia.org" + start]
+    visited = [start]
 
     def parse(self, response):
         next_page = None
@@ -27,7 +27,20 @@ class WikiSpider(scrapy.Spider):
                         elif link in self.visited:
                             self.set_visited(False)
                         elif self.in_completed(link):
-                            self.set_visited(self.completed[self.in_completed(link)][1])
+                            index = self.in_completed(link)
+                            value = ""
+                            with open("completed.txt") as fp:
+                                for i, line in enumerate(fp):
+                                    if i == index:
+                                        value = line.split()[1]
+                                    elif i > index:
+                                        break
+                            if value == "True":
+                                self.set_visited(True)
+                            elif value == "False":
+                                self.set_visited(False)
+                            else:
+                                print("SOMETHING WENT WRONG!")
                         else:
                             self.visited.append(next_page)
                             #print(len(self.to_visit))
@@ -36,15 +49,15 @@ class WikiSpider(scrapy.Spider):
                             new_start = False
                         if new_start:
                             print('s')
-                            end = True
-                            for i in range(len(self.to_visit)):
-                                if not self.in_completed(self.to_visit[i]):
-                                    self.visited.append(self.to_visit[i])
-                                    next = self.to_visit.pop(i)
+                            file = open("to_visit.txt", "r")
+                            for line in file:
+                                if not self.in_completed(line):
+                                    next = line
+                                    self.visited.append(next)
                                     # print('s')
                                     # print(len(self.to_visit))
                                     yield response.follow(next, callback=self.parse)
-                                    end = False
+                                    break
                             # if end:
                             #     trues = 0
                             #     falses = 0
@@ -55,16 +68,41 @@ class WikiSpider(scrapy.Spider):
                             #             falses += 1
                             #     print("{} and {}".format("Trues", trues))
                             #     print("{} and {}".format("Falses", falses))
-                    elif link not in self.visited and not self.in_completed(link) and link not in self.to_visit:
-                        self.to_visit.append(link)
+                    elif link not in self.visited and not self.in_completed(link) and not self.in_to_visit(link):
+                        file = open("to_visit.txt", "a")
+                        file.write(link + "\n")
+
+    def in_to_visit(self, link):
+        file = open("to_visit.txt", "r")
+        i = 0
+        for line in file:
+            if line == link:
+                return True
+            i += 1
+        return False
 
     def set_visited(self, value):
+        file = open("completed.txt", "a")
         for i in range(len(self.visited)):
-            self.completed.append((self.visited[i], value))
+            file.write(self.visited[i] + " " + str(value) + "\n")
+        file.close()
+        file = open("to_visit.txt", "r")
+        to_visit = file.readlines()
+        file.close()
+        for v in self.visited:
+            if v in to_visit:
+                to_visit.remove(v)
+        file = open("to_visit.txt", "w")
+        file.writelines(to_visit)
+        file.close()
         self.visited = []
 
     def in_completed(self, link):
-        for i in range(len(self.completed)):
-            if link == self.completed[i][0]:
+        file = open("completed.txt", "r")
+        i = 0
+        for line in file:
+            if line.startswith(link):
+                print("Index: " + str(i))
                 return i
+            i += 1
         return False

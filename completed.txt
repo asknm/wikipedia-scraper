@@ -1,0 +1,46 @@
+/wiki/Sweden
+ True
+/wiki/Swedish_language True
+/wiki/North_Germanic_languages True
+/wiki/Germanic_languages True
+/wiki/Indo-European_languages True
+/wiki/Language_family True
+/wiki/Language True
+/wiki/Linguistic_system True
+/wiki/Ferdinand_de_Saussure True
+/wiki/Switzerland True
+/wiki/Sovereign_state True
+/wiki/International_law True
+/wiki/Nation True
+/wiki/Community True
+/wiki/Social_unit True
+/wiki/Social_science True
+/wiki/Discipline_(academia) True
+/wiki/Knowledge True
+/wiki/Fact True
+/wiki/Reality True
+/wiki/Object_of_the_mind True
+/wiki/Object_(philosophy) True
+/wiki/Northern_Europe
+ True
+/wiki/Geography True
+/wiki/Ancient_Greek True
+/wiki/Greek_language True
+/wiki/Modern_Greek True
+/wiki/Dialect True
+/wiki/Latin True
+/wiki/Classical_language True
+/wiki/Norway
+ True
+/wiki/Norwegian_language True
+/wiki/Finland
+ True
+/wiki/Finnish_language True
+/wiki/Uralic_languages True
+/wiki/Denmark
+ True
+/wiki/Danish_language True
+/wiki/%C3%98resund_Bridge
+ True
+/wiki/%C3%98resund
+ True
