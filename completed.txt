@@ -1,5 +1,4 @@
-/wiki/Sweden
- True
+/wiki/Sweden True
 /wiki/Swedish_language True
 /wiki/North_Germanic_languages True
 /wiki/Germanic_languages True
@@ -21,8 +20,7 @@
 /wiki/Reality True
 /wiki/Object_of_the_mind True
 /wiki/Object_(philosophy) True
-/wiki/Northern_Europe
- True
+/wiki/Northern_Europe True
 /wiki/Geography True
 /wiki/Ancient_Greek True
 /wiki/Greek_language True
@@ -30,17 +28,49 @@
 /wiki/Dialect True
 /wiki/Latin True
 /wiki/Classical_language True
-/wiki/Norway
- True
+/wiki/Norway True
 /wiki/Norwegian_language True
-/wiki/Finland
- True
+/wiki/Finland True
 /wiki/Finnish_language True
 /wiki/Uralic_languages True
-/wiki/Denmark
- True
+/wiki/Denmark True
 /wiki/Danish_language True
-/wiki/%C3%98resund_Bridge
- True
-/wiki/%C3%98resund
- True
+/wiki/%C3%98resund_Bridge True
+/wiki/%C3%98resund True
+/wiki/European_Union False
+/wiki/Member_state_of_the_European_Union False
+/wiki/List_of_European_countries_by_area False
+/wiki/Europe True
+/wiki/Continent True
+/wiki/Landmass True
+/wiki/Land True
+/wiki/Earth True
+/wiki/Planet True
+/wiki/Astronomical_body True
+/wiki/Physical_body True
+/wiki/3-dimensional_space True
+/wiki/Parameter True
+/wiki/Ancient_Greek_language True
+/wiki/Capital_city True
+/wiki/Municipality True
+/wiki/Administrative_division True
+/wiki/Country True
+/wiki/Political_geography True
+/wiki/Politics True
+/wiki/Governance True
+/wiki/Government True
+/wiki/State_(polity) True
+/wiki/Polity True
+/wiki/Identity_(social_science) True
+/wiki/Self-identity True
+/wiki/Belief True
+/wiki/Attitude_(psychology) True
+/wiki/Psychology True
+/wiki/Mind True
+/wiki/Cognition True
+/wiki/Intellectual_function True
+/wiki/Reasoning True
+/wiki/Consciousness True
+/wiki/Quality_(philosophy) True
+/wiki/Property_(philosophy) True
+/wiki/Logic True

@@ -7,7 +7,7 @@ class WikiSpider(scrapy.Spider):
         'DUPEFILTER_DEBUG': True,
     }
     file = open("to_visit.txt", "r")
-    start = file.readline()
+    start = file.readline().split('\n')[0]
     start_urls = ["https://en.wikipedia.org" + start]
     visited = [start]
 
@@ -15,6 +15,7 @@ class WikiSpider(scrapy.Spider):
         next_page = None
         links = response.css('div.mw-parser-output > p > a::attr(href)').extract()
         if len(links) == 0:
+            print("NO MORE!")
             self.set_visited(False)
         else:
             for link in links:
@@ -44,15 +45,15 @@ class WikiSpider(scrapy.Spider):
                         else:
                             self.visited.append(next_page)
                             #print(len(self.to_visit))
-                            print('n')
+                            #print('n')
                             yield response.follow(next_page, callback=self.parse)
                             new_start = False
                         if new_start:
-                            print('s')
+                            #print('s')
                             file = open("to_visit.txt", "r")
                             for line in file:
                                 if not self.in_completed(line):
-                                    next = line
+                                    next = line[:-1]
                                     self.visited.append(next)
                                     # print('s')
                                     # print(len(self.to_visit))
@@ -90,8 +91,9 @@ class WikiSpider(scrapy.Spider):
         to_visit = file.readlines()
         file.close()
         for v in self.visited:
-            if v in to_visit:
-                to_visit.remove(v)
+            for line in to_visit:
+                if line.startswith(v):
+                    to_visit.remove(line)
         file = open("to_visit.txt", "w")
         file.writelines(to_visit)
         file.close()
@@ -102,7 +104,6 @@ class WikiSpider(scrapy.Spider):
         i = 0
         for line in file:
             if line.startswith(link):
-                print("Index: " + str(i))
                 return i
             i += 1
         return False
