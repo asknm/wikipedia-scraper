@@ -1,4 +1,5 @@
 import scrapy
+import random
 
 
 class WikiSpider(scrapy.Spider):
@@ -7,7 +8,8 @@ class WikiSpider(scrapy.Spider):
         'DUPEFILTER_DEBUG': True,
     }
     file = open("to_visit.txt", "r")
-    start = file.readline().split('\n')[0]
+    lines = file.readlines()
+    start = random.choice(lines).split('\n')[0]
     start_urls = ["https://en.wikipedia.org" + start]
     visited = [start]
 
@@ -25,10 +27,12 @@ class WikiSpider(scrapy.Spider):
                 in_parentheses -= len(word.split(']')) - 1
                 if in_parentheses == 0 and word.startswith('href='):
                     link = word.split('"')[-2]
-                    if link.startswith("/wiki/") and len(link.split('/')) == 3 and len(link.split('#')) == 1 \
+                    if link.startswith("/wiki/") and len(link.split('/')) == 3 and '#' not in link \
                             and not link == '/wiki/Geographic_coordinate_system':
                         done = True
                         break
+                    else:
+                        link = None
             if done:
                 break
         print(link)

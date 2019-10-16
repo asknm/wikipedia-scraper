@@ -1,4 +1,4 @@
-class counter:
+class Counter:
     def start(self):
         file = open("completed_with_path.txt", "r")
         pages = []
@@ -25,8 +25,9 @@ class counter:
             i += 1
         return -1
 
+
 def main():
-    c = counter()
+    c = Counter()
     c.start()
 
 
