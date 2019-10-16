@@ -13,6 +13,7 @@ class WikiSpider(scrapy.Spider):
 
     def parse(self, response):
         next_page = None
+        new_start = True
         links = response.css('div.mw-parser-output > p > a::attr(href)').extract()
         if len(links) == 0:
             print("NO MORE!")
@@ -22,12 +23,11 @@ class WikiSpider(scrapy.Spider):
                 if link.startswith("/wiki/") and len(link.split('/')) == 3 and len(link.split('#')) == 1:
                     if next_page is None:
                         next_page = link
-                        new_start = True
                         if link == '/wiki/Philosophy':
                             self.set_visited(True)
                         elif link in self.visited:
                             self.set_visited(False)
-                        elif self.in_completed(link):
+                        elif self.in_completed(link) > -1:
                             index = self.in_completed(link)
                             value = ""
                             with open("completed.txt") as fp:
@@ -44,40 +44,29 @@ class WikiSpider(scrapy.Spider):
                                 print("SOMETHING WENT WRONG!")
                         else:
                             self.visited.append(next_page)
-                            #print(len(self.to_visit))
-                            #print('n')
                             yield response.follow(next_page, callback=self.parse)
                             new_start = False
-                        if new_start:
-                            #print('s')
-                            file = open("to_visit.txt", "r")
-                            for line in file:
-                                if not self.in_completed(line):
-                                    next = line[:-1]
-                                    self.visited.append(next)
-                                    # print('s')
-                                    # print(len(self.to_visit))
-                                    yield response.follow(next, callback=self.parse)
-                                    break
-                            # if end:
-                            #     trues = 0
-                            #     falses = 0
-                            #     for i in range(len(self.completed)):
-                            #         if self.completed[i][1] == True:
-                            #             trues += 1
-                            #         else:
-                            #             falses += 1
-                            #     print("{} and {}".format("Trues", trues))
-                            #     print("{} and {}".format("Falses", falses))
-                    elif link not in self.visited and not self.in_completed(link) and not self.in_to_visit(link):
+                    elif link not in self.visited and self.in_completed(link) == -1 and not self.in_to_visit(link):
                         file = open("to_visit.txt", "a")
                         file.write(link + "\n")
+                        file.close()
+        if new_start:
+            # print('s')
+            file = open("to_visit.txt", "r")
+            for line in file:
+                if self.in_completed(line) == -1:
+                    next = line[:-1]
+                    self.visited.append(next)
+                    # print('s')
+                    # print(len(self.to_visit))
+                    yield response.follow(next, callback=self.parse)
+                    break
 
     def in_to_visit(self, link):
         file = open("to_visit.txt", "r")
         i = 0
         for line in file:
-            if line == link:
+            if line.startswith(link):
                 return True
             i += 1
         return False
@@ -106,4 +95,5 @@ class WikiSpider(scrapy.Spider):
             if line.startswith(link):
                 return i
             i += 1
-        return False
+        return -1
+
