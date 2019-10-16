@@ -1,0 +1,1114 @@
+/wiki/Rigsdagen ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Legislature ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Deliberative_assembly ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Parliamentary_procedure ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Procedural_law ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Court ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Government ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/State_(polity) ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Polity ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Identity_(social_science) ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Psychology ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Mind ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Cognition ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Intellectual_function ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Reasoning ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Consciousness ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Sentience ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Feeling ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Nominalization ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Linguistics ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Science ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Knowledge ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Fact ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Reality ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Object_of_the_mind ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Object_(philosophy) ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Philosophy ['/wiki/Rigsdagen', u'/wiki/Legislature', u'/wiki/Deliberative_assembly', u'/wiki/Parliamentary_procedure', u'/wiki/Procedural_law', u'/wiki/Court', u'/wiki/Government', u'/wiki/State_(polity)', u'/wiki/Polity', u'/wiki/Identity_(social_science)', u'/wiki/Psychology', u'/wiki/Mind', u'/wiki/Cognition', u'/wiki/Intellectual_function', u'/wiki/Reasoning', u'/wiki/Consciousness', u'/wiki/Sentience', u'/wiki/Feeling', u'/wiki/Nominalization', u'/wiki/Linguistics', u'/wiki/Science', u'/wiki/Knowledge', u'/wiki/Fact', u'/wiki/Reality', u'/wiki/Object_of_the_mind', u'/wiki/Object_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Province_of_Schleswig-Holstein ['/wiki/Province_of_Schleswig-Holstein', u'/wiki/Provinces_of_Prussia', u'/wiki/Administrative_divisions', u'/wiki/Country', u'/wiki/Political_geography', u'/wiki/Politics', u'/wiki/Governance', u'/wiki/Government'] True
+/wiki/Provinces_of_Prussia ['/wiki/Province_of_Schleswig-Holstein', u'/wiki/Provinces_of_Prussia', u'/wiki/Administrative_divisions', u'/wiki/Country', u'/wiki/Political_geography', u'/wiki/Politics', u'/wiki/Governance', u'/wiki/Government'] True
+/wiki/Administrative_divisions ['/wiki/Province_of_Schleswig-Holstein', u'/wiki/Provinces_of_Prussia', u'/wiki/Administrative_divisions', u'/wiki/Country', u'/wiki/Political_geography', u'/wiki/Politics', u'/wiki/Governance', u'/wiki/Government'] True
+/wiki/Country ['/wiki/Province_of_Schleswig-Holstein', u'/wiki/Provinces_of_Prussia', u'/wiki/Administrative_divisions', u'/wiki/Country', u'/wiki/Political_geography', u'/wiki/Politics', u'/wiki/Governance', u'/wiki/Government'] True
+/wiki/Political_geography ['/wiki/Province_of_Schleswig-Holstein', u'/wiki/Provinces_of_Prussia', u'/wiki/Administrative_divisions', u'/wiki/Country', u'/wiki/Political_geography', u'/wiki/Politics', u'/wiki/Governance', u'/wiki/Government'] True
+/wiki/Politics ['/wiki/Province_of_Schleswig-Holstein', u'/wiki/Provinces_of_Prussia', u'/wiki/Administrative_divisions', u'/wiki/Country', u'/wiki/Political_geography', u'/wiki/Politics', u'/wiki/Governance', u'/wiki/Government'] True
+/wiki/Governance ['/wiki/Province_of_Schleswig-Holstein', u'/wiki/Provinces_of_Prussia', u'/wiki/Administrative_divisions', u'/wiki/Country', u'/wiki/Political_geography', u'/wiki/Politics', u'/wiki/Governance', u'/wiki/Government'] True
+/wiki/Government ['/wiki/Province_of_Schleswig-Holstein', u'/wiki/Provinces_of_Prussia', u'/wiki/Administrative_divisions', u'/wiki/Country', u'/wiki/Political_geography', u'/wiki/Politics', u'/wiki/Governance', u'/wiki/Government'] True
+/wiki/Irredentism ['/wiki/Irredentism', u'/wiki/Nationalism', u'/wiki/Nation', u'/wiki/Community', u'/wiki/Social_unit', u'/wiki/Social_science', u'/wiki/Discipline_(academia)', u'/wiki/Knowledge'] True
+/wiki/Nationalism ['/wiki/Irredentism', u'/wiki/Nationalism', u'/wiki/Nation', u'/wiki/Community', u'/wiki/Social_unit', u'/wiki/Social_science', u'/wiki/Discipline_(academia)', u'/wiki/Knowledge'] True
+/wiki/Nation ['/wiki/Irredentism', u'/wiki/Nationalism', u'/wiki/Nation', u'/wiki/Community', u'/wiki/Social_unit', u'/wiki/Social_science', u'/wiki/Discipline_(academia)', u'/wiki/Knowledge'] True
+/wiki/Community ['/wiki/Irredentism', u'/wiki/Nationalism', u'/wiki/Nation', u'/wiki/Community', u'/wiki/Social_unit', u'/wiki/Social_science', u'/wiki/Discipline_(academia)', u'/wiki/Knowledge'] True
+/wiki/Social_unit ['/wiki/Irredentism', u'/wiki/Nationalism', u'/wiki/Nation', u'/wiki/Community', u'/wiki/Social_unit', u'/wiki/Social_science', u'/wiki/Discipline_(academia)', u'/wiki/Knowledge'] True
+/wiki/Social_science ['/wiki/Irredentism', u'/wiki/Nationalism', u'/wiki/Nation', u'/wiki/Community', u'/wiki/Social_unit', u'/wiki/Social_science', u'/wiki/Discipline_(academia)', u'/wiki/Knowledge'] True
+/wiki/Discipline_(academia) ['/wiki/Irredentism', u'/wiki/Nationalism', u'/wiki/Nation', u'/wiki/Community', u'/wiki/Social_unit', u'/wiki/Social_science', u'/wiki/Discipline_(academia)', u'/wiki/Knowledge'] True
+/wiki/Knowledge ['/wiki/Irredentism', u'/wiki/Nationalism', u'/wiki/Nation', u'/wiki/Community', u'/wiki/Social_unit', u'/wiki/Social_science', u'/wiki/Discipline_(academia)', u'/wiki/Knowledge'] True
+/wiki/Plebiscite ['/wiki/Plebiscite', u'/wiki/Vote', u'/wiki/Constituency', u'/wiki/Election', u'/wiki/Group_decision-making', u'/wiki/Individuals', u'/wiki/Maslow%27s_hierarchy_of_needs', u'/wiki/Psychology'] True
+/wiki/Vote ['/wiki/Plebiscite', u'/wiki/Vote', u'/wiki/Constituency', u'/wiki/Election', u'/wiki/Group_decision-making', u'/wiki/Individuals', u'/wiki/Maslow%27s_hierarchy_of_needs', u'/wiki/Psychology'] True
+/wiki/Constituency ['/wiki/Plebiscite', u'/wiki/Vote', u'/wiki/Constituency', u'/wiki/Election', u'/wiki/Group_decision-making', u'/wiki/Individuals', u'/wiki/Maslow%27s_hierarchy_of_needs', u'/wiki/Psychology'] True
+/wiki/Election ['/wiki/Plebiscite', u'/wiki/Vote', u'/wiki/Constituency', u'/wiki/Election', u'/wiki/Group_decision-making', u'/wiki/Individuals', u'/wiki/Maslow%27s_hierarchy_of_needs', u'/wiki/Psychology'] True
+/wiki/Group_decision-making ['/wiki/Plebiscite', u'/wiki/Vote', u'/wiki/Constituency', u'/wiki/Election', u'/wiki/Group_decision-making', u'/wiki/Individuals', u'/wiki/Maslow%27s_hierarchy_of_needs', u'/wiki/Psychology'] True
+/wiki/Individuals ['/wiki/Plebiscite', u'/wiki/Vote', u'/wiki/Constituency', u'/wiki/Election', u'/wiki/Group_decision-making', u'/wiki/Individuals', u'/wiki/Maslow%27s_hierarchy_of_needs', u'/wiki/Psychology'] True
+/wiki/Maslow%27s_hierarchy_of_needs ['/wiki/Plebiscite', u'/wiki/Vote', u'/wiki/Constituency', u'/wiki/Election', u'/wiki/Group_decision-making', u'/wiki/Individuals', u'/wiki/Maslow%27s_hierarchy_of_needs', u'/wiki/Psychology'] True
+/wiki/Psychology ['/wiki/Plebiscite', u'/wiki/Vote', u'/wiki/Constituency', u'/wiki/Election', u'/wiki/Group_decision-making', u'/wiki/Individuals', u'/wiki/Maslow%27s_hierarchy_of_needs', u'/wiki/Psychology'] True
+/wiki/Nazism ['/wiki/Nazism', u'/wiki/Ideology', u'/wiki/Normative', u'/wiki/Philosophy'] True
+/wiki/Ideology ['/wiki/Nazism', u'/wiki/Ideology', u'/wiki/Normative', u'/wiki/Philosophy'] True
+/wiki/Normative ['/wiki/Nazism', u'/wiki/Ideology', u'/wiki/Normative', u'/wiki/Philosophy'] True
+/wiki/Philosophy ['/wiki/Nazism', u'/wiki/Ideology', u'/wiki/Normative', u'/wiki/Philosophy'] True
+/wiki/Frikorps_Danmark ['/wiki/Frikorps_Danmark', u'/wiki/Denmark', u'/wiki/Nordic_country', u'/wiki/Region', u'/wiki/Geography', u'/wiki/Science'] True
+/wiki/Denmark ['/wiki/Frikorps_Danmark', u'/wiki/Denmark', u'/wiki/Nordic_country', u'/wiki/Region', u'/wiki/Geography', u'/wiki/Science'] True
+/wiki/Nordic_country ['/wiki/Frikorps_Danmark', u'/wiki/Denmark', u'/wiki/Nordic_country', u'/wiki/Region', u'/wiki/Geography', u'/wiki/Science'] True
+/wiki/Region ['/wiki/Frikorps_Danmark', u'/wiki/Denmark', u'/wiki/Nordic_country', u'/wiki/Region', u'/wiki/Geography', u'/wiki/Science'] True
+/wiki/Geography ['/wiki/Frikorps_Danmark', u'/wiki/Denmark', u'/wiki/Nordic_country', u'/wiki/Region', u'/wiki/Geography', u'/wiki/Science'] True
+/wiki/Science ['/wiki/Frikorps_Danmark', u'/wiki/Denmark', u'/wiki/Nordic_country', u'/wiki/Region', u'/wiki/Geography', u'/wiki/Science'] True
+/wiki/Founding_of_the_republic_of_Iceland ['/wiki/Founding_of_the_republic_of_Iceland', u'/wiki/Iceland', u'/wiki/Nordic_countries', u'/wiki/Region'] True
+/wiki/Iceland ['/wiki/Founding_of_the_republic_of_Iceland', u'/wiki/Iceland', u'/wiki/Nordic_countries', u'/wiki/Region'] True
+/wiki/Nordic_countries ['/wiki/Founding_of_the_republic_of_Iceland', u'/wiki/Iceland', u'/wiki/Nordic_countries', u'/wiki/Region'] True
+/wiki/Region ['/wiki/Founding_of_the_republic_of_Iceland', u'/wiki/Iceland', u'/wiki/Nordic_countries', u'/wiki/Region'] True
+/wiki/Liberation_of_Denmark ['/wiki/Liberation_of_Denmark', u'/wiki/World_War_II', u'/wiki/World_war', u'/wiki/War', u'/wiki/State_(polity)'] True
+/wiki/World_War_II ['/wiki/Liberation_of_Denmark', u'/wiki/World_War_II', u'/wiki/World_war', u'/wiki/War', u'/wiki/State_(polity)'] True
+/wiki/World_war ['/wiki/Liberation_of_Denmark', u'/wiki/World_War_II', u'/wiki/World_war', u'/wiki/War', u'/wiki/State_(polity)'] True
+/wiki/War ['/wiki/Liberation_of_Denmark', u'/wiki/World_War_II', u'/wiki/World_war', u'/wiki/War', u'/wiki/State_(polity)'] True
+/wiki/State_(polity) ['/wiki/Liberation_of_Denmark', u'/wiki/World_War_II', u'/wiki/World_war', u'/wiki/War', u'/wiki/State_(polity)'] True
+/wiki/Outer_Seven ['/wiki/Outer_Seven', u'/wiki/Member_state_of_the_European_Union', u'/wiki/European_Union', u'/wiki/Member_state_of_the_European_Union'] False
+/wiki/Member_state_of_the_European_Union ['/wiki/Outer_Seven', u'/wiki/Member_state_of_the_European_Union', u'/wiki/European_Union', u'/wiki/Member_state_of_the_European_Union'] False
+/wiki/European_Union ['/wiki/Outer_Seven', u'/wiki/Member_state_of_the_European_Union', u'/wiki/European_Union', u'/wiki/Member_state_of_the_European_Union'] False
+/wiki/Member_state_of_the_European_Union ['/wiki/Outer_Seven', u'/wiki/Member_state_of_the_European_Union', u'/wiki/European_Union', u'/wiki/Member_state_of_the_European_Union'] False
+/wiki/1972_Danish_European_Communities_membership_referendum ['/wiki/1972_Danish_European_Communities_membership_referendum', u'/wiki/European_Economic_Community', u'/wiki/Regional_organisation', u'/wiki/International_organization', u'/wiki/Treaty', u'/wiki/International_law', u'/wiki/Nation'] True
+/wiki/European_Economic_Community ['/wiki/1972_Danish_European_Communities_membership_referendum', u'/wiki/European_Economic_Community', u'/wiki/Regional_organisation', u'/wiki/International_organization', u'/wiki/Treaty', u'/wiki/International_law', u'/wiki/Nation'] True
+/wiki/Regional_organisation ['/wiki/1972_Danish_European_Communities_membership_referendum', u'/wiki/European_Economic_Community', u'/wiki/Regional_organisation', u'/wiki/International_organization', u'/wiki/Treaty', u'/wiki/International_law', u'/wiki/Nation'] True
+/wiki/International_organization ['/wiki/1972_Danish_European_Communities_membership_referendum', u'/wiki/European_Economic_Community', u'/wiki/Regional_organisation', u'/wiki/International_organization', u'/wiki/Treaty', u'/wiki/International_law', u'/wiki/Nation'] True
+/wiki/Treaty ['/wiki/1972_Danish_European_Communities_membership_referendum', u'/wiki/European_Economic_Community', u'/wiki/Regional_organisation', u'/wiki/International_organization', u'/wiki/Treaty', u'/wiki/International_law', u'/wiki/Nation'] True
+/wiki/International_law ['/wiki/1972_Danish_European_Communities_membership_referendum', u'/wiki/European_Economic_Community', u'/wiki/Regional_organisation', u'/wiki/International_organization', u'/wiki/Treaty', u'/wiki/International_law', u'/wiki/Nation'] True
+/wiki/Nation ['/wiki/1972_Danish_European_Communities_membership_referendum', u'/wiki/European_Economic_Community', u'/wiki/Regional_organisation', u'/wiki/International_organization', u'/wiki/Treaty', u'/wiki/International_law', u'/wiki/Nation'] True
+/wiki/Maastricht_Treaty ['/wiki/Maastricht_Treaty', u'/wiki/European_Communities', u'/wiki/Institutions_of_the_European_Union', u'/wiki/European_Union'] False
+/wiki/European_Communities ['/wiki/Maastricht_Treaty', u'/wiki/European_Communities', u'/wiki/Institutions_of_the_European_Union', u'/wiki/European_Union'] False
+/wiki/Institutions_of_the_European_Union ['/wiki/Maastricht_Treaty', u'/wiki/European_Communities', u'/wiki/Institutions_of_the_European_Union', u'/wiki/European_Union'] False
+/wiki/European_Union ['/wiki/Maastricht_Treaty', u'/wiki/European_Communities', u'/wiki/Institutions_of_the_European_Union', u'/wiki/European_Union'] False
+/wiki/1992_Danish_Maastricht_Treaty_referendum ['/wiki/1992_Danish_Maastricht_Treaty_referendum', u'/wiki/Maastricht_Treaty'] False
+/wiki/Maastricht_Treaty ['/wiki/1992_Danish_Maastricht_Treaty_referendum', u'/wiki/Maastricht_Treaty'] False
+/wiki/1993_Danish_Maastricht_Treaty_referendum ['/wiki/1993_Danish_Maastricht_Treaty_referendum', u'/wiki/Maastricht_Treaty'] False
+/wiki/Maastricht_Treaty ['/wiki/1993_Danish_Maastricht_Treaty_referendum', u'/wiki/Maastricht_Treaty'] False
+/wiki/2000_Danish_euro_referendum ['/wiki/2000_Danish_euro_referendum', u'/wiki/Eurozone', u'/wiki/Monetary_union', u'/wiki/State_(polity)'] True
+/wiki/Eurozone ['/wiki/2000_Danish_euro_referendum', u'/wiki/Eurozone', u'/wiki/Monetary_union', u'/wiki/State_(polity)'] True
+/wiki/Monetary_union ['/wiki/2000_Danish_euro_referendum', u'/wiki/Eurozone', u'/wiki/Monetary_union', u'/wiki/State_(polity)'] True
+/wiki/State_(polity) ['/wiki/2000_Danish_euro_referendum', u'/wiki/Eurozone', u'/wiki/Monetary_union', u'/wiki/State_(polity)'] True
+/wiki/Centre-left ['/wiki/Centre-left', u'/wiki/Left-wing_politics', u'/wiki/Social_equality', u'/wiki/Society', u'/wiki/Social_group', u'/wiki/Social_science'] True
+/wiki/Left-wing_politics ['/wiki/Centre-left', u'/wiki/Left-wing_politics', u'/wiki/Social_equality', u'/wiki/Society', u'/wiki/Social_group', u'/wiki/Social_science'] True
+/wiki/Social_equality ['/wiki/Centre-left', u'/wiki/Left-wing_politics', u'/wiki/Social_equality', u'/wiki/Society', u'/wiki/Social_group', u'/wiki/Social_science'] True
+/wiki/Society ['/wiki/Centre-left', u'/wiki/Left-wing_politics', u'/wiki/Social_equality', u'/wiki/Society', u'/wiki/Social_group', u'/wiki/Social_science'] True
+/wiki/Social_group ['/wiki/Centre-left', u'/wiki/Left-wing_politics', u'/wiki/Social_equality', u'/wiki/Society', u'/wiki/Social_group', u'/wiki/Social_science'] True
+/wiki/Social_science ['/wiki/Centre-left', u'/wiki/Left-wing_politics', u'/wiki/Social_equality', u'/wiki/Society', u'/wiki/Social_group', u'/wiki/Social_science'] True
+/wiki/Social_Democrats_(Denmark) ['/wiki/Social_Democrats_(Denmark)', u'/wiki/Social-democratic', u'/wiki/Political_philosophy', u'/wiki/Politics'] True
+/wiki/Social-democratic ['/wiki/Social_Democrats_(Denmark)', u'/wiki/Social-democratic', u'/wiki/Political_philosophy', u'/wiki/Politics'] True
+/wiki/Political_philosophy ['/wiki/Social_Democrats_(Denmark)', u'/wiki/Social-democratic', u'/wiki/Political_philosophy', u'/wiki/Politics'] True
+/wiki/Politics ['/wiki/Social_Democrats_(Denmark)', u'/wiki/Social-democratic', u'/wiki/Political_philosophy', u'/wiki/Politics'] True
+/wiki/Venstre_(Denmark) ['/wiki/Venstre_(Denmark)', u'/wiki/Conservative-liberal', u'/wiki/Liberalism', u'/wiki/Political_philosophy'] True
+/wiki/Conservative-liberal ['/wiki/Venstre_(Denmark)', u'/wiki/Conservative-liberal', u'/wiki/Liberalism', u'/wiki/Political_philosophy'] True
+/wiki/Liberalism ['/wiki/Venstre_(Denmark)', u'/wiki/Conservative-liberal', u'/wiki/Liberalism', u'/wiki/Political_philosophy'] True
+/wiki/Political_philosophy ['/wiki/Venstre_(Denmark)', u'/wiki/Conservative-liberal', u'/wiki/Liberalism', u'/wiki/Political_philosophy'] True
+/wiki/Conservative_People%27s_Party_(Denmark) ['/wiki/Conservative_People%27s_Party_(Denmark)', u'/wiki/Conservatism', u'/wiki/Political_philosophy'] True
+/wiki/Conservatism ['/wiki/Conservative_People%27s_Party_(Denmark)', u'/wiki/Conservatism', u'/wiki/Political_philosophy'] True
+/wiki/Political_philosophy ['/wiki/Conservative_People%27s_Party_(Denmark)', u'/wiki/Conservatism', u'/wiki/Political_philosophy'] True
+/wiki/Great_Belt_Fixed_Link ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Fixed_link ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Nonbuilding_structure ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Occupancy ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Building ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Built_structure ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/System ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Interaction ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Causality ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Factor_(disambiguation) ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Latin ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Classical_language ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Language ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Linguistic_system ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Ferdinand_de_Saussure ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Switzerland ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Sovereign_state ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/International_law ['/wiki/Great_Belt_Fixed_Link', u'/wiki/Fixed_link', u'/wiki/Nonbuilding_structure', u'/wiki/Occupancy', u'/wiki/Building', u'/wiki/Built_structure', u'/wiki/System', u'/wiki/Interaction', u'/wiki/Causality', u'/wiki/Factor_(disambiguation)', u'/wiki/Latin', u'/wiki/Classical_language', u'/wiki/Language', u'/wiki/Linguistic_system', u'/wiki/Ferdinand_de_Saussure', u'/wiki/Switzerland', u'/wiki/Sovereign_state', u'/wiki/International_law'] True
+/wiki/Little_Belt_Bridge_(1970) ['/wiki/Little_Belt_Bridge_(1970)', u'/wiki/Suspension_bridge', u'/wiki/Bridge', u'/wiki/Nonbuilding_structure'] True
+/wiki/Suspension_bridge ['/wiki/Little_Belt_Bridge_(1970)', u'/wiki/Suspension_bridge', u'/wiki/Bridge', u'/wiki/Nonbuilding_structure'] True
+/wiki/Bridge ['/wiki/Little_Belt_Bridge_(1970)', u'/wiki/Suspension_bridge', u'/wiki/Bridge', u'/wiki/Nonbuilding_structure'] True
+/wiki/Nonbuilding_structure ['/wiki/Little_Belt_Bridge_(1970)', u'/wiki/Suspension_bridge', u'/wiki/Bridge', u'/wiki/Nonbuilding_structure'] True
+/wiki/Ferry ['/wiki/Ferry', u'/wiki/Merchant_vessel', u'/wiki/Watercraft', u'/wiki/Vehicles', u'/wiki/Machine', u'/wiki/Mechanical_structure', u'/wiki/Civil_engineering', u'/wiki/Regulation_and_licensure_in_engineering', u'/wiki/Licensure', u'/wiki/License', u'/wiki/Intellectual_property', u'/wiki/Property', u'/wiki/Abstract_and_concrete', u'/wiki/Object_(philosophy)'] True
+/wiki/Merchant_vessel ['/wiki/Ferry', u'/wiki/Merchant_vessel', u'/wiki/Watercraft', u'/wiki/Vehicles', u'/wiki/Machine', u'/wiki/Mechanical_structure', u'/wiki/Civil_engineering', u'/wiki/Regulation_and_licensure_in_engineering', u'/wiki/Licensure', u'/wiki/License', u'/wiki/Intellectual_property', u'/wiki/Property', u'/wiki/Abstract_and_concrete', u'/wiki/Object_(philosophy)'] True
+/wiki/Watercraft ['/wiki/Ferry', u'/wiki/Merchant_vessel', u'/wiki/Watercraft', u'/wiki/Vehicles', u'/wiki/Machine', u'/wiki/Mechanical_structure', u'/wiki/Civil_engineering', u'/wiki/Regulation_and_licensure_in_engineering', u'/wiki/Licensure', u'/wiki/License', u'/wiki/Intellectual_property', u'/wiki/Property', u'/wiki/Abstract_and_concrete', u'/wiki/Object_(philosophy)'] True
+/wiki/Vehicles ['/wiki/Ferry', u'/wiki/Merchant_vessel', u'/wiki/Watercraft', u'/wiki/Vehicles', u'/wiki/Machine', u'/wiki/Mechanical_structure', u'/wiki/Civil_engineering', u'/wiki/Regulation_and_licensure_in_engineering', u'/wiki/Licensure', u'/wiki/License', u'/wiki/Intellectual_property', u'/wiki/Property', u'/wiki/Abstract_and_concrete', u'/wiki/Object_(philosophy)'] True
+/wiki/Machine ['/wiki/Ferry', u'/wiki/Merchant_vessel', u'/wiki/Watercraft', u'/wiki/Vehicles', u'/wiki/Machine', u'/wiki/Mechanical_structure', u'/wiki/Civil_engineering', u'/wiki/Regulation_and_licensure_in_engineering', u'/wiki/Licensure', u'/wiki/License', u'/wiki/Intellectual_property', u'/wiki/Property', u'/wiki/Abstract_and_concrete', u'/wiki/Object_(philosophy)'] True
+/wiki/Mechanical_structure ['/wiki/Ferry', u'/wiki/Merchant_vessel', u'/wiki/Watercraft', u'/wiki/Vehicles', u'/wiki/Machine', u'/wiki/Mechanical_structure', u'/wiki/Civil_engineering', u'/wiki/Regulation_and_licensure_in_engineering', u'/wiki/Licensure', u'/wiki/License', u'/wiki/Intellectual_property', u'/wiki/Property', u'/wiki/Abstract_and_concrete', u'/wiki/Object_(philosophy)'] True
+/wiki/Civil_engineering ['/wiki/Ferry', u'/wiki/Merchant_vessel', u'/wiki/Watercraft', u'/wiki/Vehicles', u'/wiki/Machine', u'/wiki/Mechanical_structure', u'/wiki/Civil_engineering', u'/wiki/Regulation_and_licensure_in_engineering', u'/wiki/Licensure', u'/wiki/License', u'/wiki/Intellectual_property', u'/wiki/Property', u'/wiki/Abstract_and_concrete', u'/wiki/Object_(philosophy)'] True
+/wiki/Regulation_and_licensure_in_engineering ['/wiki/Ferry', u'/wiki/Merchant_vessel', u'/wiki/Watercraft', u'/wiki/Vehicles', u'/wiki/Machine', u'/wiki/Mechanical_structure', u'/wiki/Civil_engineering', u'/wiki/Regulation_and_licensure_in_engineering', u'/wiki/Licensure', u'/wiki/License', u'/wiki/Intellectual_property', u'/wiki/Property', u'/wiki/Abstract_and_concrete', u'/wiki/Object_(philosophy)'] True
+/wiki/Licensure ['/wiki/Ferry', u'/wiki/Merchant_vessel', u'/wiki/Watercraft', u'/wiki/Vehicles', u'/wiki/Machine', u'/wiki/Mechanical_structure', u'/wiki/Civil_engineering', u'/wiki/Regulation_and_licensure_in_engineering', u'/wiki/Licensure', u'/wiki/License', u'/wiki/Intellectual_property', u'/wiki/Property', u'/wiki/Abstract_and_concrete', u'/wiki/Object_(philosophy)'] True
+/wiki/License ['/wiki/Ferry', u'/wiki/Merchant_vessel', u'/wiki/Watercraft', u'/wiki/Vehicles', u'/wiki/Machine', u'/wiki/Mechanical_structure', u'/wiki/Civil_engineering', u'/wiki/Regulation_and_licensure_in_engineering', u'/wiki/Licensure', u'/wiki/License', u'/wiki/Intellectual_property', u'/wiki/Property', u'/wiki/Abstract_and_concrete', u'/wiki/Object_(philosophy)'] True
+/wiki/Intellectual_property ['/wiki/Ferry', u'/wiki/Merchant_vessel', u'/wiki/Watercraft', u'/wiki/Vehicles', u'/wiki/Machine', u'/wiki/Mechanical_structure', u'/wiki/Civil_engineering', u'/wiki/Regulation_and_licensure_in_engineering', u'/wiki/Licensure', u'/wiki/License', u'/wiki/Intellectual_property', u'/wiki/Property', u'/wiki/Abstract_and_concrete', u'/wiki/Object_(philosophy)'] True
+/wiki/Property ['/wiki/Ferry', u'/wiki/Merchant_vessel', u'/wiki/Watercraft', u'/wiki/Vehicles', u'/wiki/Machine', u'/wiki/Mechanical_structure', u'/wiki/Civil_engineering', u'/wiki/Regulation_and_licensure_in_engineering', u'/wiki/Licensure', u'/wiki/License', u'/wiki/Intellectual_property', u'/wiki/Property', u'/wiki/Abstract_and_concrete', u'/wiki/Object_(philosophy)'] True
+/wiki/Abstract_and_concrete ['/wiki/Ferry', u'/wiki/Merchant_vessel', u'/wiki/Watercraft', u'/wiki/Vehicles', u'/wiki/Machine', u'/wiki/Mechanical_structure', u'/wiki/Civil_engineering', u'/wiki/Regulation_and_licensure_in_engineering', u'/wiki/Licensure', u'/wiki/License', u'/wiki/Intellectual_property', u'/wiki/Property', u'/wiki/Abstract_and_concrete', u'/wiki/Object_(philosophy)'] True
+/wiki/Object_(philosophy) ['/wiki/Ferry', u'/wiki/Merchant_vessel', u'/wiki/Watercraft', u'/wiki/Vehicles', u'/wiki/Machine', u'/wiki/Mechanical_structure', u'/wiki/Civil_engineering', u'/wiki/Regulation_and_licensure_in_engineering', u'/wiki/Licensure', u'/wiki/License', u'/wiki/Intellectual_property', u'/wiki/Property', u'/wiki/Abstract_and_concrete', u'/wiki/Object_(philosophy)'] True
+/wiki/Small_aircraft ['/wiki/Small_aircraft', u'/wiki/Aircraft', u'/wiki/Vehicle'] True
+/wiki/Aircraft ['/wiki/Small_aircraft', u'/wiki/Aircraft', u'/wiki/Vehicle'] True
+/wiki/Vehicle ['/wiki/Small_aircraft', u'/wiki/Aircraft', u'/wiki/Vehicle'] True
+/wiki/Aarhus ['/wiki/Aarhus', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Aarhus', u'/wiki/Denmark'] True
+/wiki/Aalborg ['/wiki/Aalborg', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Aalborg', u'/wiki/Denmark'] True
+/wiki/Odense ['/wiki/Odense', u'/wiki/List_of_cities_in_Denmark_by_population', u'/wiki/Denmark'] True
+/wiki/List_of_cities_in_Denmark_by_population ['/wiki/Odense', u'/wiki/List_of_cities_in_Denmark_by_population', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Odense', u'/wiki/List_of_cities_in_Denmark_by_population', u'/wiki/Denmark'] True
+/wiki/Square_kilometre ['/wiki/Square_kilometre', u'/wiki/Kilometre', u'/wiki/Units_of_measurement', u'/wiki/Magnitude_(mathematics)', u'/wiki/Mathematical_object', u'/wiki/Abstract_object', u'/wiki/Object_(philosophy)'] True
+/wiki/Kilometre ['/wiki/Square_kilometre', u'/wiki/Kilometre', u'/wiki/Units_of_measurement', u'/wiki/Magnitude_(mathematics)', u'/wiki/Mathematical_object', u'/wiki/Abstract_object', u'/wiki/Object_(philosophy)'] True
+/wiki/Units_of_measurement ['/wiki/Square_kilometre', u'/wiki/Kilometre', u'/wiki/Units_of_measurement', u'/wiki/Magnitude_(mathematics)', u'/wiki/Mathematical_object', u'/wiki/Abstract_object', u'/wiki/Object_(philosophy)'] True
+/wiki/Magnitude_(mathematics) ['/wiki/Square_kilometre', u'/wiki/Kilometre', u'/wiki/Units_of_measurement', u'/wiki/Magnitude_(mathematics)', u'/wiki/Mathematical_object', u'/wiki/Abstract_object', u'/wiki/Object_(philosophy)'] True
+/wiki/Mathematical_object ['/wiki/Square_kilometre', u'/wiki/Kilometre', u'/wiki/Units_of_measurement', u'/wiki/Magnitude_(mathematics)', u'/wiki/Mathematical_object', u'/wiki/Abstract_object', u'/wiki/Object_(philosophy)'] True
+/wiki/Abstract_object ['/wiki/Square_kilometre', u'/wiki/Kilometre', u'/wiki/Units_of_measurement', u'/wiki/Magnitude_(mathematics)', u'/wiki/Mathematical_object', u'/wiki/Abstract_object', u'/wiki/Object_(philosophy)'] True
+/wiki/Object_(philosophy) ['/wiki/Square_kilometre', u'/wiki/Kilometre', u'/wiki/Units_of_measurement', u'/wiki/Magnitude_(mathematics)', u'/wiki/Mathematical_object', u'/wiki/Abstract_object', u'/wiki/Object_(philosophy)'] True
+/wiki/Arres%C3%B8 ['/wiki/Arres%C3%B8', u'/wiki/Lake', u'/wiki/Depression_(geology)', u'/wiki/Geology', u'/wiki/Earth_science', u'/wiki/Natural_science', u'/wiki/Branches_of_science', u'/wiki/Science'] True
+/wiki/Lake ['/wiki/Arres%C3%B8', u'/wiki/Lake', u'/wiki/Depression_(geology)', u'/wiki/Geology', u'/wiki/Earth_science', u'/wiki/Natural_science', u'/wiki/Branches_of_science', u'/wiki/Science'] True
+/wiki/Depression_(geology) ['/wiki/Arres%C3%B8', u'/wiki/Lake', u'/wiki/Depression_(geology)', u'/wiki/Geology', u'/wiki/Earth_science', u'/wiki/Natural_science', u'/wiki/Branches_of_science', u'/wiki/Science'] True
+/wiki/Geology ['/wiki/Arres%C3%B8', u'/wiki/Lake', u'/wiki/Depression_(geology)', u'/wiki/Geology', u'/wiki/Earth_science', u'/wiki/Natural_science', u'/wiki/Branches_of_science', u'/wiki/Science'] True
+/wiki/Earth_science ['/wiki/Arres%C3%B8', u'/wiki/Lake', u'/wiki/Depression_(geology)', u'/wiki/Geology', u'/wiki/Earth_science', u'/wiki/Natural_science', u'/wiki/Branches_of_science', u'/wiki/Science'] True
+/wiki/Natural_science ['/wiki/Arres%C3%B8', u'/wiki/Lake', u'/wiki/Depression_(geology)', u'/wiki/Geology', u'/wiki/Earth_science', u'/wiki/Natural_science', u'/wiki/Branches_of_science', u'/wiki/Science'] True
+/wiki/Branches_of_science ['/wiki/Arres%C3%B8', u'/wiki/Lake', u'/wiki/Depression_(geology)', u'/wiki/Geology', u'/wiki/Earth_science', u'/wiki/Natural_science', u'/wiki/Branches_of_science', u'/wiki/Science'] True
+/wiki/Science ['/wiki/Arres%C3%B8', u'/wiki/Lake', u'/wiki/Depression_(geology)', u'/wiki/Geology', u'/wiki/Earth_science', u'/wiki/Natural_science', u'/wiki/Branches_of_science', u'/wiki/Science'] True
+/wiki/Circumference ['/wiki/Circumference', u'/wiki/Geometry', u'/wiki/Mathematics', u'/wiki/Quantity', u'/wiki/Counting', u'/wiki/Number', u'/wiki/Mathematical_object'] True
+/wiki/Geometry ['/wiki/Circumference', u'/wiki/Geometry', u'/wiki/Mathematics', u'/wiki/Quantity', u'/wiki/Counting', u'/wiki/Number', u'/wiki/Mathematical_object'] True
+/wiki/Mathematics ['/wiki/Circumference', u'/wiki/Geometry', u'/wiki/Mathematics', u'/wiki/Quantity', u'/wiki/Counting', u'/wiki/Number', u'/wiki/Mathematical_object'] True
+/wiki/Quantity ['/wiki/Circumference', u'/wiki/Geometry', u'/wiki/Mathematics', u'/wiki/Quantity', u'/wiki/Counting', u'/wiki/Number', u'/wiki/Mathematical_object'] True
+/wiki/Counting ['/wiki/Circumference', u'/wiki/Geometry', u'/wiki/Mathematics', u'/wiki/Quantity', u'/wiki/Counting', u'/wiki/Number', u'/wiki/Mathematical_object'] True
+/wiki/Number ['/wiki/Circumference', u'/wiki/Geometry', u'/wiki/Mathematics', u'/wiki/Quantity', u'/wiki/Counting', u'/wiki/Number', u'/wiki/Mathematical_object'] True
+/wiki/Mathematical_object ['/wiki/Circumference', u'/wiki/Geometry', u'/wiki/Mathematics', u'/wiki/Quantity', u'/wiki/Counting', u'/wiki/Number', u'/wiki/Mathematical_object'] True
+/wiki/Shoreline ['/wiki/Shoreline', u'/wiki/Body_of_water', u'/wiki/Water'] True
+/wiki/Body_of_water ['/wiki/Shoreline', u'/wiki/Body_of_water', u'/wiki/Water'] True
+/wiki/Water ['/wiki/Shoreline', u'/wiki/Body_of_water', u'/wiki/Water'] True
+/wiki/Bay ['/wiki/Bay', u'/wiki/Coastal', u'/wiki/Sea', u'/wiki/Body_of_water'] True
+/wiki/Coastal ['/wiki/Bay', u'/wiki/Coastal', u'/wiki/Sea', u'/wiki/Body_of_water'] True
+/wiki/Sea ['/wiki/Bay', u'/wiki/Coastal', u'/wiki/Sea', u'/wiki/Body_of_water'] True
+/wiki/Body_of_water ['/wiki/Bay', u'/wiki/Coastal', u'/wiki/Sea', u'/wiki/Body_of_water'] True
+/wiki/Skagen ['/wiki/Skagen', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Skagen', u'/wiki/Denmark'] True
+/wiki/Gedser ['/wiki/Gedser', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Gedser', u'/wiki/Denmark'] True
+/wiki/Falster ['/wiki/Falster', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Falster', u'/wiki/Denmark'] True
+/wiki/Bl%C3%A5vandshuk ['/wiki/Bl%C3%A5vandshuk', u'/wiki/North_Sea', u'/wiki/Marginal_sea', u'/wiki/World_Ocean', u'/wiki/Earth'] True
+/wiki/North_Sea ['/wiki/Bl%C3%A5vandshuk', u'/wiki/North_Sea', u'/wiki/Marginal_sea', u'/wiki/World_Ocean', u'/wiki/Earth'] True
+/wiki/Marginal_sea ['/wiki/Bl%C3%A5vandshuk', u'/wiki/North_Sea', u'/wiki/Marginal_sea', u'/wiki/World_Ocean', u'/wiki/Earth'] True
+/wiki/World_Ocean ['/wiki/Bl%C3%A5vandshuk', u'/wiki/North_Sea', u'/wiki/Marginal_sea', u'/wiki/World_Ocean', u'/wiki/Earth'] True
+/wiki/Earth ['/wiki/Bl%C3%A5vandshuk', u'/wiki/North_Sea', u'/wiki/Marginal_sea', u'/wiki/World_Ocean', u'/wiki/Earth'] True
+/wiki/%C3%98stersk%C3%A6r ['/wiki/%C3%98stersk%C3%A6r', u'/wiki/Skerry', u'/wiki/Island', u'/wiki/Continent', u'/wiki/Landmass', u'/wiki/Land', u'/wiki/Earth'] True
+/wiki/Skerry ['/wiki/%C3%98stersk%C3%A6r', u'/wiki/Skerry', u'/wiki/Island', u'/wiki/Continent', u'/wiki/Landmass', u'/wiki/Land', u'/wiki/Earth'] True
+/wiki/Island ['/wiki/%C3%98stersk%C3%A6r', u'/wiki/Skerry', u'/wiki/Island', u'/wiki/Continent', u'/wiki/Landmass', u'/wiki/Land', u'/wiki/Earth'] True
+/wiki/Continent ['/wiki/%C3%98stersk%C3%A6r', u'/wiki/Skerry', u'/wiki/Island', u'/wiki/Continent', u'/wiki/Landmass', u'/wiki/Land', u'/wiki/Earth'] True
+/wiki/Landmass ['/wiki/%C3%98stersk%C3%A6r', u'/wiki/Skerry', u'/wiki/Island', u'/wiki/Continent', u'/wiki/Landmass', u'/wiki/Land', u'/wiki/Earth'] True
+/wiki/Land ['/wiki/%C3%98stersk%C3%A6r', u'/wiki/Skerry', u'/wiki/Island', u'/wiki/Continent', u'/wiki/Landmass', u'/wiki/Land', u'/wiki/Earth'] True
+/wiki/Earth ['/wiki/%C3%98stersk%C3%A6r', u'/wiki/Skerry', u'/wiki/Island', u'/wiki/Continent', u'/wiki/Landmass', u'/wiki/Land', u'/wiki/Earth'] True
+/wiki/Ertholmene ['/wiki/Ertholmene', u'/wiki/Gudhjem', u'/wiki/Baltic_Sea', u'/wiki/Marginal_sea'] True
+/wiki/Gudhjem ['/wiki/Ertholmene', u'/wiki/Gudhjem', u'/wiki/Baltic_Sea', u'/wiki/Marginal_sea'] True
+/wiki/Baltic_Sea ['/wiki/Ertholmene', u'/wiki/Gudhjem', u'/wiki/Baltic_Sea', u'/wiki/Marginal_sea'] True
+/wiki/Marginal_sea ['/wiki/Ertholmene', u'/wiki/Gudhjem', u'/wiki/Baltic_Sea', u'/wiki/Marginal_sea'] True
+/wiki/M%C3%B8lleh%C3%B8j ['/wiki/M%C3%B8lleh%C3%B8j', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/M%C3%B8lleh%C3%B8j', u'/wiki/Denmark'] True
+/wiki/Terrain ['/wiki/Terrain', u'/wiki/Land'] True
+/wiki/Land ['/wiki/Terrain', u'/wiki/Land'] True
+/wiki/Dune ['/wiki/Dune', u'/wiki/Physical_geography', u'/wiki/Geography'] True
+/wiki/Physical_geography ['/wiki/Dune', u'/wiki/Physical_geography', u'/wiki/Geography'] True
+/wiki/Geography ['/wiki/Dune', u'/wiki/Physical_geography', u'/wiki/Geography'] True
+/wiki/List_of_rivers_of_Denmark ['/wiki/List_of_rivers_of_Denmark', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/List_of_rivers_of_Denmark', u'/wiki/Denmark'] True
+/wiki/Guden%C3%A5 ['/wiki/Guden%C3%A5', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Guden%C3%A5', u'/wiki/Denmark'] True
+/wiki/Skjern_River ['/wiki/Skjern_River', u'/wiki/Spring_(hydrology)', u'/wiki/Aquifer', u'/wiki/Water'] True
+/wiki/Spring_(hydrology) ['/wiki/Skjern_River', u'/wiki/Spring_(hydrology)', u'/wiki/Aquifer', u'/wiki/Water'] True
+/wiki/Aquifer ['/wiki/Skjern_River', u'/wiki/Spring_(hydrology)', u'/wiki/Aquifer', u'/wiki/Water'] True
+/wiki/Water ['/wiki/Skjern_River', u'/wiki/Spring_(hydrology)', u'/wiki/Aquifer', u'/wiki/Water'] True
+/wiki/Sus%C3%A5_River ['/wiki/Sus%C3%A5_River', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Sus%C3%A5_River', u'/wiki/Denmark'] True
+/wiki/Vid%C3%A5 ['/wiki/Vid%C3%A5', u'/wiki/Jutland', u'/wiki/Northern_Europe', u'/wiki/Geography'] True
+/wiki/Jutland ['/wiki/Vid%C3%A5', u'/wiki/Jutland', u'/wiki/Northern_Europe', u'/wiki/Geography'] True
+/wiki/Northern_Europe ['/wiki/Vid%C3%A5', u'/wiki/Jutland', u'/wiki/Northern_Europe', u'/wiki/Geography'] True
+/wiki/Geography ['/wiki/Vid%C3%A5', u'/wiki/Jutland', u'/wiki/Northern_Europe', u'/wiki/Geography'] True
+/wiki/List_of_islands_by_area ['/wiki/List_of_islands_by_area', u'/wiki/Island'] True
+/wiki/Island ['/wiki/List_of_islands_by_area', u'/wiki/Island'] True
+/wiki/Daylight_saving_time ['/wiki/Daylight_saving_time', u'/wiki/George_Hudson_(entomologist)', u'/wiki/United_Kingdom', u'/wiki/Sovereign_country', u'/wiki/International_law'] True
+/wiki/George_Hudson_(entomologist) ['/wiki/Daylight_saving_time', u'/wiki/George_Hudson_(entomologist)', u'/wiki/United_Kingdom', u'/wiki/Sovereign_country', u'/wiki/International_law'] True
+/wiki/United_Kingdom ['/wiki/Daylight_saving_time', u'/wiki/George_Hudson_(entomologist)', u'/wiki/United_Kingdom', u'/wiki/Sovereign_country', u'/wiki/International_law'] True
+/wiki/Sovereign_country ['/wiki/Daylight_saving_time', u'/wiki/George_Hudson_(entomologist)', u'/wiki/United_Kingdom', u'/wiki/Sovereign_country', u'/wiki/International_law'] True
+/wiki/International_law ['/wiki/Daylight_saving_time', u'/wiki/George_Hudson_(entomologist)', u'/wiki/United_Kingdom', u'/wiki/Sovereign_country', u'/wiki/International_law'] True
+/wiki/Primeval_forest ['/wiki/Primeval_forest', u'/wiki/Forest', u'/wiki/Tree', u'/wiki/Botany', u'/wiki/Science'] True
+/wiki/Forest ['/wiki/Primeval_forest', u'/wiki/Forest', u'/wiki/Tree', u'/wiki/Botany', u'/wiki/Science'] True
+/wiki/Tree ['/wiki/Primeval_forest', u'/wiki/Forest', u'/wiki/Tree', u'/wiki/Botany', u'/wiki/Science'] True
+/wiki/Botany ['/wiki/Primeval_forest', u'/wiki/Forest', u'/wiki/Tree', u'/wiki/Botany', u'/wiki/Science'] True
+/wiki/Science ['/wiki/Primeval_forest', u'/wiki/Forest', u'/wiki/Tree', u'/wiki/Botany', u'/wiki/Science'] True
+/wiki/Heathland ['/wiki/Heathland', u'/wiki/Shrubland', u'/wiki/Plant_community', u'/wiki/Association_(ecology)', u'/wiki/Phytosociology', u'/wiki/Plant_communities', u'/wiki/Association_(ecology)'] False
+/wiki/Shrubland ['/wiki/Heathland', u'/wiki/Shrubland', u'/wiki/Plant_community', u'/wiki/Association_(ecology)', u'/wiki/Phytosociology', u'/wiki/Plant_communities', u'/wiki/Association_(ecology)'] False
+/wiki/Plant_community ['/wiki/Heathland', u'/wiki/Shrubland', u'/wiki/Plant_community', u'/wiki/Association_(ecology)', u'/wiki/Phytosociology', u'/wiki/Plant_communities', u'/wiki/Association_(ecology)'] False
+/wiki/Association_(ecology) ['/wiki/Heathland', u'/wiki/Shrubland', u'/wiki/Plant_community', u'/wiki/Association_(ecology)', u'/wiki/Phytosociology', u'/wiki/Plant_communities', u'/wiki/Association_(ecology)'] False
+/wiki/Phytosociology ['/wiki/Heathland', u'/wiki/Shrubland', u'/wiki/Plant_community', u'/wiki/Association_(ecology)', u'/wiki/Phytosociology', u'/wiki/Plant_communities', u'/wiki/Association_(ecology)'] False
+/wiki/Plant_communities ['/wiki/Heathland', u'/wiki/Shrubland', u'/wiki/Plant_community', u'/wiki/Association_(ecology)', u'/wiki/Phytosociology', u'/wiki/Plant_communities', u'/wiki/Association_(ecology)'] False
+/wiki/Association_(ecology) ['/wiki/Heathland', u'/wiki/Shrubland', u'/wiki/Plant_community', u'/wiki/Association_(ecology)', u'/wiki/Phytosociology', u'/wiki/Plant_communities', u'/wiki/Association_(ecology)'] False
+/wiki/Second_growth_forest ['/wiki/Second_growth_forest', u'/wiki/Forest'] True
+/wiki/Forest ['/wiki/Second_growth_forest', u'/wiki/Forest'] True
+/wiki/Picea_abies ['/wiki/Picea_abies', u'/wiki/Spruce', u'/wiki/Tree'] True
+/wiki/Spruce ['/wiki/Picea_abies', u'/wiki/Spruce', u'/wiki/Tree'] True
+/wiki/Tree ['/wiki/Picea_abies', u'/wiki/Spruce', u'/wiki/Tree'] True
+/wiki/Roe_deer ['/wiki/Roe_deer', u'/wiki/Deer', u'/wiki/Hoof', u'/wiki/Toe', u'/wiki/Digit_(anatomy)', u'/wiki/Limb_(anatomy)', u'/wiki/Prehensile', u'/wiki/Appendage', u'/wiki/Invertebrate', u'/wiki/Animal', u'/wiki/Multicellular', u'/wiki/Organism', u'/wiki/Biology', u'/wiki/Natural_science'] True
+/wiki/Deer ['/wiki/Roe_deer', u'/wiki/Deer', u'/wiki/Hoof', u'/wiki/Toe', u'/wiki/Digit_(anatomy)', u'/wiki/Limb_(anatomy)', u'/wiki/Prehensile', u'/wiki/Appendage', u'/wiki/Invertebrate', u'/wiki/Animal', u'/wiki/Multicellular', u'/wiki/Organism', u'/wiki/Biology', u'/wiki/Natural_science'] True
+/wiki/Hoof ['/wiki/Roe_deer', u'/wiki/Deer', u'/wiki/Hoof', u'/wiki/Toe', u'/wiki/Digit_(anatomy)', u'/wiki/Limb_(anatomy)', u'/wiki/Prehensile', u'/wiki/Appendage', u'/wiki/Invertebrate', u'/wiki/Animal', u'/wiki/Multicellular', u'/wiki/Organism', u'/wiki/Biology', u'/wiki/Natural_science'] True
+/wiki/Toe ['/wiki/Roe_deer', u'/wiki/Deer', u'/wiki/Hoof', u'/wiki/Toe', u'/wiki/Digit_(anatomy)', u'/wiki/Limb_(anatomy)', u'/wiki/Prehensile', u'/wiki/Appendage', u'/wiki/Invertebrate', u'/wiki/Animal', u'/wiki/Multicellular', u'/wiki/Organism', u'/wiki/Biology', u'/wiki/Natural_science'] True
+/wiki/Digit_(anatomy) ['/wiki/Roe_deer', u'/wiki/Deer', u'/wiki/Hoof', u'/wiki/Toe', u'/wiki/Digit_(anatomy)', u'/wiki/Limb_(anatomy)', u'/wiki/Prehensile', u'/wiki/Appendage', u'/wiki/Invertebrate', u'/wiki/Animal', u'/wiki/Multicellular', u'/wiki/Organism', u'/wiki/Biology', u'/wiki/Natural_science'] True
+/wiki/Limb_(anatomy) ['/wiki/Roe_deer', u'/wiki/Deer', u'/wiki/Hoof', u'/wiki/Toe', u'/wiki/Digit_(anatomy)', u'/wiki/Limb_(anatomy)', u'/wiki/Prehensile', u'/wiki/Appendage', u'/wiki/Invertebrate', u'/wiki/Animal', u'/wiki/Multicellular', u'/wiki/Organism', u'/wiki/Biology', u'/wiki/Natural_science'] True
+/wiki/Prehensile ['/wiki/Roe_deer', u'/wiki/Deer', u'/wiki/Hoof', u'/wiki/Toe', u'/wiki/Digit_(anatomy)', u'/wiki/Limb_(anatomy)', u'/wiki/Prehensile', u'/wiki/Appendage', u'/wiki/Invertebrate', u'/wiki/Animal', u'/wiki/Multicellular', u'/wiki/Organism', u'/wiki/Biology', u'/wiki/Natural_science'] True
+/wiki/Appendage ['/wiki/Roe_deer', u'/wiki/Deer', u'/wiki/Hoof', u'/wiki/Toe', u'/wiki/Digit_(anatomy)', u'/wiki/Limb_(anatomy)', u'/wiki/Prehensile', u'/wiki/Appendage', u'/wiki/Invertebrate', u'/wiki/Animal', u'/wiki/Multicellular', u'/wiki/Organism', u'/wiki/Biology', u'/wiki/Natural_science'] True
+/wiki/Invertebrate ['/wiki/Roe_deer', u'/wiki/Deer', u'/wiki/Hoof', u'/wiki/Toe', u'/wiki/Digit_(anatomy)', u'/wiki/Limb_(anatomy)', u'/wiki/Prehensile', u'/wiki/Appendage', u'/wiki/Invertebrate', u'/wiki/Animal', u'/wiki/Multicellular', u'/wiki/Organism', u'/wiki/Biology', u'/wiki/Natural_science'] True
+/wiki/Animal ['/wiki/Roe_deer', u'/wiki/Deer', u'/wiki/Hoof', u'/wiki/Toe', u'/wiki/Digit_(anatomy)', u'/wiki/Limb_(anatomy)', u'/wiki/Prehensile', u'/wiki/Appendage', u'/wiki/Invertebrate', u'/wiki/Animal', u'/wiki/Multicellular', u'/wiki/Organism', u'/wiki/Biology', u'/wiki/Natural_science'] True
+/wiki/Multicellular ['/wiki/Roe_deer', u'/wiki/Deer', u'/wiki/Hoof', u'/wiki/Toe', u'/wiki/Digit_(anatomy)', u'/wiki/Limb_(anatomy)', u'/wiki/Prehensile', u'/wiki/Appendage', u'/wiki/Invertebrate', u'/wiki/Animal', u'/wiki/Multicellular', u'/wiki/Organism', u'/wiki/Biology', u'/wiki/Natural_science'] True
+/wiki/Organism ['/wiki/Roe_deer', u'/wiki/Deer', u'/wiki/Hoof', u'/wiki/Toe', u'/wiki/Digit_(anatomy)', u'/wiki/Limb_(anatomy)', u'/wiki/Prehensile', u'/wiki/Appendage', u'/wiki/Invertebrate', u'/wiki/Animal', u'/wiki/Multicellular', u'/wiki/Organism', u'/wiki/Biology', u'/wiki/Natural_science'] True
+/wiki/Biology ['/wiki/Roe_deer', u'/wiki/Deer', u'/wiki/Hoof', u'/wiki/Toe', u'/wiki/Digit_(anatomy)', u'/wiki/Limb_(anatomy)', u'/wiki/Prehensile', u'/wiki/Appendage', u'/wiki/Invertebrate', u'/wiki/Animal', u'/wiki/Multicellular', u'/wiki/Organism', u'/wiki/Biology', u'/wiki/Natural_science'] True
+/wiki/Natural_science ['/wiki/Roe_deer', u'/wiki/Deer', u'/wiki/Hoof', u'/wiki/Toe', u'/wiki/Digit_(anatomy)', u'/wiki/Limb_(anatomy)', u'/wiki/Prehensile', u'/wiki/Appendage', u'/wiki/Invertebrate', u'/wiki/Animal', u'/wiki/Multicellular', u'/wiki/Organism', u'/wiki/Biology', u'/wiki/Natural_science'] True
+/wiki/Red_deer ['/wiki/Red_deer', u'/wiki/Deer'] True
+/wiki/Deer ['/wiki/Red_deer', u'/wiki/Deer'] True
+/wiki/Hedgehog ['/wiki/Hedgehog', u'/wiki/Eulipotyphla', u'/wiki/Order_(biology)', u'/wiki/Biological_classification', u'/wiki/Biology'] True
+/wiki/Eulipotyphla ['/wiki/Hedgehog', u'/wiki/Eulipotyphla', u'/wiki/Order_(biology)', u'/wiki/Biological_classification', u'/wiki/Biology'] True
+/wiki/Order_(biology) ['/wiki/Hedgehog', u'/wiki/Eulipotyphla', u'/wiki/Order_(biology)', u'/wiki/Biological_classification', u'/wiki/Biology'] True
+/wiki/Biological_classification ['/wiki/Hedgehog', u'/wiki/Eulipotyphla', u'/wiki/Order_(biology)', u'/wiki/Biological_classification', u'/wiki/Biology'] True
+/wiki/Biology ['/wiki/Hedgehog', u'/wiki/Eulipotyphla', u'/wiki/Order_(biology)', u'/wiki/Biological_classification', u'/wiki/Biology'] True
+/wiki/Harbour_porpoise ['/wiki/Harbour_porpoise', u'/wiki/Species', u'/wiki/Biology'] True
+/wiki/Species ['/wiki/Harbour_porpoise', u'/wiki/Species', u'/wiki/Biology'] True
+/wiki/Biology ['/wiki/Harbour_porpoise', u'/wiki/Species', u'/wiki/Biology'] True
+/wiki/Pinniped ['/wiki/Pinniped', u'/wiki/Range_(biology)', u'/wiki/Taxon', u'/wiki/Biology'] True
+/wiki/Range_(biology) ['/wiki/Pinniped', u'/wiki/Range_(biology)', u'/wiki/Taxon', u'/wiki/Biology'] True
+/wiki/Taxon ['/wiki/Pinniped', u'/wiki/Range_(biology)', u'/wiki/Taxon', u'/wiki/Biology'] True
+/wiki/Biology ['/wiki/Pinniped', u'/wiki/Range_(biology)', u'/wiki/Taxon', u'/wiki/Biology'] True
+/wiki/Blue_whale ['/wiki/Blue_whale', u'/wiki/Marine_mammal', u'/wiki/Aquatic_mammals', u'/wiki/Mammal', u'/wiki/Vertebrate', u'/wiki/Animal'] True
+/wiki/Marine_mammal ['/wiki/Blue_whale', u'/wiki/Marine_mammal', u'/wiki/Aquatic_mammals', u'/wiki/Mammal', u'/wiki/Vertebrate', u'/wiki/Animal'] True
+/wiki/Aquatic_mammals ['/wiki/Blue_whale', u'/wiki/Marine_mammal', u'/wiki/Aquatic_mammals', u'/wiki/Mammal', u'/wiki/Vertebrate', u'/wiki/Animal'] True
+/wiki/Mammal ['/wiki/Blue_whale', u'/wiki/Marine_mammal', u'/wiki/Aquatic_mammals', u'/wiki/Mammal', u'/wiki/Vertebrate', u'/wiki/Animal'] True
+/wiki/Vertebrate ['/wiki/Blue_whale', u'/wiki/Marine_mammal', u'/wiki/Aquatic_mammals', u'/wiki/Mammal', u'/wiki/Vertebrate', u'/wiki/Animal'] True
+/wiki/Animal ['/wiki/Blue_whale', u'/wiki/Marine_mammal', u'/wiki/Aquatic_mammals', u'/wiki/Mammal', u'/wiki/Vertebrate', u'/wiki/Animal'] True
+/wiki/Orca ['/wiki/Orca', u'/wiki/Toothed_whale', u'/wiki/Parvorder', u'/wiki/Biological_classification'] True
+/wiki/Toothed_whale ['/wiki/Orca', u'/wiki/Toothed_whale', u'/wiki/Parvorder', u'/wiki/Biological_classification'] True
+/wiki/Parvorder ['/wiki/Orca', u'/wiki/Toothed_whale', u'/wiki/Parvorder', u'/wiki/Biological_classification'] True
+/wiki/Biological_classification ['/wiki/Orca', u'/wiki/Toothed_whale', u'/wiki/Parvorder', u'/wiki/Biological_classification'] True
+/wiki/Plaice ['/wiki/Plaice', u'/wiki/Flatfish', u'/wiki/Order_(biology)'] True
+/wiki/Flatfish ['/wiki/Plaice', u'/wiki/Flatfish', u'/wiki/Order_(biology)'] True
+/wiki/Order_(biology) ['/wiki/Plaice', u'/wiki/Flatfish', u'/wiki/Order_(biology)'] True
+/wiki/Environmental_preservation ['/wiki/Environmental_preservation', u'/wiki/Philosophy_of_life', u'/wiki/Philosophy'] True
+/wiki/Philosophy_of_life ['/wiki/Environmental_preservation', u'/wiki/Philosophy_of_life', u'/wiki/Philosophy'] True
+/wiki/Philosophy ['/wiki/Environmental_preservation', u'/wiki/Philosophy_of_life', u'/wiki/Philosophy'] True
+/wiki/Ministry_of_Environment_(Denmark) ['/wiki/Ministry_of_Environment_(Denmark)', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Ministry_of_Environment_(Denmark)', u'/wiki/Denmark'] True
+/wiki/Environmental_law ['/wiki/Environmental_law', u'/wiki/Pollution', u'/wiki/Contaminant', u'/wiki/Impurity', u'/wiki/Chemical_substance', u'/wiki/Matter', u'/wiki/Classical_physics', u'/wiki/Physics', u'/wiki/Natural_science'] True
+/wiki/Pollution ['/wiki/Environmental_law', u'/wiki/Pollution', u'/wiki/Contaminant', u'/wiki/Impurity', u'/wiki/Chemical_substance', u'/wiki/Matter', u'/wiki/Classical_physics', u'/wiki/Physics', u'/wiki/Natural_science'] True
+/wiki/Contaminant ['/wiki/Environmental_law', u'/wiki/Pollution', u'/wiki/Contaminant', u'/wiki/Impurity', u'/wiki/Chemical_substance', u'/wiki/Matter', u'/wiki/Classical_physics', u'/wiki/Physics', u'/wiki/Natural_science'] True
+/wiki/Impurity ['/wiki/Environmental_law', u'/wiki/Pollution', u'/wiki/Contaminant', u'/wiki/Impurity', u'/wiki/Chemical_substance', u'/wiki/Matter', u'/wiki/Classical_physics', u'/wiki/Physics', u'/wiki/Natural_science'] True
+/wiki/Chemical_substance ['/wiki/Environmental_law', u'/wiki/Pollution', u'/wiki/Contaminant', u'/wiki/Impurity', u'/wiki/Chemical_substance', u'/wiki/Matter', u'/wiki/Classical_physics', u'/wiki/Physics', u'/wiki/Natural_science'] True
+/wiki/Matter ['/wiki/Environmental_law', u'/wiki/Pollution', u'/wiki/Contaminant', u'/wiki/Impurity', u'/wiki/Chemical_substance', u'/wiki/Matter', u'/wiki/Classical_physics', u'/wiki/Physics', u'/wiki/Natural_science'] True
+/wiki/Classical_physics ['/wiki/Environmental_law', u'/wiki/Pollution', u'/wiki/Contaminant', u'/wiki/Impurity', u'/wiki/Chemical_substance', u'/wiki/Matter', u'/wiki/Classical_physics', u'/wiki/Physics', u'/wiki/Natural_science'] True
+/wiki/Physics ['/wiki/Environmental_law', u'/wiki/Pollution', u'/wiki/Contaminant', u'/wiki/Impurity', u'/wiki/Chemical_substance', u'/wiki/Matter', u'/wiki/Classical_physics', u'/wiki/Physics', u'/wiki/Natural_science'] True
+/wiki/Natural_science ['/wiki/Environmental_law', u'/wiki/Pollution', u'/wiki/Contaminant', u'/wiki/Impurity', u'/wiki/Chemical_substance', u'/wiki/Matter', u'/wiki/Classical_physics', u'/wiki/Physics', u'/wiki/Natural_science'] True
+/wiki/Global_warming ['/wiki/Global_warming', u'/wiki/Earth'] True
+/wiki/Earth ['/wiki/Global_warming', u'/wiki/Earth'] True
+/wiki/Ecological_footprint ['/wiki/Ecological_footprint', u'/wiki/Ecological_accounting', u'/wiki/Accountancy', u'/wiki/Measurement', u'/wiki/Natural_science'] True
+/wiki/Ecological_accounting ['/wiki/Ecological_footprint', u'/wiki/Ecological_accounting', u'/wiki/Accountancy', u'/wiki/Measurement', u'/wiki/Natural_science'] True
+/wiki/Accountancy ['/wiki/Ecological_footprint', u'/wiki/Ecological_accounting', u'/wiki/Accountancy', u'/wiki/Measurement', u'/wiki/Natural_science'] True
+/wiki/Measurement ['/wiki/Ecological_footprint', u'/wiki/Ecological_accounting', u'/wiki/Accountancy', u'/wiki/Measurement', u'/wiki/Natural_science'] True
+/wiki/Natural_science ['/wiki/Ecological_footprint', u'/wiki/Ecological_accounting', u'/wiki/Accountancy', u'/wiki/Measurement', u'/wiki/Natural_science'] True
+/wiki/Efficient_energy_use ['/wiki/Efficient_energy_use', u'/wiki/Building_insulation', u'/wiki/Thermal_insulation', u'/wiki/Heat_transfer', u'/wiki/Thermal_engineering', u'/wiki/Mechanical_engineering', u'/wiki/Engineering', u'/wiki/Scientific_method', u'/wiki/Empirical', u'/wiki/Information', u'/wiki/Uncertainty', u'/wiki/Epistemic', u'/wiki/Philosophy'] True
+/wiki/Building_insulation ['/wiki/Efficient_energy_use', u'/wiki/Building_insulation', u'/wiki/Thermal_insulation', u'/wiki/Heat_transfer', u'/wiki/Thermal_engineering', u'/wiki/Mechanical_engineering', u'/wiki/Engineering', u'/wiki/Scientific_method', u'/wiki/Empirical', u'/wiki/Information', u'/wiki/Uncertainty', u'/wiki/Epistemic', u'/wiki/Philosophy'] True
+/wiki/Thermal_insulation ['/wiki/Efficient_energy_use', u'/wiki/Building_insulation', u'/wiki/Thermal_insulation', u'/wiki/Heat_transfer', u'/wiki/Thermal_engineering', u'/wiki/Mechanical_engineering', u'/wiki/Engineering', u'/wiki/Scientific_method', u'/wiki/Empirical', u'/wiki/Information', u'/wiki/Uncertainty', u'/wiki/Epistemic', u'/wiki/Philosophy'] True
+/wiki/Heat_transfer ['/wiki/Efficient_energy_use', u'/wiki/Building_insulation', u'/wiki/Thermal_insulation', u'/wiki/Heat_transfer', u'/wiki/Thermal_engineering', u'/wiki/Mechanical_engineering', u'/wiki/Engineering', u'/wiki/Scientific_method', u'/wiki/Empirical', u'/wiki/Information', u'/wiki/Uncertainty', u'/wiki/Epistemic', u'/wiki/Philosophy'] True
+/wiki/Thermal_engineering ['/wiki/Efficient_energy_use', u'/wiki/Building_insulation', u'/wiki/Thermal_insulation', u'/wiki/Heat_transfer', u'/wiki/Thermal_engineering', u'/wiki/Mechanical_engineering', u'/wiki/Engineering', u'/wiki/Scientific_method', u'/wiki/Empirical', u'/wiki/Information', u'/wiki/Uncertainty', u'/wiki/Epistemic', u'/wiki/Philosophy'] True
+/wiki/Mechanical_engineering ['/wiki/Efficient_energy_use', u'/wiki/Building_insulation', u'/wiki/Thermal_insulation', u'/wiki/Heat_transfer', u'/wiki/Thermal_engineering', u'/wiki/Mechanical_engineering', u'/wiki/Engineering', u'/wiki/Scientific_method', u'/wiki/Empirical', u'/wiki/Information', u'/wiki/Uncertainty', u'/wiki/Epistemic', u'/wiki/Philosophy'] True
+/wiki/Engineering ['/wiki/Efficient_energy_use', u'/wiki/Building_insulation', u'/wiki/Thermal_insulation', u'/wiki/Heat_transfer', u'/wiki/Thermal_engineering', u'/wiki/Mechanical_engineering', u'/wiki/Engineering', u'/wiki/Scientific_method', u'/wiki/Empirical', u'/wiki/Information', u'/wiki/Uncertainty', u'/wiki/Epistemic', u'/wiki/Philosophy'] True
+/wiki/Scientific_method ['/wiki/Efficient_energy_use', u'/wiki/Building_insulation', u'/wiki/Thermal_insulation', u'/wiki/Heat_transfer', u'/wiki/Thermal_engineering', u'/wiki/Mechanical_engineering', u'/wiki/Engineering', u'/wiki/Scientific_method', u'/wiki/Empirical', u'/wiki/Information', u'/wiki/Uncertainty', u'/wiki/Epistemic', u'/wiki/Philosophy'] True
+/wiki/Empirical ['/wiki/Efficient_energy_use', u'/wiki/Building_insulation', u'/wiki/Thermal_insulation', u'/wiki/Heat_transfer', u'/wiki/Thermal_engineering', u'/wiki/Mechanical_engineering', u'/wiki/Engineering', u'/wiki/Scientific_method', u'/wiki/Empirical', u'/wiki/Information', u'/wiki/Uncertainty', u'/wiki/Epistemic', u'/wiki/Philosophy'] True
+/wiki/Information ['/wiki/Efficient_energy_use', u'/wiki/Building_insulation', u'/wiki/Thermal_insulation', u'/wiki/Heat_transfer', u'/wiki/Thermal_engineering', u'/wiki/Mechanical_engineering', u'/wiki/Engineering', u'/wiki/Scientific_method', u'/wiki/Empirical', u'/wiki/Information', u'/wiki/Uncertainty', u'/wiki/Epistemic', u'/wiki/Philosophy'] True
+/wiki/Uncertainty ['/wiki/Efficient_energy_use', u'/wiki/Building_insulation', u'/wiki/Thermal_insulation', u'/wiki/Heat_transfer', u'/wiki/Thermal_engineering', u'/wiki/Mechanical_engineering', u'/wiki/Engineering', u'/wiki/Scientific_method', u'/wiki/Empirical', u'/wiki/Information', u'/wiki/Uncertainty', u'/wiki/Epistemic', u'/wiki/Philosophy'] True
+/wiki/Epistemic ['/wiki/Efficient_energy_use', u'/wiki/Building_insulation', u'/wiki/Thermal_insulation', u'/wiki/Heat_transfer', u'/wiki/Thermal_engineering', u'/wiki/Mechanical_engineering', u'/wiki/Engineering', u'/wiki/Scientific_method', u'/wiki/Empirical', u'/wiki/Information', u'/wiki/Uncertainty', u'/wiki/Epistemic', u'/wiki/Philosophy'] True
+/wiki/Philosophy ['/wiki/Efficient_energy_use', u'/wiki/Building_insulation', u'/wiki/Thermal_insulation', u'/wiki/Heat_transfer', u'/wiki/Thermal_engineering', u'/wiki/Mechanical_engineering', u'/wiki/Engineering', u'/wiki/Scientific_method', u'/wiki/Empirical', u'/wiki/Information', u'/wiki/Uncertainty', u'/wiki/Epistemic', u'/wiki/Philosophy'] True
+/wiki/CO2_emission ['/wiki/CO2_emission', u'/wiki/Carbon_dioxide', u'/wiki/Gas', u'/wiki/State_of_matter', u'/wiki/Physics'] True
+/wiki/Carbon_dioxide ['/wiki/CO2_emission', u'/wiki/Carbon_dioxide', u'/wiki/Gas', u'/wiki/State_of_matter', u'/wiki/Physics'] True
+/wiki/Gas ['/wiki/CO2_emission', u'/wiki/Carbon_dioxide', u'/wiki/Gas', u'/wiki/State_of_matter', u'/wiki/Physics'] True
+/wiki/State_of_matter ['/wiki/CO2_emission', u'/wiki/Carbon_dioxide', u'/wiki/Gas', u'/wiki/State_of_matter', u'/wiki/Physics'] True
+/wiki/Physics ['/wiki/CO2_emission', u'/wiki/Carbon_dioxide', u'/wiki/Gas', u'/wiki/State_of_matter', u'/wiki/Physics'] True
+/wiki/Air_quality ['/wiki/Air_quality', u'/wiki/Particles', u'/wiki/Outline_of_physical_science', u'/wiki/Natural_science'] True
+/wiki/Particles ['/wiki/Air_quality', u'/wiki/Particles', u'/wiki/Outline_of_physical_science', u'/wiki/Natural_science'] True
+/wiki/Outline_of_physical_science ['/wiki/Air_quality', u'/wiki/Particles', u'/wiki/Outline_of_physical_science', u'/wiki/Natural_science'] True
+/wiki/Natural_science ['/wiki/Air_quality', u'/wiki/Particles', u'/wiki/Outline_of_physical_science', u'/wiki/Natural_science'] True
+/wiki/Sustainable_Development_Goals ['/wiki/Sustainable_Development_Goals', u'/wiki/United_Nations_General_Assembly', u'/wiki/Organs_of_the_United_Nations', u'/wiki/United_Nations', u'/wiki/Intergovernmental_organization', u'/wiki/Organization', u'/wiki/Legal_entity', u'/wiki/Natural_person', u'/wiki/Jurisprudence', u'/wiki/Law', u'/wiki/System'] True
+/wiki/United_Nations_General_Assembly ['/wiki/Sustainable_Development_Goals', u'/wiki/United_Nations_General_Assembly', u'/wiki/Organs_of_the_United_Nations', u'/wiki/United_Nations', u'/wiki/Intergovernmental_organization', u'/wiki/Organization', u'/wiki/Legal_entity', u'/wiki/Natural_person', u'/wiki/Jurisprudence', u'/wiki/Law', u'/wiki/System'] True
+/wiki/Organs_of_the_United_Nations ['/wiki/Sustainable_Development_Goals', u'/wiki/United_Nations_General_Assembly', u'/wiki/Organs_of_the_United_Nations', u'/wiki/United_Nations', u'/wiki/Intergovernmental_organization', u'/wiki/Organization', u'/wiki/Legal_entity', u'/wiki/Natural_person', u'/wiki/Jurisprudence', u'/wiki/Law', u'/wiki/System'] True
+/wiki/United_Nations ['/wiki/Sustainable_Development_Goals', u'/wiki/United_Nations_General_Assembly', u'/wiki/Organs_of_the_United_Nations', u'/wiki/United_Nations', u'/wiki/Intergovernmental_organization', u'/wiki/Organization', u'/wiki/Legal_entity', u'/wiki/Natural_person', u'/wiki/Jurisprudence', u'/wiki/Law', u'/wiki/System'] True
+/wiki/Intergovernmental_organization ['/wiki/Sustainable_Development_Goals', u'/wiki/United_Nations_General_Assembly', u'/wiki/Organs_of_the_United_Nations', u'/wiki/United_Nations', u'/wiki/Intergovernmental_organization', u'/wiki/Organization', u'/wiki/Legal_entity', u'/wiki/Natural_person', u'/wiki/Jurisprudence', u'/wiki/Law', u'/wiki/System'] True
+/wiki/Organization ['/wiki/Sustainable_Development_Goals', u'/wiki/United_Nations_General_Assembly', u'/wiki/Organs_of_the_United_Nations', u'/wiki/United_Nations', u'/wiki/Intergovernmental_organization', u'/wiki/Organization', u'/wiki/Legal_entity', u'/wiki/Natural_person', u'/wiki/Jurisprudence', u'/wiki/Law', u'/wiki/System'] True
+/wiki/Legal_entity ['/wiki/Sustainable_Development_Goals', u'/wiki/United_Nations_General_Assembly', u'/wiki/Organs_of_the_United_Nations', u'/wiki/United_Nations', u'/wiki/Intergovernmental_organization', u'/wiki/Organization', u'/wiki/Legal_entity', u'/wiki/Natural_person', u'/wiki/Jurisprudence', u'/wiki/Law', u'/wiki/System'] True
+/wiki/Natural_person ['/wiki/Sustainable_Development_Goals', u'/wiki/United_Nations_General_Assembly', u'/wiki/Organs_of_the_United_Nations', u'/wiki/United_Nations', u'/wiki/Intergovernmental_organization', u'/wiki/Organization', u'/wiki/Legal_entity', u'/wiki/Natural_person', u'/wiki/Jurisprudence', u'/wiki/Law', u'/wiki/System'] True
+/wiki/Jurisprudence ['/wiki/Sustainable_Development_Goals', u'/wiki/United_Nations_General_Assembly', u'/wiki/Organs_of_the_United_Nations', u'/wiki/United_Nations', u'/wiki/Intergovernmental_organization', u'/wiki/Organization', u'/wiki/Legal_entity', u'/wiki/Natural_person', u'/wiki/Jurisprudence', u'/wiki/Law', u'/wiki/System'] True
+/wiki/Law ['/wiki/Sustainable_Development_Goals', u'/wiki/United_Nations_General_Assembly', u'/wiki/Organs_of_the_United_Nations', u'/wiki/United_Nations', u'/wiki/Intergovernmental_organization', u'/wiki/Organization', u'/wiki/Legal_entity', u'/wiki/Natural_person', u'/wiki/Jurisprudence', u'/wiki/Law', u'/wiki/System'] True
+/wiki/System ['/wiki/Sustainable_Development_Goals', u'/wiki/United_Nations_General_Assembly', u'/wiki/Organs_of_the_United_Nations', u'/wiki/United_Nations', u'/wiki/Intergovernmental_organization', u'/wiki/Organization', u'/wiki/Legal_entity', u'/wiki/Natural_person', u'/wiki/Jurisprudence', u'/wiki/Law', u'/wiki/System'] True
+/wiki/Sanitation ['/wiki/Sanitation', u'/wiki/Public_health', u'/wiki/Health', u'/wiki/Well-being', u'/wiki/Physical_fitness', u'/wiki/Health'] False
+/wiki/Public_health ['/wiki/Sanitation', u'/wiki/Public_health', u'/wiki/Health', u'/wiki/Well-being', u'/wiki/Physical_fitness', u'/wiki/Health'] False
+/wiki/Health ['/wiki/Sanitation', u'/wiki/Public_health', u'/wiki/Health', u'/wiki/Well-being', u'/wiki/Physical_fitness', u'/wiki/Health'] False
+/wiki/Well-being ['/wiki/Sanitation', u'/wiki/Public_health', u'/wiki/Health', u'/wiki/Well-being', u'/wiki/Physical_fitness', u'/wiki/Health'] False
+/wiki/Physical_fitness ['/wiki/Sanitation', u'/wiki/Public_health', u'/wiki/Health', u'/wiki/Well-being', u'/wiki/Physical_fitness', u'/wiki/Health'] False
+/wiki/Health ['/wiki/Sanitation', u'/wiki/Public_health', u'/wiki/Health', u'/wiki/Well-being', u'/wiki/Physical_fitness', u'/wiki/Health'] False
+/wiki/Whaling_in_the_Faroe_Islands ['/wiki/Whaling_in_the_Faroe_Islands', u'/wiki/Long-finned_pilot_whale', u'/wiki/Species'] True
+/wiki/Long-finned_pilot_whale ['/wiki/Whaling_in_the_Faroe_Islands', u'/wiki/Long-finned_pilot_whale', u'/wiki/Species'] True
+/wiki/Species ['/wiki/Whaling_in_the_Faroe_Islands', u'/wiki/Long-finned_pilot_whale', u'/wiki/Species'] True
+/wiki/International_Whaling_Commission ['/wiki/International_Whaling_Commission', u'/wiki/International_Convention_for_the_Regulation_of_Whaling', u'/wiki/Environmental_agreement', u'/wiki/Protocol_(politics)', u'/wiki/Protocol_(science)', u'/wiki/Natural_sciences', u'/wiki/Branches_of_science'] True
+/wiki/International_Convention_for_the_Regulation_of_Whaling ['/wiki/International_Whaling_Commission', u'/wiki/International_Convention_for_the_Regulation_of_Whaling', u'/wiki/Environmental_agreement', u'/wiki/Protocol_(politics)', u'/wiki/Protocol_(science)', u'/wiki/Natural_sciences', u'/wiki/Branches_of_science'] True
+/wiki/Environmental_agreement ['/wiki/International_Whaling_Commission', u'/wiki/International_Convention_for_the_Regulation_of_Whaling', u'/wiki/Environmental_agreement', u'/wiki/Protocol_(politics)', u'/wiki/Protocol_(science)', u'/wiki/Natural_sciences', u'/wiki/Branches_of_science'] True
+/wiki/Protocol_(politics) ['/wiki/International_Whaling_Commission', u'/wiki/International_Convention_for_the_Regulation_of_Whaling', u'/wiki/Environmental_agreement', u'/wiki/Protocol_(politics)', u'/wiki/Protocol_(science)', u'/wiki/Natural_sciences', u'/wiki/Branches_of_science'] True
+/wiki/Protocol_(science) ['/wiki/International_Whaling_Commission', u'/wiki/International_Convention_for_the_Regulation_of_Whaling', u'/wiki/Environmental_agreement', u'/wiki/Protocol_(politics)', u'/wiki/Protocol_(science)', u'/wiki/Natural_sciences', u'/wiki/Branches_of_science'] True
+/wiki/Natural_sciences ['/wiki/International_Whaling_Commission', u'/wiki/International_Convention_for_the_Regulation_of_Whaling', u'/wiki/Environmental_agreement', u'/wiki/Protocol_(politics)', u'/wiki/Protocol_(science)', u'/wiki/Natural_sciences', u'/wiki/Branches_of_science'] True
+/wiki/Branches_of_science ['/wiki/International_Whaling_Commission', u'/wiki/International_Convention_for_the_Regulation_of_Whaling', u'/wiki/Environmental_agreement', u'/wiki/Protocol_(politics)', u'/wiki/Protocol_(science)', u'/wiki/Natural_sciences', u'/wiki/Branches_of_science'] True
+/wiki/List_of_municipalities_of_Denmark ['/wiki/List_of_municipalities_of_Denmark', u'/wiki/Municipalities_of_Denmark', u'/wiki/Denmark'] True
+/wiki/Municipalities_of_Denmark ['/wiki/List_of_municipalities_of_Denmark', u'/wiki/Municipalities_of_Denmark', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/List_of_municipalities_of_Denmark', u'/wiki/Municipalities_of_Denmark', u'/wiki/Denmark'] True
+/wiki/Ministry_of_Defence_(Denmark) ['/wiki/Ministry_of_Defence_(Denmark)', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Ministry_of_Defence_(Denmark)', u'/wiki/Denmark'] True
+/wiki/Counties_of_Denmark ['/wiki/Counties_of_Denmark', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Counties_of_Denmark', u'/wiki/Denmark'] True
+/wiki/2017_Danish_local_elections ['/wiki/2017_Danish_local_elections', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/2017_Danish_local_elections', u'/wiki/Denmark'] True
+/wiki/Local_government ['/wiki/Local_government', u'/wiki/Public_administration', u'/wiki/Public_policy', u'/wiki/Executive_(government)', u'/wiki/Authority', u'/wiki/Legitimacy_(political)', u'/wiki/Sphere_of_influence', u'/wiki/International_relations', u'/wiki/Politics'] True
+/wiki/Public_administration ['/wiki/Local_government', u'/wiki/Public_administration', u'/wiki/Public_policy', u'/wiki/Executive_(government)', u'/wiki/Authority', u'/wiki/Legitimacy_(political)', u'/wiki/Sphere_of_influence', u'/wiki/International_relations', u'/wiki/Politics'] True
+/wiki/Public_policy ['/wiki/Local_government', u'/wiki/Public_administration', u'/wiki/Public_policy', u'/wiki/Executive_(government)', u'/wiki/Authority', u'/wiki/Legitimacy_(political)', u'/wiki/Sphere_of_influence', u'/wiki/International_relations', u'/wiki/Politics'] True
+/wiki/Executive_(government) ['/wiki/Local_government', u'/wiki/Public_administration', u'/wiki/Public_policy', u'/wiki/Executive_(government)', u'/wiki/Authority', u'/wiki/Legitimacy_(political)', u'/wiki/Sphere_of_influence', u'/wiki/International_relations', u'/wiki/Politics'] True
+/wiki/Authority ['/wiki/Local_government', u'/wiki/Public_administration', u'/wiki/Public_policy', u'/wiki/Executive_(government)', u'/wiki/Authority', u'/wiki/Legitimacy_(political)', u'/wiki/Sphere_of_influence', u'/wiki/International_relations', u'/wiki/Politics'] True
+/wiki/Legitimacy_(political) ['/wiki/Local_government', u'/wiki/Public_administration', u'/wiki/Public_policy', u'/wiki/Executive_(government)', u'/wiki/Authority', u'/wiki/Legitimacy_(political)', u'/wiki/Sphere_of_influence', u'/wiki/International_relations', u'/wiki/Politics'] True
+/wiki/Sphere_of_influence ['/wiki/Local_government', u'/wiki/Public_administration', u'/wiki/Public_policy', u'/wiki/Executive_(government)', u'/wiki/Authority', u'/wiki/Legitimacy_(political)', u'/wiki/Sphere_of_influence', u'/wiki/International_relations', u'/wiki/Politics'] True
+/wiki/International_relations ['/wiki/Local_government', u'/wiki/Public_administration', u'/wiki/Public_policy', u'/wiki/Executive_(government)', u'/wiki/Authority', u'/wiki/Legitimacy_(political)', u'/wiki/Sphere_of_influence', u'/wiki/International_relations', u'/wiki/Politics'] True
+/wiki/Politics ['/wiki/Local_government', u'/wiki/Public_administration', u'/wiki/Public_policy', u'/wiki/Executive_(government)', u'/wiki/Authority', u'/wiki/Legitimacy_(political)', u'/wiki/Sphere_of_influence', u'/wiki/International_relations', u'/wiki/Politics'] True
+/wiki/Social_services ['/wiki/Social_services', u'/wiki/Public_service', u'/wiki/Service_(economics)', u'/wiki/Economics', u'/wiki/Social_science'] True
+/wiki/Public_service ['/wiki/Social_services', u'/wiki/Public_service', u'/wiki/Service_(economics)', u'/wiki/Economics', u'/wiki/Social_science'] True
+/wiki/Service_(economics) ['/wiki/Social_services', u'/wiki/Public_service', u'/wiki/Service_(economics)', u'/wiki/Economics', u'/wiki/Social_science'] True
+/wiki/Economics ['/wiki/Social_services', u'/wiki/Public_service', u'/wiki/Service_(economics)', u'/wiki/Economics', u'/wiki/Social_science'] True
+/wiki/Social_science ['/wiki/Social_services', u'/wiki/Public_service', u'/wiki/Service_(economics)', u'/wiki/Economics', u'/wiki/Social_science'] True
+/wiki/Capital_Region_of_Denmark ['/wiki/Capital_Region_of_Denmark', u'/wiki/Geography_of_Denmark', u'/wiki/Denmark'] True
+/wiki/Geography_of_Denmark ['/wiki/Capital_Region_of_Denmark', u'/wiki/Geography_of_Denmark', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Capital_Region_of_Denmark', u'/wiki/Geography_of_Denmark', u'/wiki/Denmark'] True
+/wiki/North_Denmark_Region ['/wiki/North_Denmark_Region', u'/wiki/Regions_of_Denmark', u'/wiki/Denmark'] True
+/wiki/Regions_of_Denmark ['/wiki/North_Denmark_Region', u'/wiki/Regions_of_Denmark', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/North_Denmark_Region', u'/wiki/Regions_of_Denmark', u'/wiki/Denmark'] True
+/wiki/Frederiksberg_Municipality ['/wiki/Frederiksberg_Municipality', u'/wiki/Municipalities_of_Denmark'] True
+/wiki/Municipalities_of_Denmark ['/wiki/Frederiksberg_Municipality', u'/wiki/Municipalities_of_Denmark'] True
+/wiki/Autonomous_administrative_division ['/wiki/Autonomous_administrative_division', u'/wiki/Administrative_division'] True
+/wiki/Administrative_division ['/wiki/Autonomous_administrative_division', u'/wiki/Administrative_division'] True
+/wiki/Self-governing ['/wiki/Self-governing', u'/wiki/Organization'] True
+/wiki/Organization ['/wiki/Self-governing', u'/wiki/Organization'] True
+/wiki/High_Commissioner ['/wiki/High_Commissioner', u'/wiki/Letters_patent', u'/wiki/Legal_instrument', u'/wiki/Law'] True
+/wiki/Letters_patent ['/wiki/High_Commissioner', u'/wiki/Letters_patent', u'/wiki/Legal_instrument', u'/wiki/Law'] True
+/wiki/Legal_instrument ['/wiki/High_Commissioner', u'/wiki/Letters_patent', u'/wiki/Legal_instrument', u'/wiki/Law'] True
+/wiki/Law ['/wiki/High_Commissioner', u'/wiki/Letters_patent', u'/wiki/Legal_instrument', u'/wiki/Law'] True
+/wiki/L%C3%B8gting ['/wiki/L%C3%B8gting', u'/wiki/Unicameralism', u'/wiki/Government'] True
+/wiki/Unicameralism ['/wiki/L%C3%B8gting', u'/wiki/Unicameralism', u'/wiki/Government'] True
+/wiki/Government ['/wiki/L%C3%B8gting', u'/wiki/Unicameralism', u'/wiki/Government'] True
+/wiki/Parliament_of_Greenland ['/wiki/Parliament_of_Greenland', u'/wiki/Unicameral'] True
+/wiki/Unicameral ['/wiki/Parliament_of_Greenland', u'/wiki/Unicameral'] True
+/wiki/Danish_Council_of_State ['/wiki/Danish_Council_of_State', u'/wiki/Privy_council', u'/wiki/Advice_(constitutional)', u'/wiki/Constitutional_law', u'/wiki/State_(polity)'] True
+/wiki/Privy_council ['/wiki/Danish_Council_of_State', u'/wiki/Privy_council', u'/wiki/Advice_(constitutional)', u'/wiki/Constitutional_law', u'/wiki/State_(polity)'] True
+/wiki/Advice_(constitutional) ['/wiki/Danish_Council_of_State', u'/wiki/Privy_council', u'/wiki/Advice_(constitutional)', u'/wiki/Constitutional_law', u'/wiki/State_(polity)'] True
+/wiki/Constitutional_law ['/wiki/Danish_Council_of_State', u'/wiki/Privy_council', u'/wiki/Advice_(constitutional)', u'/wiki/Constitutional_law', u'/wiki/State_(polity)'] True
+/wiki/State_(polity) ['/wiki/Danish_Council_of_State', u'/wiki/Privy_council', u'/wiki/Advice_(constitutional)', u'/wiki/Constitutional_law', u'/wiki/State_(polity)'] True
+/wiki/Ceremonial ['/wiki/Ceremonial', u'/wiki/Ritual', u'/wiki/Gesture', u'/wiki/Non-verbal_communication', u'/wiki/Visual', u'/wiki/Central_nervous_system', u'/wiki/Nervous_system', u'/wiki/Complex_system', u'/wiki/System'] True
+/wiki/Ritual ['/wiki/Ceremonial', u'/wiki/Ritual', u'/wiki/Gesture', u'/wiki/Non-verbal_communication', u'/wiki/Visual', u'/wiki/Central_nervous_system', u'/wiki/Nervous_system', u'/wiki/Complex_system', u'/wiki/System'] True
+/wiki/Gesture ['/wiki/Ceremonial', u'/wiki/Ritual', u'/wiki/Gesture', u'/wiki/Non-verbal_communication', u'/wiki/Visual', u'/wiki/Central_nervous_system', u'/wiki/Nervous_system', u'/wiki/Complex_system', u'/wiki/System'] True
+/wiki/Non-verbal_communication ['/wiki/Ceremonial', u'/wiki/Ritual', u'/wiki/Gesture', u'/wiki/Non-verbal_communication', u'/wiki/Visual', u'/wiki/Central_nervous_system', u'/wiki/Nervous_system', u'/wiki/Complex_system', u'/wiki/System'] True
+/wiki/Visual ['/wiki/Ceremonial', u'/wiki/Ritual', u'/wiki/Gesture', u'/wiki/Non-verbal_communication', u'/wiki/Visual', u'/wiki/Central_nervous_system', u'/wiki/Nervous_system', u'/wiki/Complex_system', u'/wiki/System'] True
+/wiki/Central_nervous_system ['/wiki/Ceremonial', u'/wiki/Ritual', u'/wiki/Gesture', u'/wiki/Non-verbal_communication', u'/wiki/Visual', u'/wiki/Central_nervous_system', u'/wiki/Nervous_system', u'/wiki/Complex_system', u'/wiki/System'] True
+/wiki/Nervous_system ['/wiki/Ceremonial', u'/wiki/Ritual', u'/wiki/Gesture', u'/wiki/Non-verbal_communication', u'/wiki/Visual', u'/wiki/Central_nervous_system', u'/wiki/Nervous_system', u'/wiki/Complex_system', u'/wiki/System'] True
+/wiki/Complex_system ['/wiki/Ceremonial', u'/wiki/Ritual', u'/wiki/Gesture', u'/wiki/Non-verbal_communication', u'/wiki/Visual', u'/wiki/Central_nervous_system', u'/wiki/Nervous_system', u'/wiki/Complex_system', u'/wiki/System'] True
+/wiki/System ['/wiki/Ceremonial', u'/wiki/Ritual', u'/wiki/Gesture', u'/wiki/Non-verbal_communication', u'/wiki/Visual', u'/wiki/Central_nervous_system', u'/wiki/Nervous_system', u'/wiki/Complex_system', u'/wiki/System'] True
+/wiki/Prime_Minister_of_Denmark ['/wiki/Prime_Minister_of_Denmark', u'/wiki/Head_of_government', u'/wiki/Sovereign_state'] True
+/wiki/Head_of_government ['/wiki/Prime_Minister_of_Denmark', u'/wiki/Head_of_government', u'/wiki/Sovereign_state'] True
+/wiki/Sovereign_state ['/wiki/Prime_Minister_of_Denmark', u'/wiki/Head_of_government', u'/wiki/Sovereign_state'] True
+/wiki/Sacrosanct ['/wiki/Sacrosanct', u'/wiki/Temple', u'/wiki/Religious', u'/wiki/Cultural_system', u'/wiki/Culture', u'/wiki/Social_behavior', u'/wiki/Behavior', u'/wiki/Action_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Temple ['/wiki/Sacrosanct', u'/wiki/Temple', u'/wiki/Religious', u'/wiki/Cultural_system', u'/wiki/Culture', u'/wiki/Social_behavior', u'/wiki/Behavior', u'/wiki/Action_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Religious ['/wiki/Sacrosanct', u'/wiki/Temple', u'/wiki/Religious', u'/wiki/Cultural_system', u'/wiki/Culture', u'/wiki/Social_behavior', u'/wiki/Behavior', u'/wiki/Action_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Cultural_system ['/wiki/Sacrosanct', u'/wiki/Temple', u'/wiki/Religious', u'/wiki/Cultural_system', u'/wiki/Culture', u'/wiki/Social_behavior', u'/wiki/Behavior', u'/wiki/Action_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Culture ['/wiki/Sacrosanct', u'/wiki/Temple', u'/wiki/Religious', u'/wiki/Cultural_system', u'/wiki/Culture', u'/wiki/Social_behavior', u'/wiki/Behavior', u'/wiki/Action_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Social_behavior ['/wiki/Sacrosanct', u'/wiki/Temple', u'/wiki/Religious', u'/wiki/Cultural_system', u'/wiki/Culture', u'/wiki/Social_behavior', u'/wiki/Behavior', u'/wiki/Action_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Behavior ['/wiki/Sacrosanct', u'/wiki/Temple', u'/wiki/Religious', u'/wiki/Cultural_system', u'/wiki/Culture', u'/wiki/Social_behavior', u'/wiki/Behavior', u'/wiki/Action_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Action_(philosophy) ['/wiki/Sacrosanct', u'/wiki/Temple', u'/wiki/Religious', u'/wiki/Cultural_system', u'/wiki/Culture', u'/wiki/Social_behavior', u'/wiki/Behavior', u'/wiki/Action_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Philosophy ['/wiki/Sacrosanct', u'/wiki/Temple', u'/wiki/Religious', u'/wiki/Cultural_system', u'/wiki/Culture', u'/wiki/Social_behavior', u'/wiki/Behavior', u'/wiki/Action_(philosophy)', u'/wiki/Philosophy'] True
+/wiki/Hereditary_monarchy ['/wiki/Hereditary_monarchy', u'/wiki/Government'] True
+/wiki/Government ['/wiki/Hereditary_monarchy', u'/wiki/Government'] True
+/wiki/Margrethe_II_of_Denmark ['/wiki/Margrethe_II_of_Denmark', u'/wiki/Queen_of_Denmark', u'/wiki/Constitution'] True
+/wiki/Queen_of_Denmark ['/wiki/Margrethe_II_of_Denmark', u'/wiki/Queen_of_Denmark', u'/wiki/Constitution'] True
+/wiki/Constitution ['/wiki/Margrethe_II_of_Denmark', u'/wiki/Queen_of_Denmark', u'/wiki/Constitution'] True
+/wiki/Act_of_Parliament ['/wiki/Act_of_Parliament', u'/wiki/Primary_legislation', u'/wiki/Parliamentary_system', u'/wiki/Democracy', u'/wiki/Government'] True
+/wiki/Primary_legislation ['/wiki/Act_of_Parliament', u'/wiki/Primary_legislation', u'/wiki/Parliamentary_system', u'/wiki/Democracy', u'/wiki/Government'] True
+/wiki/Parliamentary_system ['/wiki/Act_of_Parliament', u'/wiki/Primary_legislation', u'/wiki/Parliamentary_system', u'/wiki/Democracy', u'/wiki/Government'] True
+/wiki/Democracy ['/wiki/Act_of_Parliament', u'/wiki/Primary_legislation', u'/wiki/Parliamentary_system', u'/wiki/Democracy', u'/wiki/Government'] True
+/wiki/Government ['/wiki/Act_of_Parliament', u'/wiki/Primary_legislation', u'/wiki/Parliamentary_system', u'/wiki/Democracy', u'/wiki/Government'] True
+/wiki/Bill_(proposed_law) ['/wiki/Bill_(proposed_law)', u'/wiki/Legislature'] True
+/wiki/Legislature ['/wiki/Bill_(proposed_law)', u'/wiki/Legislature'] True
+/wiki/Member_of_parliament ['/wiki/Member_of_parliament', u'/wiki/Parliament'] True
+/wiki/Parliament ['/wiki/Member_of_parliament', u'/wiki/Parliament'] True
+/wiki/Royal_Assent ['/wiki/Royal_Assent', u'/wiki/Monarch', u'/wiki/Head_of_state', u'/wiki/Persona', u'/wiki/Role', u'/wiki/Behavior'] True
+/wiki/Monarch ['/wiki/Royal_Assent', u'/wiki/Monarch', u'/wiki/Head_of_state', u'/wiki/Persona', u'/wiki/Role', u'/wiki/Behavior'] True
+/wiki/Head_of_state ['/wiki/Royal_Assent', u'/wiki/Monarch', u'/wiki/Head_of_state', u'/wiki/Persona', u'/wiki/Role', u'/wiki/Behavior'] True
+/wiki/Persona ['/wiki/Royal_Assent', u'/wiki/Monarch', u'/wiki/Head_of_state', u'/wiki/Persona', u'/wiki/Role', u'/wiki/Behavior'] True
+/wiki/Role ['/wiki/Royal_Assent', u'/wiki/Monarch', u'/wiki/Head_of_state', u'/wiki/Persona', u'/wiki/Role', u'/wiki/Behavior'] True
+/wiki/Behavior ['/wiki/Royal_Assent', u'/wiki/Monarch', u'/wiki/Head_of_state', u'/wiki/Persona', u'/wiki/Role', u'/wiki/Behavior'] True
+/wiki/List_of_Danish_government_ministries ['/wiki/List_of_Danish_government_ministries', u'/wiki/Ministry_(government_department)', u'/wiki/Government'] True
+/wiki/Ministry_(government_department) ['/wiki/List_of_Danish_government_ministries', u'/wiki/Ministry_(government_department)', u'/wiki/Government'] True
+/wiki/Government ['/wiki/List_of_Danish_government_ministries', u'/wiki/Ministry_(government_department)', u'/wiki/Government'] True
+/wiki/Confidence_and_supply ['/wiki/Confidence_and_supply', u'/wiki/Parliamentary_system'] True
+/wiki/Parliamentary_system ['/wiki/Confidence_and_supply', u'/wiki/Parliamentary_system'] True
+/wiki/Political_alliance ['/wiki/Political_alliance', u'/wiki/Political_party', u'/wiki/Election'] True
+/wiki/Political_party ['/wiki/Political_alliance', u'/wiki/Political_party', u'/wiki/Election'] True
+/wiki/Election ['/wiki/Political_alliance', u'/wiki/Political_party', u'/wiki/Election'] True
+/wiki/2015_Danish_general_election ['/wiki/2015_Danish_general_election', u'/wiki/Kingdom_of_Denmark', u'/wiki/Nordic_country'] True
+/wiki/Kingdom_of_Denmark ['/wiki/2015_Danish_general_election', u'/wiki/Kingdom_of_Denmark', u'/wiki/Nordic_country'] True
+/wiki/Nordic_country ['/wiki/2015_Danish_general_election', u'/wiki/Kingdom_of_Denmark', u'/wiki/Nordic_country'] True
+/wiki/Helle_Thorning-Schmidt ['/wiki/Helle_Thorning-Schmidt', u'/wiki/List_of_Prime_Ministers_of_Denmark', u'/wiki/Prime_Minister_of_Denmark'] True
+/wiki/List_of_Prime_Ministers_of_Denmark ['/wiki/Helle_Thorning-Schmidt', u'/wiki/List_of_Prime_Ministers_of_Denmark', u'/wiki/Prime_Minister_of_Denmark'] True
+/wiki/Prime_Minister_of_Denmark ['/wiki/Helle_Thorning-Schmidt', u'/wiki/List_of_Prime_Ministers_of_Denmark', u'/wiki/Prime_Minister_of_Denmark'] True
+/wiki/Lars_L%C3%B8kke_Rasmussen ['/wiki/Lars_L%C3%B8kke_Rasmussen', u'/wiki/Order_of_the_Dannebrog', u'/wiki/Denmark'] True
+/wiki/Order_of_the_Dannebrog ['/wiki/Lars_L%C3%B8kke_Rasmussen', u'/wiki/Order_of_the_Dannebrog', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Lars_L%C3%B8kke_Rasmussen', u'/wiki/Order_of_the_Dannebrog', u'/wiki/Denmark'] True
+/wiki/Lars_L%C3%B8kke_Rasmussen_II_Cabinet ['/wiki/Lars_L%C3%B8kke_Rasmussen_II_Cabinet', u'/wiki/Government_of_Denmark', u'/wiki/Executive_(government)'] True
+/wiki/Government_of_Denmark ['/wiki/Lars_L%C3%B8kke_Rasmussen_II_Cabinet', u'/wiki/Government_of_Denmark', u'/wiki/Executive_(government)'] True
+/wiki/Executive_(government) ['/wiki/Lars_L%C3%B8kke_Rasmussen_II_Cabinet', u'/wiki/Government_of_Denmark', u'/wiki/Executive_(government)'] True
+/wiki/2019_Danish_general_election ['/wiki/2019_Danish_general_election', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/2019_Danish_general_election', u'/wiki/Denmark'] True
+/wiki/Mette_Frederiksen ['/wiki/Mette_Frederiksen', u'/wiki/Prime_Minister_of_Denmark'] True
+/wiki/Prime_Minister_of_Denmark ['/wiki/Mette_Frederiksen', u'/wiki/Prime_Minister_of_Denmark'] True
+/wiki/Germanic_law ['/wiki/Germanic_law', u'/wiki/Law_code', u'/wiki/Codification_(law)', u'/wiki/Law'] True
+/wiki/Law_code ['/wiki/Germanic_law', u'/wiki/Law_code', u'/wiki/Codification_(law)', u'/wiki/Law'] True
+/wiki/Codification_(law) ['/wiki/Germanic_law', u'/wiki/Law_code', u'/wiki/Codification_(law)', u'/wiki/Law'] True
+/wiki/Law ['/wiki/Germanic_law', u'/wiki/Law_code', u'/wiki/Codification_(law)', u'/wiki/Law'] True
+/wiki/Case-law ['/wiki/Case-law', u'/wiki/Tribunal', u'/wiki/Institution'] False
+/wiki/Tribunal ['/wiki/Case-law', u'/wiki/Tribunal', u'/wiki/Institution'] False
+/wiki/Institution ['/wiki/Case-law', u'/wiki/Tribunal', u'/wiki/Institution'] False
+/wiki/English_law ['/wiki/English_law', u'/wiki/Common_law', u'/wiki/Law'] True
+/wiki/Common_law ['/wiki/English_law', u'/wiki/Common_law', u'/wiki/Law'] True
+/wiki/Law ['/wiki/English_law', u'/wiki/Common_law', u'/wiki/Law'] True
+/wiki/Criminal_law ['/wiki/Criminal_law', u'/wiki/Law'] True
+/wiki/Law ['/wiki/Criminal_law', u'/wiki/Law'] True
+/wiki/Judicial_independence ['/wiki/Judicial_independence', u'/wiki/Judiciary', u'/wiki/Court'] True
+/wiki/Judiciary ['/wiki/Judicial_independence', u'/wiki/Judiciary', u'/wiki/Court'] True
+/wiki/Court ['/wiki/Judicial_independence', u'/wiki/Judiciary', u'/wiki/Court'] True
+/wiki/Supreme_Court_of_Denmark ['/wiki/Supreme_Court_of_Denmark', u'/wiki/Supreme_court', u'/wiki/Court'] True
+/wiki/Supreme_court ['/wiki/Supreme_Court_of_Denmark', u'/wiki/Supreme_court', u'/wiki/Court'] True
+/wiki/Court ['/wiki/Supreme_Court_of_Denmark', u'/wiki/Supreme_court', u'/wiki/Court'] True
+/wiki/Middle_power ['/wiki/Middle_power', u'/wiki/International_relations'] True
+/wiki/International_relations ['/wiki/Middle_power', u'/wiki/International_relations'] True
+/wiki/Presidency_of_the_Council_of_the_European_Union ['/wiki/Presidency_of_the_Council_of_the_European_Union', u'/wiki/Council_of_the_European_Union', u'/wiki/Institutions_of_the_European_Union'] False
+/wiki/Council_of_the_European_Union ['/wiki/Presidency_of_the_Council_of_the_European_Union', u'/wiki/Council_of_the_European_Union', u'/wiki/Institutions_of_the_European_Union'] False
+/wiki/Institutions_of_the_European_Union ['/wiki/Presidency_of_the_Council_of_the_European_Union', u'/wiki/Council_of_the_European_Union', u'/wiki/Institutions_of_the_European_Union'] False
+/wiki/Development_Assistance_Committee ['/wiki/Development_Assistance_Committee', u'/wiki/Organisation_for_Economic_Co-operation_and_Development', u'/wiki/Intergovernmental_organization'] True
+/wiki/Organisation_for_Economic_Co-operation_and_Development ['/wiki/Development_Assistance_Committee', u'/wiki/Organisation_for_Economic_Co-operation_and_Development', u'/wiki/Intergovernmental_organization'] True
+/wiki/Intergovernmental_organization ['/wiki/Development_Assistance_Committee', u'/wiki/Organisation_for_Economic_Co-operation_and_Development', u'/wiki/Intergovernmental_organization'] True
+/wiki/Development_aid ['/wiki/Development_aid', u'/wiki/Aid', u'/wiki/International_relations'] True
+/wiki/Aid ['/wiki/Development_aid', u'/wiki/Aid', u'/wiki/International_relations'] True
+/wiki/International_relations ['/wiki/Development_aid', u'/wiki/Aid', u'/wiki/International_relations'] True
+/wiki/Gross_national_income ['/wiki/Gross_national_income', u'/wiki/Factor_income', u'/wiki/Factors_of_production', u'/wiki/Economics'] True
+/wiki/Factor_income ['/wiki/Gross_national_income', u'/wiki/Factor_income', u'/wiki/Factors_of_production', u'/wiki/Economics'] True
+/wiki/Factors_of_production ['/wiki/Gross_national_income', u'/wiki/Factor_income', u'/wiki/Factors_of_production', u'/wiki/Economics'] True
+/wiki/Economics ['/wiki/Gross_national_income', u'/wiki/Factor_income', u'/wiki/Factors_of_production', u'/wiki/Economics'] True
+/wiki/Ministry_of_Foreign_Affairs_(Denmark) ['/wiki/Ministry_of_Foreign_Affairs_(Denmark)', u'/wiki/Foreign_policy', u'/wiki/Sovereign_state'] True
+/wiki/Foreign_policy ['/wiki/Ministry_of_Foreign_Affairs_(Denmark)', u'/wiki/Foreign_policy', u'/wiki/Sovereign_state'] True
+/wiki/Sovereign_state ['/wiki/Ministry_of_Foreign_Affairs_(Denmark)', u'/wiki/Foreign_policy', u'/wiki/Sovereign_state'] True
+/wiki/Danish_International_Development_Agency ['/wiki/Danish_International_Development_Agency', u'/wiki/Ministry_of_Foreign_Affairs_of_Denmark', u'/wiki/Foreign_policy'] True
+/wiki/Ministry_of_Foreign_Affairs_of_Denmark ['/wiki/Danish_International_Development_Agency', u'/wiki/Ministry_of_Foreign_Affairs_of_Denmark', u'/wiki/Foreign_policy'] True
+/wiki/Foreign_policy ['/wiki/Danish_International_Development_Agency', u'/wiki/Ministry_of_Foreign_Affairs_of_Denmark', u'/wiki/Foreign_policy'] True
+/wiki/Danish_Defence ['/wiki/Danish_Defence', u'/wiki/Armed_forces', u'/wiki/Warfare', u'/wiki/State_(polity)'] True
+/wiki/Armed_forces ['/wiki/Danish_Defence', u'/wiki/Armed_forces', u'/wiki/Warfare', u'/wiki/State_(polity)'] True
+/wiki/Warfare ['/wiki/Danish_Defence', u'/wiki/Armed_forces', u'/wiki/Warfare', u'/wiki/State_(polity)'] True
+/wiki/State_(polity) ['/wiki/Danish_Defence', u'/wiki/Armed_forces', u'/wiki/Warfare', u'/wiki/State_(polity)'] True
+/wiki/Royal_Danish_Army ['/wiki/Royal_Danish_Army', u'/wiki/Danish_Defence'] True
+/wiki/Danish_Defence ['/wiki/Royal_Danish_Army', u'/wiki/Danish_Defence'] True
+/wiki/Royal_Danish_Air_Force ['/wiki/Royal_Danish_Air_Force', u'/wiki/Air_force', u'/wiki/Military_branch', u'/wiki/Armed_forces'] True
+/wiki/Air_force ['/wiki/Royal_Danish_Air_Force', u'/wiki/Air_force', u'/wiki/Military_branch', u'/wiki/Armed_forces'] True
+/wiki/Military_branch ['/wiki/Royal_Danish_Air_Force', u'/wiki/Air_force', u'/wiki/Military_branch', u'/wiki/Armed_forces'] True
+/wiki/Armed_forces ['/wiki/Royal_Danish_Air_Force', u'/wiki/Air_force', u'/wiki/Military_branch', u'/wiki/Armed_forces'] True
+/wiki/Danish_Emergency_Management_Agency ['/wiki/Danish_Emergency_Management_Agency', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Danish_Emergency_Management_Agency', u'/wiki/Denmark'] True
+/wiki/Defence_Command_(Denmark) ['/wiki/Defence_Command_(Denmark)', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Defence_Command_(Denmark)', u'/wiki/Denmark'] True
+/wiki/Home_Guard_(Denmark) ['/wiki/Home_Guard_(Denmark)', u'/wiki/Danish_military', u'/wiki/Armed_forces'] True
+/wiki/Danish_military ['/wiki/Home_Guard_(Denmark)', u'/wiki/Danish_military', u'/wiki/Armed_forces'] True
+/wiki/Armed_forces ['/wiki/Home_Guard_(Denmark)', u'/wiki/Danish_military', u'/wiki/Armed_forces'] True
+/wiki/Peacekeeping ['/wiki/Peacekeeping', u'/wiki/War'] True
+/wiki/War ['/wiki/Peacekeeping', u'/wiki/War'] True
+/wiki/Standing_NRF_Mine_Countermeasures_Group_1 ['/wiki/Standing_NRF_Mine_Countermeasures_Group_1', u'/wiki/NATO', u'/wiki/Intergovernmental_organization'] True
+/wiki/NATO ['/wiki/Standing_NRF_Mine_Countermeasures_Group_1', u'/wiki/NATO', u'/wiki/Intergovernmental_organization'] True
+/wiki/Intergovernmental_organization ['/wiki/Standing_NRF_Mine_Countermeasures_Group_1', u'/wiki/NATO', u'/wiki/Intergovernmental_organization'] True
+/wiki/UNPROFOR ['/wiki/UNPROFOR', u'/wiki/United_Nations_peacekeeping', u'/wiki/Department_of_Peace_Operations', u'/wiki/United_Nations'] True
+/wiki/United_Nations_peacekeeping ['/wiki/UNPROFOR', u'/wiki/United_Nations_peacekeeping', u'/wiki/Department_of_Peace_Operations', u'/wiki/United_Nations'] True
+/wiki/Department_of_Peace_Operations ['/wiki/UNPROFOR', u'/wiki/United_Nations_peacekeeping', u'/wiki/Department_of_Peace_Operations', u'/wiki/United_Nations'] True
+/wiki/United_Nations ['/wiki/UNPROFOR', u'/wiki/United_Nations_peacekeeping', u'/wiki/Department_of_Peace_Operations', u'/wiki/United_Nations'] True
+/wiki/IFOR ['/wiki/IFOR', u'/wiki/NATO'] True
+/wiki/NATO ['/wiki/IFOR', u'/wiki/NATO'] True
+/wiki/SFOR ['/wiki/SFOR', u'/wiki/NATO'] True
+/wiki/NATO ['/wiki/SFOR', u'/wiki/NATO'] True
+/wiki/Developed_economy ['/wiki/Developed_economy', u'/wiki/Sovereign_state'] True
+/wiki/Sovereign_state ['/wiki/Developed_economy', u'/wiki/Sovereign_state'] True
+/wiki/List_of_countries_by_GNI_(PPP)_per_capita ['/wiki/List_of_countries_by_GNI_(PPP)_per_capita', u'/wiki/Countries_of_the_world', u'/wiki/Sovereign_state'] True
+/wiki/Countries_of_the_world ['/wiki/List_of_countries_by_GNI_(PPP)_per_capita', u'/wiki/Countries_of_the_world', u'/wiki/Sovereign_state'] True
+/wiki/Sovereign_state ['/wiki/List_of_countries_by_GNI_(PPP)_per_capita', u'/wiki/Countries_of_the_world', u'/wiki/Sovereign_state'] True
+/wiki/List_of_countries_by_GNI_(nominal,_Atlas_method)_per_capita ['/wiki/List_of_countries_by_GNI_(nominal,_Atlas_method)_per_capita', u'/wiki/Gross_national_income'] True
+/wiki/Gross_national_income ['/wiki/List_of_countries_by_GNI_(nominal,_Atlas_method)_per_capita', u'/wiki/Gross_national_income'] True
+/wiki/Economic_Freedom_of_the_World ['/wiki/Economic_Freedom_of_the_World', u'/wiki/Libertarian', u'/wiki/Political_philosophy'] True
+/wiki/Libertarian ['/wiki/Economic_Freedom_of_the_World', u'/wiki/Libertarian', u'/wiki/Political_philosophy'] True
+/wiki/Political_philosophy ['/wiki/Economic_Freedom_of_the_World', u'/wiki/Libertarian', u'/wiki/Political_philosophy'] True
+/wiki/Labor_rights ['/wiki/Labor_rights', u'/wiki/Legal_rights', u'/wiki/Rights', u'/wiki/Law'] True
+/wiki/Legal_rights ['/wiki/Labor_rights', u'/wiki/Legal_rights', u'/wiki/Rights', u'/wiki/Law'] True
+/wiki/Rights ['/wiki/Labor_rights', u'/wiki/Legal_rights', u'/wiki/Rights', u'/wiki/Law'] True
+/wiki/Law ['/wiki/Labor_rights', u'/wiki/Legal_rights', u'/wiki/Rights', u'/wiki/Law'] True
+/wiki/Eurostat ['/wiki/Eurostat', u'/wiki/Directorate-General', u'/wiki/European_Union'] False
+/wiki/Directorate-General ['/wiki/Eurostat', u'/wiki/Directorate-General', u'/wiki/European_Union'] False
+/wiki/European_Union ['/wiki/Eurostat', u'/wiki/Directorate-General', u'/wiki/European_Union'] False
+/wiki/List_of_minimum_wages_by_country ['/wiki/List_of_minimum_wages_by_country', u'/wiki/Minimum_wage', u'/wiki/Remuneration', u'/wiki/Financial_compensation', u'/wiki/Money', u'/wiki/Payment', u'/wiki/Value_(economics)', u'/wiki/Goods_(economics)', u'/wiki/Economics'] True
+/wiki/Minimum_wage ['/wiki/List_of_minimum_wages_by_country', u'/wiki/Minimum_wage', u'/wiki/Remuneration', u'/wiki/Financial_compensation', u'/wiki/Money', u'/wiki/Payment', u'/wiki/Value_(economics)', u'/wiki/Goods_(economics)', u'/wiki/Economics'] True
+/wiki/Remuneration ['/wiki/List_of_minimum_wages_by_country', u'/wiki/Minimum_wage', u'/wiki/Remuneration', u'/wiki/Financial_compensation', u'/wiki/Money', u'/wiki/Payment', u'/wiki/Value_(economics)', u'/wiki/Goods_(economics)', u'/wiki/Economics'] True
+/wiki/Financial_compensation ['/wiki/List_of_minimum_wages_by_country', u'/wiki/Minimum_wage', u'/wiki/Remuneration', u'/wiki/Financial_compensation', u'/wiki/Money', u'/wiki/Payment', u'/wiki/Value_(economics)', u'/wiki/Goods_(economics)', u'/wiki/Economics'] True
+/wiki/Money ['/wiki/List_of_minimum_wages_by_country', u'/wiki/Minimum_wage', u'/wiki/Remuneration', u'/wiki/Financial_compensation', u'/wiki/Money', u'/wiki/Payment', u'/wiki/Value_(economics)', u'/wiki/Goods_(economics)', u'/wiki/Economics'] True
+/wiki/Payment ['/wiki/List_of_minimum_wages_by_country', u'/wiki/Minimum_wage', u'/wiki/Remuneration', u'/wiki/Financial_compensation', u'/wiki/Money', u'/wiki/Payment', u'/wiki/Value_(economics)', u'/wiki/Goods_(economics)', u'/wiki/Economics'] True
+/wiki/Value_(economics) ['/wiki/List_of_minimum_wages_by_country', u'/wiki/Minimum_wage', u'/wiki/Remuneration', u'/wiki/Financial_compensation', u'/wiki/Money', u'/wiki/Payment', u'/wiki/Value_(economics)', u'/wiki/Goods_(economics)', u'/wiki/Economics'] True
+/wiki/Goods_(economics) ['/wiki/List_of_minimum_wages_by_country', u'/wiki/Minimum_wage', u'/wiki/Remuneration', u'/wiki/Financial_compensation', u'/wiki/Money', u'/wiki/Payment', u'/wiki/Value_(economics)', u'/wiki/Goods_(economics)', u'/wiki/Economics'] True
+/wiki/Economics ['/wiki/List_of_minimum_wages_by_country', u'/wiki/Minimum_wage', u'/wiki/Remuneration', u'/wiki/Financial_compensation', u'/wiki/Money', u'/wiki/Payment', u'/wiki/Value_(economics)', u'/wiki/Goods_(economics)', u'/wiki/Economics'] True
+/wiki/Fagligt_F%C3%A6lles_Forbund ['/wiki/Fagligt_F%C3%A6lles_Forbund', u'/wiki/Trade_union', u'/wiki/Legal_person', u'/wiki/Natural_person'] True
+/wiki/Trade_union ['/wiki/Fagligt_F%C3%A6lles_Forbund', u'/wiki/Trade_union', u'/wiki/Legal_person', u'/wiki/Natural_person'] True
+/wiki/Legal_person ['/wiki/Fagligt_F%C3%A6lles_Forbund', u'/wiki/Trade_union', u'/wiki/Legal_person', u'/wiki/Natural_person'] True
+/wiki/Natural_person ['/wiki/Fagligt_F%C3%A6lles_Forbund', u'/wiki/Trade_union', u'/wiki/Legal_person', u'/wiki/Natural_person'] True
+/wiki/McDonald%27s ['/wiki/McDonald%27s', u'/wiki/Fast_food', u'/wiki/Mass_production', u'/wiki/Standardized', u'/wiki/Technical_standard', u'/wiki/Norm_(social)', u'/wiki/Acceptance', u'/wiki/Human', u'/wiki/Extant_taxon', u'/wiki/Biology'] True
+/wiki/Fast_food ['/wiki/McDonald%27s', u'/wiki/Fast_food', u'/wiki/Mass_production', u'/wiki/Standardized', u'/wiki/Technical_standard', u'/wiki/Norm_(social)', u'/wiki/Acceptance', u'/wiki/Human', u'/wiki/Extant_taxon', u'/wiki/Biology'] True
+/wiki/Mass_production ['/wiki/McDonald%27s', u'/wiki/Fast_food', u'/wiki/Mass_production', u'/wiki/Standardized', u'/wiki/Technical_standard', u'/wiki/Norm_(social)', u'/wiki/Acceptance', u'/wiki/Human', u'/wiki/Extant_taxon', u'/wiki/Biology'] True
+/wiki/Standardized ['/wiki/McDonald%27s', u'/wiki/Fast_food', u'/wiki/Mass_production', u'/wiki/Standardized', u'/wiki/Technical_standard', u'/wiki/Norm_(social)', u'/wiki/Acceptance', u'/wiki/Human', u'/wiki/Extant_taxon', u'/wiki/Biology'] True
+/wiki/Technical_standard ['/wiki/McDonald%27s', u'/wiki/Fast_food', u'/wiki/Mass_production', u'/wiki/Standardized', u'/wiki/Technical_standard', u'/wiki/Norm_(social)', u'/wiki/Acceptance', u'/wiki/Human', u'/wiki/Extant_taxon', u'/wiki/Biology'] True
+/wiki/Norm_(social) ['/wiki/McDonald%27s', u'/wiki/Fast_food', u'/wiki/Mass_production', u'/wiki/Standardized', u'/wiki/Technical_standard', u'/wiki/Norm_(social)', u'/wiki/Acceptance', u'/wiki/Human', u'/wiki/Extant_taxon', u'/wiki/Biology'] True
+/wiki/Acceptance ['/wiki/McDonald%27s', u'/wiki/Fast_food', u'/wiki/Mass_production', u'/wiki/Standardized', u'/wiki/Technical_standard', u'/wiki/Norm_(social)', u'/wiki/Acceptance', u'/wiki/Human', u'/wiki/Extant_taxon', u'/wiki/Biology'] True
+/wiki/Human ['/wiki/McDonald%27s', u'/wiki/Fast_food', u'/wiki/Mass_production', u'/wiki/Standardized', u'/wiki/Technical_standard', u'/wiki/Norm_(social)', u'/wiki/Acceptance', u'/wiki/Human', u'/wiki/Extant_taxon', u'/wiki/Biology'] True
+/wiki/Extant_taxon ['/wiki/McDonald%27s', u'/wiki/Fast_food', u'/wiki/Mass_production', u'/wiki/Standardized', u'/wiki/Technical_standard', u'/wiki/Norm_(social)', u'/wiki/Acceptance', u'/wiki/Human', u'/wiki/Extant_taxon', u'/wiki/Biology'] True
+/wiki/Biology ['/wiki/McDonald%27s', u'/wiki/Fast_food', u'/wiki/Mass_production', u'/wiki/Standardized', u'/wiki/Technical_standard', u'/wiki/Norm_(social)', u'/wiki/Acceptance', u'/wiki/Human', u'/wiki/Extant_taxon', u'/wiki/Biology'] True
+/wiki/Parental_leave ['/wiki/Parental_leave', u'/wiki/Employee_benefit', u'/wiki/Employee', u'/wiki/Party_(law)', u'/wiki/Person'] True
+/wiki/Employee_benefit ['/wiki/Parental_leave', u'/wiki/Employee_benefit', u'/wiki/Employee', u'/wiki/Party_(law)', u'/wiki/Person'] True
+/wiki/Employee ['/wiki/Parental_leave', u'/wiki/Employee_benefit', u'/wiki/Employee', u'/wiki/Party_(law)', u'/wiki/Person'] True
+/wiki/Party_(law) ['/wiki/Parental_leave', u'/wiki/Employee_benefit', u'/wiki/Employee', u'/wiki/Party_(law)', u'/wiki/Person'] True
+/wiki/Person ['/wiki/Parental_leave', u'/wiki/Employee_benefit', u'/wiki/Employee', u'/wiki/Party_(law)', u'/wiki/Person'] True
+/wiki/Industrial_base ['/wiki/Industrial_base', u'/wiki/Production_(economics)', u'/wiki/Output_(economics)', u'/wiki/Economics'] True
+/wiki/Production_(economics) ['/wiki/Industrial_base', u'/wiki/Production_(economics)', u'/wiki/Output_(economics)', u'/wiki/Economics'] True
+/wiki/Output_(economics) ['/wiki/Industrial_base', u'/wiki/Production_(economics)', u'/wiki/Output_(economics)', u'/wiki/Economics'] True
+/wiki/Economics ['/wiki/Industrial_base', u'/wiki/Production_(economics)', u'/wiki/Output_(economics)', u'/wiki/Economics'] True
+/wiki/Wind_turbine ['/wiki/Wind_turbine', u'/wiki/Wind_power', u'/wiki/Wind', u'/wiki/Gas'] True
+/wiki/Wind_power ['/wiki/Wind_turbine', u'/wiki/Wind_power', u'/wiki/Wind', u'/wiki/Gas'] True
+/wiki/Wind ['/wiki/Wind_turbine', u'/wiki/Wind_power', u'/wiki/Wind', u'/wiki/Gas'] True
+/wiki/Gas ['/wiki/Wind_turbine', u'/wiki/Wind_power', u'/wiki/Wind', u'/wiki/Gas'] True
+/wiki/Medical_equipment ['/wiki/Medical_equipment', u'/wiki/Hazard', u'/wiki/Incident_management', u'/wiki/Incident_response_team', u'/wiki/Unified_Command_(ICS)', u'/wiki/Incident_Command_System', u'/wiki/Emergency_response', u'/wiki/Public_safety', u'/wiki/Intelligence', u'/wiki/Logic', u'/wiki/Logical_form', u'/wiki/Mathematics'] True
+/wiki/Hazard ['/wiki/Medical_equipment', u'/wiki/Hazard', u'/wiki/Incident_management', u'/wiki/Incident_response_team', u'/wiki/Unified_Command_(ICS)', u'/wiki/Incident_Command_System', u'/wiki/Emergency_response', u'/wiki/Public_safety', u'/wiki/Intelligence', u'/wiki/Logic', u'/wiki/Logical_form', u'/wiki/Mathematics'] True
+/wiki/Incident_management ['/wiki/Medical_equipment', u'/wiki/Hazard', u'/wiki/Incident_management', u'/wiki/Incident_response_team', u'/wiki/Unified_Command_(ICS)', u'/wiki/Incident_Command_System', u'/wiki/Emergency_response', u'/wiki/Public_safety', u'/wiki/Intelligence', u'/wiki/Logic', u'/wiki/Logical_form', u'/wiki/Mathematics'] True
+/wiki/Incident_response_team ['/wiki/Medical_equipment', u'/wiki/Hazard', u'/wiki/Incident_management', u'/wiki/Incident_response_team', u'/wiki/Unified_Command_(ICS)', u'/wiki/Incident_Command_System', u'/wiki/Emergency_response', u'/wiki/Public_safety', u'/wiki/Intelligence', u'/wiki/Logic', u'/wiki/Logical_form', u'/wiki/Mathematics'] True
+/wiki/Unified_Command_(ICS) ['/wiki/Medical_equipment', u'/wiki/Hazard', u'/wiki/Incident_management', u'/wiki/Incident_response_team', u'/wiki/Unified_Command_(ICS)', u'/wiki/Incident_Command_System', u'/wiki/Emergency_response', u'/wiki/Public_safety', u'/wiki/Intelligence', u'/wiki/Logic', u'/wiki/Logical_form', u'/wiki/Mathematics'] True
+/wiki/Incident_Command_System ['/wiki/Medical_equipment', u'/wiki/Hazard', u'/wiki/Incident_management', u'/wiki/Incident_response_team', u'/wiki/Unified_Command_(ICS)', u'/wiki/Incident_Command_System', u'/wiki/Emergency_response', u'/wiki/Public_safety', u'/wiki/Intelligence', u'/wiki/Logic', u'/wiki/Logical_form', u'/wiki/Mathematics'] True
+/wiki/Emergency_response ['/wiki/Medical_equipment', u'/wiki/Hazard', u'/wiki/Incident_management', u'/wiki/Incident_response_team', u'/wiki/Unified_Command_(ICS)', u'/wiki/Incident_Command_System', u'/wiki/Emergency_response', u'/wiki/Public_safety', u'/wiki/Intelligence', u'/wiki/Logic', u'/wiki/Logical_form', u'/wiki/Mathematics'] True
+/wiki/Public_safety ['/wiki/Medical_equipment', u'/wiki/Hazard', u'/wiki/Incident_management', u'/wiki/Incident_response_team', u'/wiki/Unified_Command_(ICS)', u'/wiki/Incident_Command_System', u'/wiki/Emergency_response', u'/wiki/Public_safety', u'/wiki/Intelligence', u'/wiki/Logic', u'/wiki/Logical_form', u'/wiki/Mathematics'] True
+/wiki/Intelligence ['/wiki/Medical_equipment', u'/wiki/Hazard', u'/wiki/Incident_management', u'/wiki/Incident_response_team', u'/wiki/Unified_Command_(ICS)', u'/wiki/Incident_Command_System', u'/wiki/Emergency_response', u'/wiki/Public_safety', u'/wiki/Intelligence', u'/wiki/Logic', u'/wiki/Logical_form', u'/wiki/Mathematics'] True
+/wiki/Logic ['/wiki/Medical_equipment', u'/wiki/Hazard', u'/wiki/Incident_management', u'/wiki/Incident_response_team', u'/wiki/Unified_Command_(ICS)', u'/wiki/Incident_Command_System', u'/wiki/Emergency_response', u'/wiki/Public_safety', u'/wiki/Intelligence', u'/wiki/Logic', u'/wiki/Logical_form', u'/wiki/Mathematics'] True
+/wiki/Logical_form ['/wiki/Medical_equipment', u'/wiki/Hazard', u'/wiki/Incident_management', u'/wiki/Incident_response_team', u'/wiki/Unified_Command_(ICS)', u'/wiki/Incident_Command_System', u'/wiki/Emergency_response', u'/wiki/Public_safety', u'/wiki/Intelligence', u'/wiki/Logic', u'/wiki/Logical_form', u'/wiki/Mathematics'] True
+/wiki/Mathematics ['/wiki/Medical_equipment', u'/wiki/Hazard', u'/wiki/Incident_management', u'/wiki/Incident_response_team', u'/wiki/Unified_Command_(ICS)', u'/wiki/Incident_Command_System', u'/wiki/Emergency_response', u'/wiki/Public_safety', u'/wiki/Intelligence', u'/wiki/Logic', u'/wiki/Logical_form', u'/wiki/Mathematics'] True
+/wiki/Balance_of_payments ['/wiki/Balance_of_payments', u'/wiki/Sudan', u'/wiki/Africa', u'/wiki/Continent'] True
+/wiki/Sudan ['/wiki/Balance_of_payments', u'/wiki/Sudan', u'/wiki/Africa', u'/wiki/Continent'] True
+/wiki/Africa ['/wiki/Balance_of_payments', u'/wiki/Sudan', u'/wiki/Africa', u'/wiki/Continent'] True
+/wiki/Continent ['/wiki/Balance_of_payments', u'/wiki/Sudan', u'/wiki/Africa', u'/wiki/Continent'] True
+/wiki/Net_international_investment_position ['/wiki/Net_international_investment_position', u'/wiki/External_debt', u'/wiki/Debt', u'/wiki/Money'] True
+/wiki/External_debt ['/wiki/Net_international_investment_position', u'/wiki/External_debt', u'/wiki/Debt', u'/wiki/Money'] True
+/wiki/Debt ['/wiki/Net_international_investment_position', u'/wiki/External_debt', u'/wiki/Debt', u'/wiki/Money'] True
+/wiki/Money ['/wiki/Net_international_investment_position', u'/wiki/External_debt', u'/wiki/Debt', u'/wiki/Money'] True
+/wiki/Net_foreign_assets ['/wiki/Net_foreign_assets', u'/wiki/Economics'] True
+/wiki/Economics ['/wiki/Net_foreign_assets', u'/wiki/Economics'] True
+/wiki/Mercantilism ['/wiki/Mercantilism', u'/wiki/Current_account', u'/wiki/Economics'] True
+/wiki/Current_account ['/wiki/Mercantilism', u'/wiki/Current_account', u'/wiki/Economics'] True
+/wiki/Economics ['/wiki/Mercantilism', u'/wiki/Current_account', u'/wiki/Economics'] True
+/wiki/Internal_market ['/wiki/Internal_market', u'/wiki/Single_market', u'/wiki/Trade_bloc', u'/wiki/Trade_pact', u'/wiki/Treaty'] True
+/wiki/Single_market ['/wiki/Internal_market', u'/wiki/Single_market', u'/wiki/Trade_bloc', u'/wiki/Trade_pact', u'/wiki/Treaty'] True
+/wiki/Trade_bloc ['/wiki/Internal_market', u'/wiki/Single_market', u'/wiki/Trade_bloc', u'/wiki/Trade_pact', u'/wiki/Treaty'] True
+/wiki/Trade_pact ['/wiki/Internal_market', u'/wiki/Single_market', u'/wiki/Trade_bloc', u'/wiki/Trade_pact', u'/wiki/Treaty'] True
+/wiki/Treaty ['/wiki/Internal_market', u'/wiki/Single_market', u'/wiki/Trade_bloc', u'/wiki/Trade_pact', u'/wiki/Treaty'] True
+/wiki/Fixed_exchange_rate ['/wiki/Fixed_exchange_rate', u'/wiki/Exchange_rate_regime', u'/wiki/Monetary_authority', u'/wiki/Finance', u'/wiki/Asset', u'/wiki/Financial_accountancy', u'/wiki/Accounting', u'/wiki/Measurement'] True
+/wiki/Exchange_rate_regime ['/wiki/Fixed_exchange_rate', u'/wiki/Exchange_rate_regime', u'/wiki/Monetary_authority', u'/wiki/Finance', u'/wiki/Asset', u'/wiki/Financial_accountancy', u'/wiki/Accounting', u'/wiki/Measurement'] True
+/wiki/Monetary_authority ['/wiki/Fixed_exchange_rate', u'/wiki/Exchange_rate_regime', u'/wiki/Monetary_authority', u'/wiki/Finance', u'/wiki/Asset', u'/wiki/Financial_accountancy', u'/wiki/Accounting', u'/wiki/Measurement'] True
+/wiki/Finance ['/wiki/Fixed_exchange_rate', u'/wiki/Exchange_rate_regime', u'/wiki/Monetary_authority', u'/wiki/Finance', u'/wiki/Asset', u'/wiki/Financial_accountancy', u'/wiki/Accounting', u'/wiki/Measurement'] True
+/wiki/Asset ['/wiki/Fixed_exchange_rate', u'/wiki/Exchange_rate_regime', u'/wiki/Monetary_authority', u'/wiki/Finance', u'/wiki/Asset', u'/wiki/Financial_accountancy', u'/wiki/Accounting', u'/wiki/Measurement'] True
+/wiki/Financial_accountancy ['/wiki/Fixed_exchange_rate', u'/wiki/Exchange_rate_regime', u'/wiki/Monetary_authority', u'/wiki/Finance', u'/wiki/Asset', u'/wiki/Financial_accountancy', u'/wiki/Accounting', u'/wiki/Measurement'] True
+/wiki/Accounting ['/wiki/Fixed_exchange_rate', u'/wiki/Exchange_rate_regime', u'/wiki/Monetary_authority', u'/wiki/Finance', u'/wiki/Asset', u'/wiki/Financial_accountancy', u'/wiki/Accounting', u'/wiki/Measurement'] True
+/wiki/Measurement ['/wiki/Fixed_exchange_rate', u'/wiki/Exchange_rate_regime', u'/wiki/Monetary_authority', u'/wiki/Finance', u'/wiki/Asset', u'/wiki/Financial_accountancy', u'/wiki/Accounting', u'/wiki/Measurement'] True
+/wiki/Economic_and_Monetary_Union_of_the_European_Union ['/wiki/Economic_and_Monetary_Union_of_the_European_Union', u'/wiki/Umbrella_term', u'/wiki/Linguistics'] True
+/wiki/Umbrella_term ['/wiki/Economic_and_Monetary_Union_of_the_European_Union', u'/wiki/Umbrella_term', u'/wiki/Linguistics'] True
+/wiki/Linguistics ['/wiki/Economic_and_Monetary_Union_of_the_European_Union', u'/wiki/Umbrella_term', u'/wiki/Linguistics'] True
+/wiki/Euro_convergence_criteria ['/wiki/Euro_convergence_criteria', u'/wiki/European_Union'] False
+/wiki/European_Union ['/wiki/Euro_convergence_criteria', u'/wiki/European_Union'] False
+/wiki/A.P._M%C3%B8ller-M%C3%A6rsk ['/wiki/A.P._M%C3%B8ller-M%C3%A6rsk', u'/wiki/Conglomerate_(company)', u'/wiki/List_of_business_entities', u'/wiki/Corporate_law', u'/wiki/Law'] True
+/wiki/Conglomerate_(company) ['/wiki/A.P._M%C3%B8ller-M%C3%A6rsk', u'/wiki/Conglomerate_(company)', u'/wiki/List_of_business_entities', u'/wiki/Corporate_law', u'/wiki/Law'] True
+/wiki/List_of_business_entities ['/wiki/A.P._M%C3%B8ller-M%C3%A6rsk', u'/wiki/Conglomerate_(company)', u'/wiki/List_of_business_entities', u'/wiki/Corporate_law', u'/wiki/Law'] True
+/wiki/Corporate_law ['/wiki/A.P._M%C3%B8ller-M%C3%A6rsk', u'/wiki/Conglomerate_(company)', u'/wiki/List_of_business_entities', u'/wiki/Corporate_law', u'/wiki/Law'] True
+/wiki/Law ['/wiki/A.P._M%C3%B8ller-M%C3%A6rsk', u'/wiki/Conglomerate_(company)', u'/wiki/List_of_business_entities', u'/wiki/Corporate_law', u'/wiki/Law'] True
+/wiki/Novo_Nordisk ['/wiki/Novo_Nordisk', u'/wiki/Pharmaceutical_company', u'/wiki/Drug', u'/wiki/Chemical_substance'] True
+/wiki/Pharmaceutical_company ['/wiki/Novo_Nordisk', u'/wiki/Pharmaceutical_company', u'/wiki/Drug', u'/wiki/Chemical_substance'] True
+/wiki/Drug ['/wiki/Novo_Nordisk', u'/wiki/Pharmaceutical_company', u'/wiki/Drug', u'/wiki/Chemical_substance'] True
+/wiki/Chemical_substance ['/wiki/Novo_Nordisk', u'/wiki/Pharmaceutical_company', u'/wiki/Drug', u'/wiki/Chemical_substance'] True
+/wiki/Vestas ['/wiki/Vestas', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Vestas', u'/wiki/Denmark'] True
+/wiki/Arla_Foods ['/wiki/Arla_Foods', u'/wiki/Cooperative', u'/wiki/Autonomy', u'/wiki/Developmental_psychology', u'/wiki/Scientific'] True
+/wiki/Cooperative ['/wiki/Arla_Foods', u'/wiki/Cooperative', u'/wiki/Autonomy', u'/wiki/Developmental_psychology', u'/wiki/Scientific'] True
+/wiki/Autonomy ['/wiki/Arla_Foods', u'/wiki/Cooperative', u'/wiki/Autonomy', u'/wiki/Developmental_psychology', u'/wiki/Scientific'] True
+/wiki/Developmental_psychology ['/wiki/Arla_Foods', u'/wiki/Cooperative', u'/wiki/Autonomy', u'/wiki/Developmental_psychology', u'/wiki/Scientific'] True
+/wiki/Scientific ['/wiki/Arla_Foods', u'/wiki/Cooperative', u'/wiki/Autonomy', u'/wiki/Developmental_psychology', u'/wiki/Scientific'] True
+/wiki/DSV_(company) ['/wiki/DSV_(company)', u'/wiki/Copenhagen_Stock_Exchange', u'/wiki/Denmark'] True
+/wiki/Copenhagen_Stock_Exchange ['/wiki/DSV_(company)', u'/wiki/Copenhagen_Stock_Exchange', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/DSV_(company)', u'/wiki/Copenhagen_Stock_Exchange', u'/wiki/Denmark'] True
+/wiki/Carlsberg_Group ['/wiki/Carlsberg_Group', u'/wiki/J._C._Jacobsen', u'/wiki/Denmark'] True
+/wiki/J._C._Jacobsen ['/wiki/Carlsberg_Group', u'/wiki/J._C._Jacobsen', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Carlsberg_Group', u'/wiki/J._C._Jacobsen', u'/wiki/Denmark'] True
+/wiki/Salling_Group ['/wiki/Salling_Group', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Salling_Group', u'/wiki/Denmark'] True
+/wiki/%C3%98rsted_(company) ['/wiki/%C3%98rsted_(company)', u'/wiki/Fredericia', u'/wiki/Fredericia_municipality', u'/wiki/Jutland'] True
+/wiki/Fredericia ['/wiki/%C3%98rsted_(company)', u'/wiki/Fredericia', u'/wiki/Fredericia_municipality', u'/wiki/Jutland'] True
+/wiki/Fredericia_municipality ['/wiki/%C3%98rsted_(company)', u'/wiki/Fredericia', u'/wiki/Fredericia_municipality', u'/wiki/Jutland'] True
+/wiki/Jutland ['/wiki/%C3%98rsted_(company)', u'/wiki/Fredericia', u'/wiki/Fredericia_municipality', u'/wiki/Jutland'] True
+/wiki/Danske_Bank ['/wiki/Danske_Bank', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Danske_Bank', u'/wiki/Denmark'] True
+/wiki/Corporate_tax ['/wiki/Corporate_tax', u'/wiki/Direct_tax', u'/wiki/Tax'] True
+/wiki/Direct_tax ['/wiki/Corporate_tax', u'/wiki/Direct_tax', u'/wiki/Tax'] True
+/wiki/Tax ['/wiki/Corporate_tax', u'/wiki/Direct_tax', u'/wiki/Tax'] True
+/wiki/Poverty_line ['/wiki/Poverty_line', u'/wiki/Income', u'/wiki/Income_tax', u'/wiki/Tax_rate', u'/wiki/Tax'] True
+/wiki/Income ['/wiki/Poverty_line', u'/wiki/Income', u'/wiki/Income_tax', u'/wiki/Tax_rate', u'/wiki/Tax'] True
+/wiki/Income_tax ['/wiki/Poverty_line', u'/wiki/Income', u'/wiki/Income_tax', u'/wiki/Tax_rate', u'/wiki/Tax'] True
+/wiki/Tax_rate ['/wiki/Poverty_line', u'/wiki/Income', u'/wiki/Income_tax', u'/wiki/Tax_rate', u'/wiki/Tax'] True
+/wiki/Tax ['/wiki/Poverty_line', u'/wiki/Income', u'/wiki/Income_tax', u'/wiki/Tax_rate', u'/wiki/Tax'] True
+/wiki/Nordic_Model ['/wiki/Nordic_Model', u'/wiki/Economic_policy', u'/wiki/Government'] True
+/wiki/Economic_policy ['/wiki/Nordic_Model', u'/wiki/Economic_policy', u'/wiki/Government'] True
+/wiki/Government ['/wiki/Nordic_Model', u'/wiki/Economic_policy', u'/wiki/Government'] True
+/wiki/Worker_protection ['/wiki/Worker_protection', u'/wiki/Legal_rights'] True
+/wiki/Legal_rights ['/wiki/Worker_protection', u'/wiki/Legal_rights'] True
+/wiki/Labour_economics ['/wiki/Labour_economics', u'/wiki/Market_(economics)', u'/wiki/System'] True
+/wiki/Market_(economics) ['/wiki/Labour_economics', u'/wiki/Market_(economics)', u'/wiki/System'] True
+/wiki/System ['/wiki/Labour_economics', u'/wiki/Market_(economics)', u'/wiki/System'] True
+/wiki/ITER ['/wiki/ITER', u'/wiki/Nuclear_fusion', u'/wiki/Nuclear_reaction', u'/wiki/Nuclear_physics', u'/wiki/Physics'] True
+/wiki/Nuclear_fusion ['/wiki/ITER', u'/wiki/Nuclear_fusion', u'/wiki/Nuclear_reaction', u'/wiki/Nuclear_physics', u'/wiki/Physics'] True
+/wiki/Nuclear_reaction ['/wiki/ITER', u'/wiki/Nuclear_fusion', u'/wiki/Nuclear_reaction', u'/wiki/Nuclear_physics', u'/wiki/Physics'] True
+/wiki/Nuclear_physics ['/wiki/ITER', u'/wiki/Nuclear_fusion', u'/wiki/Nuclear_reaction', u'/wiki/Nuclear_physics', u'/wiki/Physics'] True
+/wiki/Physics ['/wiki/ITER', u'/wiki/Nuclear_fusion', u'/wiki/Nuclear_reaction', u'/wiki/Nuclear_physics', u'/wiki/Physics'] True
+/wiki/ESA ['/wiki/ESA', u'/wiki/File:LL-Q1860_(eng)-Poslovitch-European_Space_Agency.wav'] False
+/wiki/File:LL-Q1860_(eng)-Poslovitch-European_Space_Agency.wav ['/wiki/ESA', u'/wiki/File:LL-Q1860_(eng)-Poslovitch-European_Space_Agency.wav'] False
+/wiki/International_Space_Station ['/wiki/International_Space_Station', u'/wiki/Space_station', u'/wiki/Spacecraft', u'/wiki/Spaceflight', u'/wiki/Ballistics', u'/wiki/Mechanics', u'/wiki/Science'] True
+/wiki/Space_station ['/wiki/International_Space_Station', u'/wiki/Space_station', u'/wiki/Spacecraft', u'/wiki/Spaceflight', u'/wiki/Ballistics', u'/wiki/Mechanics', u'/wiki/Science'] True
+/wiki/Spacecraft ['/wiki/International_Space_Station', u'/wiki/Space_station', u'/wiki/Spacecraft', u'/wiki/Spaceflight', u'/wiki/Ballistics', u'/wiki/Mechanics', u'/wiki/Science'] True
+/wiki/Spaceflight ['/wiki/International_Space_Station', u'/wiki/Space_station', u'/wiki/Spacecraft', u'/wiki/Spaceflight', u'/wiki/Ballistics', u'/wiki/Mechanics', u'/wiki/Science'] True
+/wiki/Ballistics ['/wiki/International_Space_Station', u'/wiki/Space_station', u'/wiki/Spacecraft', u'/wiki/Spaceflight', u'/wiki/Ballistics', u'/wiki/Mechanics', u'/wiki/Science'] True
+/wiki/Mechanics ['/wiki/International_Space_Station', u'/wiki/Space_station', u'/wiki/Spacecraft', u'/wiki/Spaceflight', u'/wiki/Ballistics', u'/wiki/Mechanics', u'/wiki/Science'] True
+/wiki/Science ['/wiki/International_Space_Station', u'/wiki/Space_station', u'/wiki/Spacecraft', u'/wiki/Spaceflight', u'/wiki/Ballistics', u'/wiki/Mechanics', u'/wiki/Science'] True
+/wiki/E-ELT ['/wiki/E-ELT', u'/wiki/Astronomical_observatory', u'/wiki/Celestial_event', u'/wiki/Astronomy', u'/wiki/Natural_science'] True
+/wiki/Astronomical_observatory ['/wiki/E-ELT', u'/wiki/Astronomical_observatory', u'/wiki/Celestial_event', u'/wiki/Astronomy', u'/wiki/Natural_science'] True
+/wiki/Celestial_event ['/wiki/E-ELT', u'/wiki/Astronomical_observatory', u'/wiki/Celestial_event', u'/wiki/Astronomy', u'/wiki/Natural_science'] True
+/wiki/Astronomy ['/wiki/E-ELT', u'/wiki/Astronomical_observatory', u'/wiki/Celestial_event', u'/wiki/Astronomy', u'/wiki/Natural_science'] True
+/wiki/Natural_science ['/wiki/E-ELT', u'/wiki/Astronomical_observatory', u'/wiki/Celestial_event', u'/wiki/Astronomy', u'/wiki/Natural_science'] True
+/wiki/Maersk_Triple_E_class ['/wiki/Maersk_Triple_E_class', u'/wiki/Container_ship', u'/wiki/Cargo_ship', u'/wiki/Merchant_ship', u'/wiki/Watercraft'] True
+/wiki/Container_ship ['/wiki/Maersk_Triple_E_class', u'/wiki/Container_ship', u'/wiki/Cargo_ship', u'/wiki/Merchant_ship', u'/wiki/Watercraft'] True
+/wiki/Cargo_ship ['/wiki/Maersk_Triple_E_class', u'/wiki/Container_ship', u'/wiki/Cargo_ship', u'/wiki/Merchant_ship', u'/wiki/Watercraft'] True
+/wiki/Merchant_ship ['/wiki/Maersk_Triple_E_class', u'/wiki/Container_ship', u'/wiki/Cargo_ship', u'/wiki/Merchant_ship', u'/wiki/Watercraft'] True
+/wiki/Watercraft ['/wiki/Maersk_Triple_E_class', u'/wiki/Container_ship', u'/wiki/Cargo_ship', u'/wiki/Merchant_ship', u'/wiki/Watercraft'] True
+/wiki/MAN_Diesel ['/wiki/MAN_Diesel', u'/wiki/Diesel_engine', u'/wiki/Rudolf_Diesel', u'/wiki/Inventor', u'/wiki/Invention', u'/wiki/Novelty_(patent)', u'/wiki/Claim_(patent)', u'/wiki/Patent', u'/wiki/Intellectual_property'] True
+/wiki/Diesel_engine ['/wiki/MAN_Diesel', u'/wiki/Diesel_engine', u'/wiki/Rudolf_Diesel', u'/wiki/Inventor', u'/wiki/Invention', u'/wiki/Novelty_(patent)', u'/wiki/Claim_(patent)', u'/wiki/Patent', u'/wiki/Intellectual_property'] True
+/wiki/Rudolf_Diesel ['/wiki/MAN_Diesel', u'/wiki/Diesel_engine', u'/wiki/Rudolf_Diesel', u'/wiki/Inventor', u'/wiki/Invention', u'/wiki/Novelty_(patent)', u'/wiki/Claim_(patent)', u'/wiki/Patent', u'/wiki/Intellectual_property'] True
+/wiki/Inventor ['/wiki/MAN_Diesel', u'/wiki/Diesel_engine', u'/wiki/Rudolf_Diesel', u'/wiki/Inventor', u'/wiki/Invention', u'/wiki/Novelty_(patent)', u'/wiki/Claim_(patent)', u'/wiki/Patent', u'/wiki/Intellectual_property'] True
+/wiki/Invention ['/wiki/MAN_Diesel', u'/wiki/Diesel_engine', u'/wiki/Rudolf_Diesel', u'/wiki/Inventor', u'/wiki/Invention', u'/wiki/Novelty_(patent)', u'/wiki/Claim_(patent)', u'/wiki/Patent', u'/wiki/Intellectual_property'] True
+/wiki/Novelty_(patent) ['/wiki/MAN_Diesel', u'/wiki/Diesel_engine', u'/wiki/Rudolf_Diesel', u'/wiki/Inventor', u'/wiki/Invention', u'/wiki/Novelty_(patent)', u'/wiki/Claim_(patent)', u'/wiki/Patent', u'/wiki/Intellectual_property'] True
+/wiki/Claim_(patent) ['/wiki/MAN_Diesel', u'/wiki/Diesel_engine', u'/wiki/Rudolf_Diesel', u'/wiki/Inventor', u'/wiki/Invention', u'/wiki/Novelty_(patent)', u'/wiki/Claim_(patent)', u'/wiki/Patent', u'/wiki/Intellectual_property'] True
+/wiki/Patent ['/wiki/MAN_Diesel', u'/wiki/Diesel_engine', u'/wiki/Rudolf_Diesel', u'/wiki/Inventor', u'/wiki/Invention', u'/wiki/Novelty_(patent)', u'/wiki/Claim_(patent)', u'/wiki/Patent', u'/wiki/Intellectual_property'] True
+/wiki/Intellectual_property ['/wiki/MAN_Diesel', u'/wiki/Diesel_engine', u'/wiki/Rudolf_Diesel', u'/wiki/Inventor', u'/wiki/Invention', u'/wiki/Novelty_(patent)', u'/wiki/Claim_(patent)', u'/wiki/Patent', u'/wiki/Intellectual_property'] True
+/wiki/Nordic_Mobile_Telephone ['/wiki/Nordic_Mobile_Telephone', u'/wiki/Nordic_countries'] True
+/wiki/Nordic_countries ['/wiki/Nordic_Mobile_Telephone', u'/wiki/Nordic_countries'] True
+/wiki/GSM ['/wiki/GSM', u'/wiki/European_Telecommunications_Standards_Institute', u'/wiki/Standardization', u'/wiki/Technical_standard'] True
+/wiki/European_Telecommunications_Standards_Institute ['/wiki/GSM', u'/wiki/European_Telecommunications_Standards_Institute', u'/wiki/Standardization', u'/wiki/Technical_standard'] True
+/wiki/Standardization ['/wiki/GSM', u'/wiki/European_Telecommunications_Standards_Institute', u'/wiki/Standardization', u'/wiki/Technical_standard'] True
+/wiki/Technical_standard ['/wiki/GSM', u'/wiki/European_Telecommunications_Standards_Institute', u'/wiki/Standardization', u'/wiki/Technical_standard'] True
+/wiki/Biotech ['/wiki/Biotech', u'/wiki/Molecular_biology', u'/wiki/Biology'] True
+/wiki/Molecular_biology ['/wiki/Biotech', u'/wiki/Molecular_biology', u'/wiki/Biology'] True
+/wiki/Biology ['/wiki/Biotech', u'/wiki/Molecular_biology', u'/wiki/Biology'] True
+/wiki/Novozymes ['/wiki/Novozymes', u'/wiki/Biotechnology', u'/wiki/Molecular_biology'] True
+/wiki/Biotechnology ['/wiki/Novozymes', u'/wiki/Biotechnology', u'/wiki/Molecular_biology'] True
+/wiki/Molecular_biology ['/wiki/Novozymes', u'/wiki/Biotechnology', u'/wiki/Molecular_biology'] True
+/wiki/Bioethanol ['/wiki/Bioethanol', u'/wiki/Chemical_compound', u'/wiki/Chemical_substance'] True
+/wiki/Chemical_compound ['/wiki/Bioethanol', u'/wiki/Chemical_compound', u'/wiki/Chemical_substance'] True
+/wiki/Chemical_substance ['/wiki/Bioethanol', u'/wiki/Chemical_compound', u'/wiki/Chemical_substance'] True
+/wiki/Cellulosic_ethanol ['/wiki/Cellulosic_ethanol', u'/wiki/Ethanol', u'/wiki/Chemical_compound'] True
+/wiki/Ethanol ['/wiki/Cellulosic_ethanol', u'/wiki/Ethanol', u'/wiki/Chemical_compound'] True
+/wiki/Chemical_compound ['/wiki/Cellulosic_ethanol', u'/wiki/Ethanol', u'/wiki/Chemical_compound'] True
+/wiki/Business_cluster ['/wiki/Business_cluster', u'/wiki/Business', u'/wiki/Product_(business)', u'/wiki/Market_(economics)'] True
+/wiki/Business ['/wiki/Business_cluster', u'/wiki/Business', u'/wiki/Product_(business)', u'/wiki/Market_(economics)'] True
+/wiki/Product_(business) ['/wiki/Business_cluster', u'/wiki/Business', u'/wiki/Product_(business)', u'/wiki/Market_(economics)'] True
+/wiki/Market_(economics) ['/wiki/Business_cluster', u'/wiki/Business', u'/wiki/Product_(business)', u'/wiki/Market_(economics)'] True
+/wiki/Anders_Hejlsberg ['/wiki/Anders_Hejlsberg', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Anders_Hejlsberg', u'/wiki/Denmark'] True
+/wiki/Turbo_Pascal ['/wiki/Turbo_Pascal', u'/wiki/Compiler', u'/wiki/Computer_program', u'/wiki/Instruction_set', u'/wiki/Computer', u'/wiki/Sequence', u'/wiki/Mathematics'] True
+/wiki/Compiler ['/wiki/Turbo_Pascal', u'/wiki/Compiler', u'/wiki/Computer_program', u'/wiki/Instruction_set', u'/wiki/Computer', u'/wiki/Sequence', u'/wiki/Mathematics'] True
+/wiki/Computer_program ['/wiki/Turbo_Pascal', u'/wiki/Compiler', u'/wiki/Computer_program', u'/wiki/Instruction_set', u'/wiki/Computer', u'/wiki/Sequence', u'/wiki/Mathematics'] True
+/wiki/Instruction_set ['/wiki/Turbo_Pascal', u'/wiki/Compiler', u'/wiki/Computer_program', u'/wiki/Instruction_set', u'/wiki/Computer', u'/wiki/Sequence', u'/wiki/Mathematics'] True
+/wiki/Computer ['/wiki/Turbo_Pascal', u'/wiki/Compiler', u'/wiki/Computer_program', u'/wiki/Instruction_set', u'/wiki/Computer', u'/wiki/Sequence', u'/wiki/Mathematics'] True
+/wiki/Sequence ['/wiki/Turbo_Pascal', u'/wiki/Compiler', u'/wiki/Computer_program', u'/wiki/Instruction_set', u'/wiki/Computer', u'/wiki/Sequence', u'/wiki/Mathematics'] True
+/wiki/Mathematics ['/wiki/Turbo_Pascal', u'/wiki/Compiler', u'/wiki/Computer_program', u'/wiki/Instruction_set', u'/wiki/Computer', u'/wiki/Sequence', u'/wiki/Mathematics'] True
+/wiki/Embarcadero_Delphi ['/wiki/Embarcadero_Delphi', u'/wiki/Event-driven_programming', u'/wiki/Computer_programming', u'/wiki/Executable', u'/wiki/Computing', u'/wiki/Computer'] True
+/wiki/Event-driven_programming ['/wiki/Embarcadero_Delphi', u'/wiki/Event-driven_programming', u'/wiki/Computer_programming', u'/wiki/Executable', u'/wiki/Computing', u'/wiki/Computer'] True
+/wiki/Computer_programming ['/wiki/Embarcadero_Delphi', u'/wiki/Event-driven_programming', u'/wiki/Computer_programming', u'/wiki/Executable', u'/wiki/Computing', u'/wiki/Computer'] True
+/wiki/Executable ['/wiki/Embarcadero_Delphi', u'/wiki/Event-driven_programming', u'/wiki/Computer_programming', u'/wiki/Executable', u'/wiki/Computing', u'/wiki/Computer'] True
+/wiki/Computing ['/wiki/Embarcadero_Delphi', u'/wiki/Event-driven_programming', u'/wiki/Computer_programming', u'/wiki/Executable', u'/wiki/Computing', u'/wiki/Computer'] True
+/wiki/Computer ['/wiki/Embarcadero_Delphi', u'/wiki/Event-driven_programming', u'/wiki/Computer_programming', u'/wiki/Executable', u'/wiki/Computing', u'/wiki/Computer'] True
+/wiki/C_Sharp_(programming_language) ['/wiki/C_Sharp_(programming_language)', u'/wiki/Multi-paradigm_programming_language', u'/wiki/Programming_language', u'/wiki/Formal_language', u'/wiki/Mathematics'] True
+/wiki/Multi-paradigm_programming_language ['/wiki/C_Sharp_(programming_language)', u'/wiki/Multi-paradigm_programming_language', u'/wiki/Programming_language', u'/wiki/Formal_language', u'/wiki/Mathematics'] True
+/wiki/Programming_language ['/wiki/C_Sharp_(programming_language)', u'/wiki/Multi-paradigm_programming_language', u'/wiki/Programming_language', u'/wiki/Formal_language', u'/wiki/Mathematics'] True
+/wiki/Formal_language ['/wiki/C_Sharp_(programming_language)', u'/wiki/Multi-paradigm_programming_language', u'/wiki/Programming_language', u'/wiki/Formal_language', u'/wiki/Mathematics'] True
+/wiki/Mathematics ['/wiki/C_Sharp_(programming_language)', u'/wiki/Multi-paradigm_programming_language', u'/wiki/Programming_language', u'/wiki/Formal_language', u'/wiki/Mathematics'] True
+/wiki/Rasmus_Lerdorf ['/wiki/Rasmus_Lerdorf', u'/wiki/Programmer', u'/wiki/Computer_software', u'/wiki/Data_(computing)', u'/wiki/Information'] True
+/wiki/Programmer ['/wiki/Rasmus_Lerdorf', u'/wiki/Programmer', u'/wiki/Computer_software', u'/wiki/Data_(computing)', u'/wiki/Information'] True
+/wiki/Computer_software ['/wiki/Rasmus_Lerdorf', u'/wiki/Programmer', u'/wiki/Computer_software', u'/wiki/Data_(computing)', u'/wiki/Information'] True
+/wiki/Data_(computing) ['/wiki/Rasmus_Lerdorf', u'/wiki/Programmer', u'/wiki/Computer_software', u'/wiki/Data_(computing)', u'/wiki/Information'] True
+/wiki/Information ['/wiki/Rasmus_Lerdorf', u'/wiki/Programmer', u'/wiki/Computer_software', u'/wiki/Data_(computing)', u'/wiki/Information'] True
+/wiki/PHP ['/wiki/PHP', u'/wiki/General-purpose_programming_language', u'/wiki/Computer_software'] True
+/wiki/General-purpose_programming_language ['/wiki/PHP', u'/wiki/General-purpose_programming_language', u'/wiki/Computer_software'] True
+/wiki/Computer_software ['/wiki/PHP', u'/wiki/General-purpose_programming_language', u'/wiki/Computer_software'] True
+/wiki/Bjarne_Stroustrup ['/wiki/Bjarne_Stroustrup', u'/wiki/Computer_scientist', u'/wiki/Person'] True
+/wiki/Computer_scientist ['/wiki/Bjarne_Stroustrup', u'/wiki/Computer_scientist', u'/wiki/Person'] True
+/wiki/Person ['/wiki/Bjarne_Stroustrup', u'/wiki/Computer_scientist', u'/wiki/Person'] True
+/wiki/C%2B%2B ['/wiki/C%2B%2B', u'/wiki/General-purpose_programming_language'] True
+/wiki/General-purpose_programming_language ['/wiki/C%2B%2B', u'/wiki/General-purpose_programming_language'] True
+/wiki/David_Heinemeier_Hansson ['/wiki/David_Heinemeier_Hansson', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/David_Heinemeier_Hansson', u'/wiki/Denmark'] True
+/wiki/Ruby_on_Rails ['/wiki/Ruby_on_Rails', u'/wiki/Server-side', u'/wiki/Server_(computing)', u'/wiki/Computer_program'] True
+/wiki/Server-side ['/wiki/Ruby_on_Rails', u'/wiki/Server-side', u'/wiki/Server_(computing)', u'/wiki/Computer_program'] True
+/wiki/Server_(computing) ['/wiki/Ruby_on_Rails', u'/wiki/Server-side', u'/wiki/Server_(computing)', u'/wiki/Computer_program'] True
+/wiki/Computer_program ['/wiki/Ruby_on_Rails', u'/wiki/Server-side', u'/wiki/Server_(computing)', u'/wiki/Computer_program'] True
+/wiki/Lars_Bak_(computer_programmer) ['/wiki/Lars_Bak_(computer_programmer)', u'/wiki/Computer_programmer', u'/wiki/Computer_software'] True
+/wiki/Computer_programmer ['/wiki/Lars_Bak_(computer_programmer)', u'/wiki/Computer_programmer', u'/wiki/Computer_software'] True
+/wiki/Computer_software ['/wiki/Lars_Bak_(computer_programmer)', u'/wiki/Computer_programmer', u'/wiki/Computer_software'] True
+/wiki/V8_(JavaScript_engine) ['/wiki/V8_(JavaScript_engine)', u'/wiki/Open-source_software', u'/wiki/Computer_software'] True
+/wiki/Open-source_software ['/wiki/V8_(JavaScript_engine)', u'/wiki/Open-source_software', u'/wiki/Computer_software'] True
+/wiki/Computer_software ['/wiki/V8_(JavaScript_engine)', u'/wiki/Open-source_software', u'/wiki/Computer_software'] True
+/wiki/Java_virtual_machine ['/wiki/Java_virtual_machine', u'/wiki/Virtual_machine', u'/wiki/Emulator', u'/wiki/Computing'] True
+/wiki/Virtual_machine ['/wiki/Java_virtual_machine', u'/wiki/Virtual_machine', u'/wiki/Emulator', u'/wiki/Computing'] True
+/wiki/Emulator ['/wiki/Java_virtual_machine', u'/wiki/Virtual_machine', u'/wiki/Emulator', u'/wiki/Computing'] True
+/wiki/Computing ['/wiki/Java_virtual_machine', u'/wiki/Virtual_machine', u'/wiki/Emulator', u'/wiki/Computing'] True
+/wiki/Dart_(programming_language) ['/wiki/Dart_(programming_language)', u'/wiki/Mobile_app', u'/wiki/Computer_program'] True
+/wiki/Mobile_app ['/wiki/Dart_(programming_language)', u'/wiki/Mobile_app', u'/wiki/Computer_program'] True
+/wiki/Computer_program ['/wiki/Dart_(programming_language)', u'/wiki/Mobile_app', u'/wiki/Computer_program'] True
+/wiki/Lene_Vestergaard_Hau ['/wiki/Lene_Vestergaard_Hau', u'/wiki/Physicist', u'/wiki/Scientist', u'/wiki/Scientific_method'] True
+/wiki/Physicist ['/wiki/Lene_Vestergaard_Hau', u'/wiki/Physicist', u'/wiki/Scientist', u'/wiki/Scientific_method'] True
+/wiki/Scientist ['/wiki/Lene_Vestergaard_Hau', u'/wiki/Physicist', u'/wiki/Scientist', u'/wiki/Scientific_method'] True
+/wiki/Scientific_method ['/wiki/Lene_Vestergaard_Hau', u'/wiki/Physicist', u'/wiki/Scientist', u'/wiki/Scientific_method'] True
+/wiki/Quantum_computing ['/wiki/Quantum_computing', u'/wiki/Model_of_computation', u'/wiki/Computer_science', u'/wiki/Process_(engineering)', u'/wiki/Engineering'] True
+/wiki/Model_of_computation ['/wiki/Quantum_computing', u'/wiki/Model_of_computation', u'/wiki/Computer_science', u'/wiki/Process_(engineering)', u'/wiki/Engineering'] True
+/wiki/Computer_science ['/wiki/Quantum_computing', u'/wiki/Model_of_computation', u'/wiki/Computer_science', u'/wiki/Process_(engineering)', u'/wiki/Engineering'] True
+/wiki/Process_(engineering) ['/wiki/Quantum_computing', u'/wiki/Model_of_computation', u'/wiki/Computer_science', u'/wiki/Process_(engineering)', u'/wiki/Engineering'] True
+/wiki/Engineering ['/wiki/Quantum_computing', u'/wiki/Model_of_computation', u'/wiki/Computer_science', u'/wiki/Process_(engineering)', u'/wiki/Engineering'] True
+/wiki/Nanoscale_engineering ['/wiki/Nanoscale_engineering', u'/wiki/Engineering'] True
+/wiki/Engineering ['/wiki/Nanoscale_engineering', u'/wiki/Engineering'] True
+/wiki/Linear_optics ['/wiki/Linear_optics', u'/wiki/Optics', u'/wiki/Physics'] True
+/wiki/Optics ['/wiki/Linear_optics', u'/wiki/Optics', u'/wiki/Physics'] True
+/wiki/Physics ['/wiki/Linear_optics', u'/wiki/Optics', u'/wiki/Physics'] True
+/wiki/Electric_transmission_lines ['/wiki/Electric_transmission_lines', u'/wiki/Electrical_energy', u'/wiki/Electric_potential_energy', u'/wiki/Potential_energy', u'/wiki/Energy', u'/wiki/Physics'] True
+/wiki/Electrical_energy ['/wiki/Electric_transmission_lines', u'/wiki/Electrical_energy', u'/wiki/Electric_potential_energy', u'/wiki/Potential_energy', u'/wiki/Energy', u'/wiki/Physics'] True
+/wiki/Electric_potential_energy ['/wiki/Electric_transmission_lines', u'/wiki/Electrical_energy', u'/wiki/Electric_potential_energy', u'/wiki/Potential_energy', u'/wiki/Energy', u'/wiki/Physics'] True
+/wiki/Potential_energy ['/wiki/Electric_transmission_lines', u'/wiki/Electrical_energy', u'/wiki/Electric_potential_energy', u'/wiki/Potential_energy', u'/wiki/Energy', u'/wiki/Physics'] True
+/wiki/Energy ['/wiki/Electric_transmission_lines', u'/wiki/Electrical_energy', u'/wiki/Electric_potential_energy', u'/wiki/Potential_energy', u'/wiki/Energy', u'/wiki/Physics'] True
+/wiki/Physics ['/wiki/Electric_transmission_lines', u'/wiki/Electrical_energy', u'/wiki/Electric_potential_energy', u'/wiki/Potential_energy', u'/wiki/Energy', u'/wiki/Physics'] True
+/wiki/Electric_vehicle ['/wiki/Electric_vehicle', u'/wiki/Electric_motor', u'/wiki/Electric_machine', u'/wiki/Electrical_engineering', u'/wiki/Electricity', u'/wiki/Physics'] True
+/wiki/Electric_motor ['/wiki/Electric_vehicle', u'/wiki/Electric_motor', u'/wiki/Electric_machine', u'/wiki/Electrical_engineering', u'/wiki/Electricity', u'/wiki/Physics'] True
+/wiki/Electric_machine ['/wiki/Electric_vehicle', u'/wiki/Electric_motor', u'/wiki/Electric_machine', u'/wiki/Electrical_engineering', u'/wiki/Electricity', u'/wiki/Physics'] True
+/wiki/Electrical_engineering ['/wiki/Electric_vehicle', u'/wiki/Electric_motor', u'/wiki/Electric_machine', u'/wiki/Electrical_engineering', u'/wiki/Electricity', u'/wiki/Physics'] True
+/wiki/Electricity ['/wiki/Electric_vehicle', u'/wiki/Electric_motor', u'/wiki/Electric_machine', u'/wiki/Electrical_engineering', u'/wiki/Electricity', u'/wiki/Physics'] True
+/wiki/Physics ['/wiki/Electric_vehicle', u'/wiki/Electric_motor', u'/wiki/Electric_machine', u'/wiki/Electrical_engineering', u'/wiki/Electricity', u'/wiki/Physics'] True
+/wiki/International_Renewable_Energy_Agency ['/wiki/International_Renewable_Energy_Agency', u'/wiki/Renewable_energy', u'/wiki/Renewable_resource', u'/wiki/Natural_resource', u'/wiki/Resource', u'/wiki/Human'] True
+/wiki/Renewable_energy ['/wiki/International_Renewable_Energy_Agency', u'/wiki/Renewable_energy', u'/wiki/Renewable_resource', u'/wiki/Natural_resource', u'/wiki/Resource', u'/wiki/Human'] True
+/wiki/Renewable_resource ['/wiki/International_Renewable_Energy_Agency', u'/wiki/Renewable_energy', u'/wiki/Renewable_resource', u'/wiki/Natural_resource', u'/wiki/Resource', u'/wiki/Human'] True
+/wiki/Natural_resource ['/wiki/International_Renewable_Energy_Agency', u'/wiki/Renewable_energy', u'/wiki/Renewable_resource', u'/wiki/Natural_resource', u'/wiki/Resource', u'/wiki/Human'] True
+/wiki/Resource ['/wiki/International_Renewable_Energy_Agency', u'/wiki/Renewable_energy', u'/wiki/Renewable_resource', u'/wiki/Natural_resource', u'/wiki/Resource', u'/wiki/Human'] True
+/wiki/Human ['/wiki/International_Renewable_Energy_Agency', u'/wiki/Renewable_energy', u'/wiki/Renewable_resource', u'/wiki/Natural_resource', u'/wiki/Resource', u'/wiki/Human'] True
+/wiki/DB_Schenker_Rail ['/wiki/DB_Schenker_Rail', u'/wiki/Rail_freight_transport', u'/wiki/Rail_transport', u'/wiki/Transport', u'/wiki/Motion', u'/wiki/Physics'] True
+/wiki/Rail_freight_transport ['/wiki/DB_Schenker_Rail', u'/wiki/Rail_freight_transport', u'/wiki/Rail_transport', u'/wiki/Transport', u'/wiki/Motion', u'/wiki/Physics'] True
+/wiki/Rail_transport ['/wiki/DB_Schenker_Rail', u'/wiki/Rail_freight_transport', u'/wiki/Rail_transport', u'/wiki/Transport', u'/wiki/Motion', u'/wiki/Physics'] True
+/wiki/Transport ['/wiki/DB_Schenker_Rail', u'/wiki/Rail_freight_transport', u'/wiki/Rail_transport', u'/wiki/Transport', u'/wiki/Motion', u'/wiki/Physics'] True
+/wiki/Motion ['/wiki/DB_Schenker_Rail', u'/wiki/Rail_freight_transport', u'/wiki/Rail_transport', u'/wiki/Transport', u'/wiki/Motion', u'/wiki/Physics'] True
+/wiki/Physics ['/wiki/DB_Schenker_Rail', u'/wiki/Rail_freight_transport', u'/wiki/Rail_transport', u'/wiki/Transport', u'/wiki/Motion', u'/wiki/Physics'] True
+/wiki/Banedanmark ['/wiki/Banedanmark', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Banedanmark', u'/wiki/Denmark'] True
+/wiki/Fehmarn_Belt_Fixed_Link ['/wiki/Fehmarn_Belt_Fixed_Link', u'/wiki/Lolland', u'/wiki/Island'] True
+/wiki/Lolland ['/wiki/Fehmarn_Belt_Fixed_Link', u'/wiki/Lolland', u'/wiki/Island'] True
+/wiki/Island ['/wiki/Fehmarn_Belt_Fixed_Link', u'/wiki/Lolland', u'/wiki/Island'] True
+/wiki/Rapid_transit ['/wiki/Rapid_transit', u'/wiki/Public_transport', u'/wiki/Transport'] True
+/wiki/Public_transport ['/wiki/Rapid_transit', u'/wiki/Public_transport', u'/wiki/Transport'] True
+/wiki/Transport ['/wiki/Rapid_transit', u'/wiki/Public_transport', u'/wiki/Transport'] True
+/wiki/S-train ['/wiki/S-train', u'/wiki/Urban_rail', u'/wiki/Rail_transport'] True
+/wiki/Urban_rail ['/wiki/S-train', u'/wiki/Urban_rail', u'/wiki/Rail_transport'] True
+/wiki/Rail_transport ['/wiki/S-train', u'/wiki/Urban_rail', u'/wiki/Rail_transport'] True
+/wiki/Cycling_in_Denmark ['/wiki/Cycling_in_Denmark', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Cycling_in_Denmark', u'/wiki/Denmark'] True
+/wiki/Segregated_cycle_facilities ['/wiki/Segregated_cycle_facilities', u'/wiki/Infrastructure', u'/wiki/Economy', u'/wiki/Production_(economics)'] True
+/wiki/Infrastructure ['/wiki/Segregated_cycle_facilities', u'/wiki/Infrastructure', u'/wiki/Economy', u'/wiki/Production_(economics)'] True
+/wiki/Economy ['/wiki/Segregated_cycle_facilities', u'/wiki/Infrastructure', u'/wiki/Economy', u'/wiki/Production_(economics)'] True
+/wiki/Production_(economics) ['/wiki/Segregated_cycle_facilities', u'/wiki/Infrastructure', u'/wiki/Economy', u'/wiki/Production_(economics)'] True
+/wiki/Cycling_infrastructure ['/wiki/Cycling_infrastructure', u'/wiki/Infrastructure'] True
+/wiki/Infrastructure ['/wiki/Cycling_infrastructure', u'/wiki/Infrastructure'] True
+/wiki/Car_taxation ['/wiki/Car_taxation', u'/wiki/John_R._Meyer', u'/wiki/Economist', u'/wiki/Social_sciences', u'/wiki/Discipline_(academia)'] True
+/wiki/John_R._Meyer ['/wiki/Car_taxation', u'/wiki/John_R._Meyer', u'/wiki/Economist', u'/wiki/Social_sciences', u'/wiki/Discipline_(academia)'] True
+/wiki/Economist ['/wiki/Car_taxation', u'/wiki/John_R._Meyer', u'/wiki/Economist', u'/wiki/Social_sciences', u'/wiki/Discipline_(academia)'] True
+/wiki/Social_sciences ['/wiki/Car_taxation', u'/wiki/John_R._Meyer', u'/wiki/Economist', u'/wiki/Social_sciences', u'/wiki/Discipline_(academia)'] True
+/wiki/Discipline_(academia) ['/wiki/Car_taxation', u'/wiki/John_R._Meyer', u'/wiki/Economist', u'/wiki/Social_sciences', u'/wiki/Discipline_(academia)'] True
+/wiki/VAT ['/wiki/VAT', u'/wiki/Tax'] True
+/wiki/Tax ['/wiki/VAT', u'/wiki/Tax'] True
+/wiki/Billund_Airport ['/wiki/Billund_Airport', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Billund_Airport', u'/wiki/Denmark'] True
+/wiki/Homogeneity_(statistics) ['/wiki/Homogeneity_(statistics)', u'/wiki/Statistics', u'/wiki/Statistical_population', u'/wiki/Statistics'] False
+/wiki/Statistics ['/wiki/Homogeneity_(statistics)', u'/wiki/Statistics', u'/wiki/Statistical_population', u'/wiki/Statistics'] False
+/wiki/Statistical_population ['/wiki/Homogeneity_(statistics)', u'/wiki/Statistics', u'/wiki/Statistical_population', u'/wiki/Statistics'] False
+/wiki/Statistics ['/wiki/Homogeneity_(statistics)', u'/wiki/Statistics', u'/wiki/Statistical_population', u'/wiki/Statistics'] False
+/wiki/Net_migration ['/wiki/Net_migration', u'/wiki/Immigrant', u'/wiki/Country'] True
+/wiki/Immigrant ['/wiki/Net_migration', u'/wiki/Immigrant', u'/wiki/Country'] True
+/wiki/Country ['/wiki/Net_migration', u'/wiki/Immigrant', u'/wiki/Country'] True
+/wiki/Residence_permit ['/wiki/Residence_permit', u'/wiki/Foreign_national', u'/wiki/Person'] True
+/wiki/Foreign_national ['/wiki/Residence_permit', u'/wiki/Foreign_national', u'/wiki/Person'] True
+/wiki/Person ['/wiki/Residence_permit', u'/wiki/Foreign_national', u'/wiki/Person'] True
+/wiki/Asylum_seeker ['/wiki/Asylum_seeker', u'/wiki/Right_of_asylum', u'/wiki/Persecution', u'/wiki/Religious_persecution', u'/wiki/Religion', u'/wiki/Cultural_system'] True
+/wiki/Right_of_asylum ['/wiki/Asylum_seeker', u'/wiki/Right_of_asylum', u'/wiki/Persecution', u'/wiki/Religious_persecution', u'/wiki/Religion', u'/wiki/Cultural_system'] True
+/wiki/Persecution ['/wiki/Asylum_seeker', u'/wiki/Right_of_asylum', u'/wiki/Persecution', u'/wiki/Religious_persecution', u'/wiki/Religion', u'/wiki/Cultural_system'] True
+/wiki/Religious_persecution ['/wiki/Asylum_seeker', u'/wiki/Right_of_asylum', u'/wiki/Persecution', u'/wiki/Religious_persecution', u'/wiki/Religion', u'/wiki/Cultural_system'] True
+/wiki/Religion ['/wiki/Asylum_seeker', u'/wiki/Right_of_asylum', u'/wiki/Persecution', u'/wiki/Religious_persecution', u'/wiki/Religion', u'/wiki/Cultural_system'] True
+/wiki/Cultural_system ['/wiki/Asylum_seeker', u'/wiki/Right_of_asylum', u'/wiki/Persecution', u'/wiki/Religious_persecution', u'/wiki/Religion', u'/wiki/Cultural_system'] True
+/wiki/Bosnia_and_Hercegovina ['/wiki/Bosnia_and_Hercegovina', u'/wiki/Southeastern_Europe', u'/wiki/Geography'] True
+/wiki/Southeastern_Europe ['/wiki/Bosnia_and_Hercegovina', u'/wiki/Southeastern_Europe', u'/wiki/Geography'] True
+/wiki/Geography ['/wiki/Bosnia_and_Hercegovina', u'/wiki/Southeastern_Europe', u'/wiki/Geography'] True
+/wiki/South_Jutland_County ['/wiki/South_Jutland_County', u'/wiki/Counties_of_Denmark'] True
+/wiki/Counties_of_Denmark ['/wiki/South_Jutland_County', u'/wiki/Counties_of_Denmark'] True
+/wiki/Church_of_Denmark ['/wiki/Church_of_Denmark', u'/wiki/State_religion', u'/wiki/Religion'] True
+/wiki/State_religion ['/wiki/Church_of_Denmark', u'/wiki/State_religion', u'/wiki/Religion'] True
+/wiki/Religion ['/wiki/Church_of_Denmark', u'/wiki/State_religion', u'/wiki/Religion'] True
+/wiki/Danish_Royal_Family ['/wiki/Danish_Royal_Family', u'/wiki/Monarchy_of_Denmark', u'/wiki/Constitution'] True
+/wiki/Monarchy_of_Denmark ['/wiki/Danish_Royal_Family', u'/wiki/Monarchy_of_Denmark', u'/wiki/Constitution'] True
+/wiki/Constitution ['/wiki/Danish_Royal_Family', u'/wiki/Monarchy_of_Denmark', u'/wiki/Constitution'] True
+/wiki/Reformed_Synod_of_Denmark ['/wiki/Reformed_Synod_of_Denmark', u'/wiki/Synod', u'/wiki/Ecclesia_(church)', u'/wiki/Christianity', u'/wiki/Abrahamic_religions', u'/wiki/Semitic_people', u'/wiki/Semitic_languages', u'/wiki/Afroasiatic_languages', u'/wiki/Language_family', u'/wiki/Language'] True
+/wiki/Synod ['/wiki/Reformed_Synod_of_Denmark', u'/wiki/Synod', u'/wiki/Ecclesia_(church)', u'/wiki/Christianity', u'/wiki/Abrahamic_religions', u'/wiki/Semitic_people', u'/wiki/Semitic_languages', u'/wiki/Afroasiatic_languages', u'/wiki/Language_family', u'/wiki/Language'] True
+/wiki/Ecclesia_(church) ['/wiki/Reformed_Synod_of_Denmark', u'/wiki/Synod', u'/wiki/Ecclesia_(church)', u'/wiki/Christianity', u'/wiki/Abrahamic_religions', u'/wiki/Semitic_people', u'/wiki/Semitic_languages', u'/wiki/Afroasiatic_languages', u'/wiki/Language_family', u'/wiki/Language'] True
+/wiki/Christianity ['/wiki/Reformed_Synod_of_Denmark', u'/wiki/Synod', u'/wiki/Ecclesia_(church)', u'/wiki/Christianity', u'/wiki/Abrahamic_religions', u'/wiki/Semitic_people', u'/wiki/Semitic_languages', u'/wiki/Afroasiatic_languages', u'/wiki/Language_family', u'/wiki/Language'] True
+/wiki/Abrahamic_religions ['/wiki/Reformed_Synod_of_Denmark', u'/wiki/Synod', u'/wiki/Ecclesia_(church)', u'/wiki/Christianity', u'/wiki/Abrahamic_religions', u'/wiki/Semitic_people', u'/wiki/Semitic_languages', u'/wiki/Afroasiatic_languages', u'/wiki/Language_family', u'/wiki/Language'] True
+/wiki/Semitic_people ['/wiki/Reformed_Synod_of_Denmark', u'/wiki/Synod', u'/wiki/Ecclesia_(church)', u'/wiki/Christianity', u'/wiki/Abrahamic_religions', u'/wiki/Semitic_people', u'/wiki/Semitic_languages', u'/wiki/Afroasiatic_languages', u'/wiki/Language_family', u'/wiki/Language'] True
+/wiki/Semitic_languages ['/wiki/Reformed_Synod_of_Denmark', u'/wiki/Synod', u'/wiki/Ecclesia_(church)', u'/wiki/Christianity', u'/wiki/Abrahamic_religions', u'/wiki/Semitic_people', u'/wiki/Semitic_languages', u'/wiki/Afroasiatic_languages', u'/wiki/Language_family', u'/wiki/Language'] True
+/wiki/Afroasiatic_languages ['/wiki/Reformed_Synod_of_Denmark', u'/wiki/Synod', u'/wiki/Ecclesia_(church)', u'/wiki/Christianity', u'/wiki/Abrahamic_religions', u'/wiki/Semitic_people', u'/wiki/Semitic_languages', u'/wiki/Afroasiatic_languages', u'/wiki/Language_family', u'/wiki/Language'] True
+/wiki/Language_family ['/wiki/Reformed_Synod_of_Denmark', u'/wiki/Synod', u'/wiki/Ecclesia_(church)', u'/wiki/Christianity', u'/wiki/Abrahamic_religions', u'/wiki/Semitic_people', u'/wiki/Semitic_languages', u'/wiki/Afroasiatic_languages', u'/wiki/Language_family', u'/wiki/Language'] True
+/wiki/Language ['/wiki/Reformed_Synod_of_Denmark', u'/wiki/Synod', u'/wiki/Ecclesia_(church)', u'/wiki/Christianity', u'/wiki/Abrahamic_religions', u'/wiki/Semitic_people', u'/wiki/Semitic_languages', u'/wiki/Afroasiatic_languages', u'/wiki/Language_family', u'/wiki/Language'] True
+/wiki/Royal_decree ['/wiki/Royal_decree', u'/wiki/Law'] True
+/wiki/Law ['/wiki/Royal_decree', u'/wiki/Law'] True
+/wiki/Jesus ['/wiki/Jesus', u'/wiki/Jews', u'/wiki/Ethnoreligious_group', u'/wiki/Ethnic_group', u'/wiki/Identity_(social_science)'] True
+/wiki/Jews ['/wiki/Jesus', u'/wiki/Jews', u'/wiki/Ethnoreligious_group', u'/wiki/Ethnic_group', u'/wiki/Identity_(social_science)'] True
+/wiki/Ethnoreligious_group ['/wiki/Jesus', u'/wiki/Jews', u'/wiki/Ethnoreligious_group', u'/wiki/Ethnic_group', u'/wiki/Identity_(social_science)'] True
+/wiki/Ethnic_group ['/wiki/Jesus', u'/wiki/Jews', u'/wiki/Ethnoreligious_group', u'/wiki/Ethnic_group', u'/wiki/Identity_(social_science)'] True
+/wiki/Identity_(social_science) ['/wiki/Jesus', u'/wiki/Jews', u'/wiki/Ethnoreligious_group', u'/wiki/Ethnic_group', u'/wiki/Identity_(social_science)'] True
+/wiki/Son_of_God ['/wiki/Son_of_God', u'/wiki/Old_Testament', u'/wiki/Hebrew_Bible', u'/wiki/Biblical_canon', u'/wiki/Religious_text', u'/wiki/Literature', u'/wiki/History_of_printing', u'/wiki/Cylinder_seal', u'/wiki/Clay', u'/wiki/Rock_(geology)', u'/wiki/Mineral', u'/wiki/Chemical_compound'] True
+/wiki/Old_Testament ['/wiki/Son_of_God', u'/wiki/Old_Testament', u'/wiki/Hebrew_Bible', u'/wiki/Biblical_canon', u'/wiki/Religious_text', u'/wiki/Literature', u'/wiki/History_of_printing', u'/wiki/Cylinder_seal', u'/wiki/Clay', u'/wiki/Rock_(geology)', u'/wiki/Mineral', u'/wiki/Chemical_compound'] True
+/wiki/Hebrew_Bible ['/wiki/Son_of_God', u'/wiki/Old_Testament', u'/wiki/Hebrew_Bible', u'/wiki/Biblical_canon', u'/wiki/Religious_text', u'/wiki/Literature', u'/wiki/History_of_printing', u'/wiki/Cylinder_seal', u'/wiki/Clay', u'/wiki/Rock_(geology)', u'/wiki/Mineral', u'/wiki/Chemical_compound'] True
+/wiki/Biblical_canon ['/wiki/Son_of_God', u'/wiki/Old_Testament', u'/wiki/Hebrew_Bible', u'/wiki/Biblical_canon', u'/wiki/Religious_text', u'/wiki/Literature', u'/wiki/History_of_printing', u'/wiki/Cylinder_seal', u'/wiki/Clay', u'/wiki/Rock_(geology)', u'/wiki/Mineral', u'/wiki/Chemical_compound'] True
+/wiki/Religious_text ['/wiki/Son_of_God', u'/wiki/Old_Testament', u'/wiki/Hebrew_Bible', u'/wiki/Biblical_canon', u'/wiki/Religious_text', u'/wiki/Literature', u'/wiki/History_of_printing', u'/wiki/Cylinder_seal', u'/wiki/Clay', u'/wiki/Rock_(geology)', u'/wiki/Mineral', u'/wiki/Chemical_compound'] True
+/wiki/Literature ['/wiki/Son_of_God', u'/wiki/Old_Testament', u'/wiki/Hebrew_Bible', u'/wiki/Biblical_canon', u'/wiki/Religious_text', u'/wiki/Literature', u'/wiki/History_of_printing', u'/wiki/Cylinder_seal', u'/wiki/Clay', u'/wiki/Rock_(geology)', u'/wiki/Mineral', u'/wiki/Chemical_compound'] True
+/wiki/History_of_printing ['/wiki/Son_of_God', u'/wiki/Old_Testament', u'/wiki/Hebrew_Bible', u'/wiki/Biblical_canon', u'/wiki/Religious_text', u'/wiki/Literature', u'/wiki/History_of_printing', u'/wiki/Cylinder_seal', u'/wiki/Clay', u'/wiki/Rock_(geology)', u'/wiki/Mineral', u'/wiki/Chemical_compound'] True
+/wiki/Cylinder_seal ['/wiki/Son_of_God', u'/wiki/Old_Testament', u'/wiki/Hebrew_Bible', u'/wiki/Biblical_canon', u'/wiki/Religious_text', u'/wiki/Literature', u'/wiki/History_of_printing', u'/wiki/Cylinder_seal', u'/wiki/Clay', u'/wiki/Rock_(geology)', u'/wiki/Mineral', u'/wiki/Chemical_compound'] True
+/wiki/Clay ['/wiki/Son_of_God', u'/wiki/Old_Testament', u'/wiki/Hebrew_Bible', u'/wiki/Biblical_canon', u'/wiki/Religious_text', u'/wiki/Literature', u'/wiki/History_of_printing', u'/wiki/Cylinder_seal', u'/wiki/Clay', u'/wiki/Rock_(geology)', u'/wiki/Mineral', u'/wiki/Chemical_compound'] True
+/wiki/Rock_(geology) ['/wiki/Son_of_God', u'/wiki/Old_Testament', u'/wiki/Hebrew_Bible', u'/wiki/Biblical_canon', u'/wiki/Religious_text', u'/wiki/Literature', u'/wiki/History_of_printing', u'/wiki/Cylinder_seal', u'/wiki/Clay', u'/wiki/Rock_(geology)', u'/wiki/Mineral', u'/wiki/Chemical_compound'] True
+/wiki/Mineral ['/wiki/Son_of_God', u'/wiki/Old_Testament', u'/wiki/Hebrew_Bible', u'/wiki/Biblical_canon', u'/wiki/Religious_text', u'/wiki/Literature', u'/wiki/History_of_printing', u'/wiki/Cylinder_seal', u'/wiki/Clay', u'/wiki/Rock_(geology)', u'/wiki/Mineral', u'/wiki/Chemical_compound'] True
+/wiki/Chemical_compound ['/wiki/Son_of_God', u'/wiki/Old_Testament', u'/wiki/Hebrew_Bible', u'/wiki/Biblical_canon', u'/wiki/Religious_text', u'/wiki/Literature', u'/wiki/History_of_printing', u'/wiki/Cylinder_seal', u'/wiki/Clay', u'/wiki/Rock_(geology)', u'/wiki/Mineral', u'/wiki/Chemical_compound'] True
+/wiki/Redeemer_(Christianity) ['/wiki/Redeemer_(Christianity)', u'/wiki/Old_Testament'] True
+/wiki/Old_Testament ['/wiki/Redeemer_(Christianity)', u'/wiki/Old_Testament'] True
+/wiki/Primary_school ['/wiki/Primary_school', u'/wiki/School', u'/wiki/Educational_institution', u'/wiki/Education', u'/wiki/Learning', u'/wiki/Knowledge'] True
+/wiki/School ['/wiki/Primary_school', u'/wiki/School', u'/wiki/Educational_institution', u'/wiki/Education', u'/wiki/Learning', u'/wiki/Knowledge'] True
+/wiki/Educational_institution ['/wiki/Primary_school', u'/wiki/School', u'/wiki/Educational_institution', u'/wiki/Education', u'/wiki/Learning', u'/wiki/Knowledge'] True
+/wiki/Education ['/wiki/Primary_school', u'/wiki/School', u'/wiki/Educational_institution', u'/wiki/Education', u'/wiki/Learning', u'/wiki/Knowledge'] True
+/wiki/Learning ['/wiki/Primary_school', u'/wiki/School', u'/wiki/Educational_institution', u'/wiki/Education', u'/wiki/Learning', u'/wiki/Knowledge'] True
+/wiki/Knowledge ['/wiki/Primary_school', u'/wiki/School', u'/wiki/Educational_institution', u'/wiki/Education', u'/wiki/Learning', u'/wiki/Knowledge'] True
+/wiki/Secondary_school ['/wiki/Secondary_school', u'/wiki/Secondary_education', u'/wiki/International_Standard_Classification_of_Education', u'/wiki/Education'] True
+/wiki/Secondary_education ['/wiki/Secondary_school', u'/wiki/Secondary_education', u'/wiki/International_Standard_Classification_of_Education', u'/wiki/Education'] True
+/wiki/International_Standard_Classification_of_Education ['/wiki/Secondary_school', u'/wiki/Secondary_education', u'/wiki/International_Standard_Classification_of_Education', u'/wiki/Education'] True
+/wiki/Education ['/wiki/Secondary_school', u'/wiki/Secondary_education', u'/wiki/International_Standard_Classification_of_Education', u'/wiki/Education'] True
+/wiki/Christian_school ['/wiki/Christian_school', u'/wiki/School'] True
+/wiki/School ['/wiki/Christian_school', u'/wiki/School'] True
+/wiki/Waldorf_education ['/wiki/Waldorf_education', u'/wiki/Educational_philosophy', u'/wiki/Education'] True
+/wiki/Educational_philosophy ['/wiki/Waldorf_education', u'/wiki/Educational_philosophy', u'/wiki/Education'] True
+/wiki/Education ['/wiki/Waldorf_education', u'/wiki/Educational_philosophy', u'/wiki/Education'] True
+/wiki/Gymnasium_(Denmark) ['/wiki/Gymnasium_(Denmark)', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Gymnasium_(Denmark)', u'/wiki/Denmark'] True
+/wiki/Higher_Technical_Examination_Programme_(HTX) ['/wiki/Higher_Technical_Examination_Programme_(HTX)', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Higher_Technical_Examination_Programme_(HTX)', u'/wiki/Denmark'] True
+/wiki/Higher_Commercial_Examination_Programme ['/wiki/Higher_Commercial_Examination_Programme', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Higher_Commercial_Examination_Programme', u'/wiki/Denmark'] True
+/wiki/Higher_Preparatory_Examination_(HF) ['/wiki/Higher_Preparatory_Examination_(HF)', u'/wiki/Secondary_education_in_Denmark', u'/wiki/Secondary_education'] True
+/wiki/Secondary_education_in_Denmark ['/wiki/Higher_Preparatory_Examination_(HF)', u'/wiki/Secondary_education_in_Denmark', u'/wiki/Secondary_education'] True
+/wiki/Secondary_education ['/wiki/Higher_Preparatory_Examination_(HF)', u'/wiki/Secondary_education_in_Denmark', u'/wiki/Secondary_education'] True
+/wiki/Vocational_secondary_education_in_Denmark ['/wiki/Vocational_secondary_education_in_Denmark', u'/wiki/Vocational_school', u'/wiki/Secondary_education'] True
+/wiki/Vocational_school ['/wiki/Vocational_secondary_education_in_Denmark', u'/wiki/Vocational_school', u'/wiki/Secondary_education'] True
+/wiki/Secondary_education ['/wiki/Vocational_secondary_education_in_Denmark', u'/wiki/Vocational_school', u'/wiki/Secondary_education'] True
+/wiki/Apprenticeship ['/wiki/Apprenticeship', u'/wiki/Tradesman', u'/wiki/Trade_(occupation)', u'/wiki/Profession', u'/wiki/Educational'] True
+/wiki/Tradesman ['/wiki/Apprenticeship', u'/wiki/Tradesman', u'/wiki/Trade_(occupation)', u'/wiki/Profession', u'/wiki/Educational'] True
+/wiki/Trade_(occupation) ['/wiki/Apprenticeship', u'/wiki/Tradesman', u'/wiki/Trade_(occupation)', u'/wiki/Profession', u'/wiki/Educational'] True
+/wiki/Profession ['/wiki/Apprenticeship', u'/wiki/Tradesman', u'/wiki/Trade_(occupation)', u'/wiki/Profession', u'/wiki/Educational'] True
+/wiki/Educational ['/wiki/Apprenticeship', u'/wiki/Tradesman', u'/wiki/Trade_(occupation)', u'/wiki/Profession', u'/wiki/Educational'] True
+/wiki/Doctorate ['/wiki/Doctorate', u'/wiki/Academic_degree', u'/wiki/Higher_education', u'/wiki/Academic_degree'] False
+/wiki/Academic_degree ['/wiki/Doctorate', u'/wiki/Academic_degree', u'/wiki/Higher_education', u'/wiki/Academic_degree'] False
+/wiki/Higher_education ['/wiki/Doctorate', u'/wiki/Academic_degree', u'/wiki/Higher_education', u'/wiki/Academic_degree'] False
+/wiki/Academic_degree ['/wiki/Doctorate', u'/wiki/Academic_degree', u'/wiki/Higher_education', u'/wiki/Academic_degree'] False
+/wiki/Student_exchange_program ['/wiki/Student_exchange_program', u'/wiki/Study_abroad', u'/wiki/Franco-German_University', u'/wiki/Higher_education'] False
+/wiki/Study_abroad ['/wiki/Student_exchange_program', u'/wiki/Study_abroad', u'/wiki/Franco-German_University', u'/wiki/Higher_education'] False
+/wiki/Franco-German_University ['/wiki/Student_exchange_program', u'/wiki/Study_abroad', u'/wiki/Franco-German_University', u'/wiki/Higher_education'] False
+/wiki/Higher_education ['/wiki/Student_exchange_program', u'/wiki/Study_abroad', u'/wiki/Franco-German_University', u'/wiki/Higher_education'] False
+/wiki/List_of_countries_by_life_expectancy ['/wiki/List_of_countries_by_life_expectancy', u'/wiki/Life_expectancy', u'/wiki/Demographic', u'/wiki/Statistics'] False
+/wiki/Life_expectancy ['/wiki/List_of_countries_by_life_expectancy', u'/wiki/Life_expectancy', u'/wiki/Demographic', u'/wiki/Statistics'] False
+/wiki/Demographic ['/wiki/List_of_countries_by_life_expectancy', u'/wiki/Life_expectancy', u'/wiki/Demographic', u'/wiki/Statistics'] False
+/wiki/Statistics ['/wiki/List_of_countries_by_life_expectancy', u'/wiki/Life_expectancy', u'/wiki/Demographic', u'/wiki/Statistics'] False
+/wiki/Sedentary_lifestyle ['/wiki/Sedentary_lifestyle', u'/wiki/Lifestyle_(sociology)', u'/wiki/Alfred_Adler', u'/wiki/Austria', u'/wiki/Central_Europe', u'/wiki/Europe'] False
+/wiki/Lifestyle_(sociology) ['/wiki/Sedentary_lifestyle', u'/wiki/Lifestyle_(sociology)', u'/wiki/Alfred_Adler', u'/wiki/Austria', u'/wiki/Central_Europe', u'/wiki/Europe'] False
+/wiki/Alfred_Adler ['/wiki/Sedentary_lifestyle', u'/wiki/Lifestyle_(sociology)', u'/wiki/Alfred_Adler', u'/wiki/Austria', u'/wiki/Central_Europe', u'/wiki/Europe'] False
+/wiki/Austria ['/wiki/Sedentary_lifestyle', u'/wiki/Lifestyle_(sociology)', u'/wiki/Alfred_Adler', u'/wiki/Austria', u'/wiki/Central_Europe', u'/wiki/Europe'] False
+/wiki/Central_Europe ['/wiki/Sedentary_lifestyle', u'/wiki/Lifestyle_(sociology)', u'/wiki/Alfred_Adler', u'/wiki/Austria', u'/wiki/Central_Europe', u'/wiki/Europe'] False
+/wiki/Europe ['/wiki/Sedentary_lifestyle', u'/wiki/Lifestyle_(sociology)', u'/wiki/Alfred_Adler', u'/wiki/Austria', u'/wiki/Central_Europe', u'/wiki/Europe'] False
+/wiki/Obesity_by_country ['/wiki/Obesity_by_country', u'/wiki/Obesity', u'/wiki/Disease', u'/wiki/Structure', u'/wiki/System'] True
+/wiki/Obesity ['/wiki/Obesity_by_country', u'/wiki/Obesity', u'/wiki/Disease', u'/wiki/Structure', u'/wiki/System'] True
+/wiki/Disease ['/wiki/Obesity_by_country', u'/wiki/Obesity', u'/wiki/Disease', u'/wiki/Structure', u'/wiki/System'] True
+/wiki/Structure ['/wiki/Obesity_by_country', u'/wiki/Obesity', u'/wiki/Disease', u'/wiki/Structure', u'/wiki/System'] True
+/wiki/System ['/wiki/Obesity_by_country', u'/wiki/Obesity', u'/wiki/Disease', u'/wiki/Structure', u'/wiki/System'] True
+/wiki/Overweight ['/wiki/Overweight', u'/wiki/Adipose_tissue', u'/wiki/Connective_tissue', u'/wiki/Animal'] True
+/wiki/Adipose_tissue ['/wiki/Overweight', u'/wiki/Adipose_tissue', u'/wiki/Connective_tissue', u'/wiki/Animal'] True
+/wiki/Connective_tissue ['/wiki/Overweight', u'/wiki/Adipose_tissue', u'/wiki/Connective_tissue', u'/wiki/Animal'] True
+/wiki/Animal ['/wiki/Overweight', u'/wiki/Adipose_tissue', u'/wiki/Connective_tissue', u'/wiki/Animal'] True
+/wiki/List_of_OECD_countries_by_cancer_rate ['/wiki/List_of_OECD_countries_by_cancer_rate', u'/wiki/Cancer', u'/wiki/Cell_growth', u'/wiki/Cell_(biology)', u'/wiki/Organisms', u'/wiki/Biology'] True
+/wiki/Cancer ['/wiki/List_of_OECD_countries_by_cancer_rate', u'/wiki/Cancer', u'/wiki/Cell_growth', u'/wiki/Cell_(biology)', u'/wiki/Organisms', u'/wiki/Biology'] True
+/wiki/Cell_growth ['/wiki/List_of_OECD_countries_by_cancer_rate', u'/wiki/Cancer', u'/wiki/Cell_growth', u'/wiki/Cell_(biology)', u'/wiki/Organisms', u'/wiki/Biology'] True
+/wiki/Cell_(biology) ['/wiki/List_of_OECD_countries_by_cancer_rate', u'/wiki/Cancer', u'/wiki/Cell_growth', u'/wiki/Cell_(biology)', u'/wiki/Organisms', u'/wiki/Biology'] True
+/wiki/Organisms ['/wiki/List_of_OECD_countries_by_cancer_rate', u'/wiki/Cancer', u'/wiki/Cell_growth', u'/wiki/Cell_(biology)', u'/wiki/Organisms', u'/wiki/Biology'] True
+/wiki/Biology ['/wiki/List_of_OECD_countries_by_cancer_rate', u'/wiki/Cancer', u'/wiki/Cell_growth', u'/wiki/Cell_(biology)', u'/wiki/Organisms', u'/wiki/Biology'] True
+/wiki/World_Cancer_Research_Fund_International ['/wiki/World_Cancer_Research_Fund_International', u'/wiki/Nonprofit_organization', u'/wiki/Organization'] True
+/wiki/Nonprofit_organization ['/wiki/World_Cancer_Research_Fund_International', u'/wiki/Nonprofit_organization', u'/wiki/Organization'] True
+/wiki/Organization ['/wiki/World_Cancer_Research_Fund_International', u'/wiki/Nonprofit_organization', u'/wiki/Organization'] True
+/wiki/List_of_countries_by_alcohol_consumption_per_capita ['/wiki/List_of_countries_by_alcohol_consumption_per_capita', u'/wiki/List_of_countries'] True
+/wiki/List_of_countries ['/wiki/List_of_countries_by_alcohol_consumption_per_capita', u'/wiki/List_of_countries'] True
+/wiki/Prevalence_of_tobacco_consumption ['/wiki/Prevalence_of_tobacco_consumption', u'/wiki/World_Health_Organization', u'/wiki/List_of_specialized_agencies_of_the_United_Nations', u'/wiki/United_Nations'] True
+/wiki/World_Health_Organization ['/wiki/Prevalence_of_tobacco_consumption', u'/wiki/World_Health_Organization', u'/wiki/List_of_specialized_agencies_of_the_United_Nations', u'/wiki/United_Nations'] True
+/wiki/List_of_specialized_agencies_of_the_United_Nations ['/wiki/Prevalence_of_tobacco_consumption', u'/wiki/World_Health_Organization', u'/wiki/List_of_specialized_agencies_of_the_United_Nations', u'/wiki/United_Nations'] True
+/wiki/United_Nations ['/wiki/Prevalence_of_tobacco_consumption', u'/wiki/World_Health_Organization', u'/wiki/List_of_specialized_agencies_of_the_United_Nations', u'/wiki/United_Nations'] True
+/wiki/Physiotherapy ['/wiki/Physiotherapy', u'/wiki/Allied_health_professions', u'/wiki/Health_care', u'/wiki/Health'] False
+/wiki/Allied_health_professions ['/wiki/Physiotherapy', u'/wiki/Allied_health_professions', u'/wiki/Health_care', u'/wiki/Health'] False
+/wiki/Health_care ['/wiki/Physiotherapy', u'/wiki/Allied_health_professions', u'/wiki/Health_care', u'/wiki/Health'] False
+/wiki/Health ['/wiki/Physiotherapy', u'/wiki/Allied_health_professions', u'/wiki/Health_care', u'/wiki/Health'] False
+/wiki/Danish_Ministry_of_Transport ['/wiki/Danish_Ministry_of_Transport', u'/wiki/Government_of_Denmark'] True
+/wiki/Government_of_Denmark ['/wiki/Danish_Ministry_of_Transport', u'/wiki/Government_of_Denmark'] True
+/wiki/Social_integration ['/wiki/Social_integration', u'/wiki/Economic_integration', u'/wiki/Tariff', u'/wiki/Imports', u'/wiki/National_border', u'/wiki/Geography'] True
+/wiki/Economic_integration ['/wiki/Social_integration', u'/wiki/Economic_integration', u'/wiki/Tariff', u'/wiki/Imports', u'/wiki/National_border', u'/wiki/Geography'] True
+/wiki/Tariff ['/wiki/Social_integration', u'/wiki/Economic_integration', u'/wiki/Tariff', u'/wiki/Imports', u'/wiki/National_border', u'/wiki/Geography'] True
+/wiki/Imports ['/wiki/Social_integration', u'/wiki/Economic_integration', u'/wiki/Tariff', u'/wiki/Imports', u'/wiki/National_border', u'/wiki/Geography'] True
+/wiki/National_border ['/wiki/Social_integration', u'/wiki/Economic_integration', u'/wiki/Tariff', u'/wiki/Imports', u'/wiki/National_border', u'/wiki/Geography'] True
+/wiki/Geography ['/wiki/Social_integration', u'/wiki/Economic_integration', u'/wiki/Tariff', u'/wiki/Imports', u'/wiki/National_border', u'/wiki/Geography'] True
+/wiki/Parallel_society ['/wiki/Parallel_society', u'/wiki/Human_migration', u'/wiki/Internal_migration', u'/wiki/Human_migration'] False
+/wiki/Human_migration ['/wiki/Parallel_society', u'/wiki/Human_migration', u'/wiki/Internal_migration', u'/wiki/Human_migration'] False
+/wiki/Internal_migration ['/wiki/Parallel_society', u'/wiki/Human_migration', u'/wiki/Internal_migration', u'/wiki/Human_migration'] False
+/wiki/Human_migration ['/wiki/Parallel_society', u'/wiki/Human_migration', u'/wiki/Internal_migration', u'/wiki/Human_migration'] False
+/wiki/Pornography ['/wiki/Pornography', u'/wiki/Human_sexual_activity', u'/wiki/Human_sexuality', u'/wiki/Human_sexual_activity'] False
+/wiki/Human_sexual_activity ['/wiki/Pornography', u'/wiki/Human_sexual_activity', u'/wiki/Human_sexuality', u'/wiki/Human_sexual_activity'] False
+/wiki/Human_sexuality ['/wiki/Pornography', u'/wiki/Human_sexual_activity', u'/wiki/Human_sexuality', u'/wiki/Human_sexual_activity'] False
+/wiki/Human_sexual_activity ['/wiki/Pornography', u'/wiki/Human_sexual_activity', u'/wiki/Human_sexuality', u'/wiki/Human_sexual_activity'] False
+/wiki/Registered_partnership_in_Denmark ['/wiki/Registered_partnership_in_Denmark', u'/wiki/Cabinet_of_Helle_Thorning-Schmidt', u'/wiki/Prime_Minister_of_Denmark'] True
+/wiki/Cabinet_of_Helle_Thorning-Schmidt ['/wiki/Registered_partnership_in_Denmark', u'/wiki/Cabinet_of_Helle_Thorning-Schmidt', u'/wiki/Prime_Minister_of_Denmark'] True
+/wiki/Prime_Minister_of_Denmark ['/wiki/Registered_partnership_in_Denmark', u'/wiki/Cabinet_of_Helle_Thorning-Schmidt', u'/wiki/Prime_Minister_of_Denmark'] True
+/wiki/Tycho_Brahe ['/wiki/Tycho_Brahe', u'/wiki/Nobility', u'/wiki/Social_class', u'/wiki/Social_sciences'] True
+/wiki/Nobility ['/wiki/Tycho_Brahe', u'/wiki/Nobility', u'/wiki/Social_class', u'/wiki/Social_sciences'] True
+/wiki/Social_class ['/wiki/Tycho_Brahe', u'/wiki/Nobility', u'/wiki/Social_class', u'/wiki/Social_sciences'] True
+/wiki/Social_sciences ['/wiki/Tycho_Brahe', u'/wiki/Nobility', u'/wiki/Social_class', u'/wiki/Social_sciences'] True
+/wiki/Ludwig_A._Colding ['/wiki/Ludwig_A._Colding', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Ludwig_A._Colding', u'/wiki/Denmark'] True
+/wiki/Conservation_of_energy ['/wiki/Conservation_of_energy', u'/wiki/Energy'] True
+/wiki/Energy ['/wiki/Conservation_of_energy', u'/wiki/Energy'] True
+/wiki/Hans_Christian_Andersen ['/wiki/Hans_Christian_Andersen', u'/wiki/Travelogue_(literature)', u'/wiki/Outdoor_literature', u'/wiki/Literature'] True
+/wiki/Travelogue_(literature) ['/wiki/Hans_Christian_Andersen', u'/wiki/Travelogue_(literature)', u'/wiki/Outdoor_literature', u'/wiki/Literature'] True
+/wiki/Outdoor_literature ['/wiki/Hans_Christian_Andersen', u'/wiki/Travelogue_(literature)', u'/wiki/Outdoor_literature', u'/wiki/Literature'] True
+/wiki/Literature ['/wiki/Hans_Christian_Andersen', u'/wiki/Travelogue_(literature)', u'/wiki/Outdoor_literature', u'/wiki/Literature'] True
+/wiki/S%C3%B8ren_Kierkegaard ['/wiki/S%C3%B8ren_Kierkegaard', u'/wiki/Philosopher', u'/wiki/Philosophy'] True
+/wiki/Philosopher ['/wiki/S%C3%B8ren_Kierkegaard', u'/wiki/Philosopher', u'/wiki/Philosophy'] True
+/wiki/Philosophy ['/wiki/S%C3%B8ren_Kierkegaard', u'/wiki/Philosopher', u'/wiki/Philosophy'] True
+/wiki/Karen_Blixen ['/wiki/Karen_Blixen', u'/wiki/Pen_name', u'/wiki/Pseudonym', u'/wiki/Name', u'/wiki/Referent', u'/wiki/Name'] False
+/wiki/Pen_name ['/wiki/Karen_Blixen', u'/wiki/Pen_name', u'/wiki/Pseudonym', u'/wiki/Name', u'/wiki/Referent', u'/wiki/Name'] False
+/wiki/Pseudonym ['/wiki/Karen_Blixen', u'/wiki/Pen_name', u'/wiki/Pseudonym', u'/wiki/Name', u'/wiki/Referent', u'/wiki/Name'] False
+/wiki/Name ['/wiki/Karen_Blixen', u'/wiki/Pen_name', u'/wiki/Pseudonym', u'/wiki/Name', u'/wiki/Referent', u'/wiki/Name'] False
+/wiki/Referent ['/wiki/Karen_Blixen', u'/wiki/Pen_name', u'/wiki/Pseudonym', u'/wiki/Name', u'/wiki/Referent', u'/wiki/Name'] False
+/wiki/Name ['/wiki/Karen_Blixen', u'/wiki/Pen_name', u'/wiki/Pseudonym', u'/wiki/Name', u'/wiki/Referent', u'/wiki/Name'] False
+/wiki/Isak_Dinesen ['/wiki/Isak_Dinesen', u'/wiki/Pen_name'] False
+/wiki/Pen_name ['/wiki/Isak_Dinesen', u'/wiki/Pen_name'] False
+/wiki/Piet_Hein_(scientist) ['/wiki/Piet_Hein_(scientist)', u'/wiki/Danish_people', u'/wiki/North_Germanic_peoples', u'/wiki/Norsemen', u'/wiki/North_Germanic_peoples'] False
+/wiki/Danish_people ['/wiki/Piet_Hein_(scientist)', u'/wiki/Danish_people', u'/wiki/North_Germanic_peoples', u'/wiki/Norsemen', u'/wiki/North_Germanic_peoples'] False
+/wiki/North_Germanic_peoples ['/wiki/Piet_Hein_(scientist)', u'/wiki/Danish_people', u'/wiki/North_Germanic_peoples', u'/wiki/Norsemen', u'/wiki/North_Germanic_peoples'] False
+/wiki/Norsemen ['/wiki/Piet_Hein_(scientist)', u'/wiki/Danish_people', u'/wiki/North_Germanic_peoples', u'/wiki/Norsemen', u'/wiki/North_Germanic_peoples'] False
+/wiki/North_Germanic_peoples ['/wiki/Piet_Hein_(scientist)', u'/wiki/Danish_people', u'/wiki/North_Germanic_peoples', u'/wiki/Norsemen', u'/wiki/North_Germanic_peoples'] False
+/wiki/Carl_Nielsen ['/wiki/Carl_Nielsen', u'/wiki/Composer', u'/wiki/Musician', u'/wiki/Musical_instrument', u'/wiki/Music', u'/wiki/Culture'] True
+/wiki/Composer ['/wiki/Carl_Nielsen', u'/wiki/Composer', u'/wiki/Musician', u'/wiki/Musical_instrument', u'/wiki/Music', u'/wiki/Culture'] True
+/wiki/Musician ['/wiki/Carl_Nielsen', u'/wiki/Composer', u'/wiki/Musician', u'/wiki/Musical_instrument', u'/wiki/Music', u'/wiki/Culture'] True
+/wiki/Musical_instrument ['/wiki/Carl_Nielsen', u'/wiki/Composer', u'/wiki/Musician', u'/wiki/Musical_instrument', u'/wiki/Music', u'/wiki/Culture'] True
+/wiki/Music ['/wiki/Carl_Nielsen', u'/wiki/Composer', u'/wiki/Musician', u'/wiki/Musical_instrument', u'/wiki/Music', u'/wiki/Culture'] True
+/wiki/Culture ['/wiki/Carl_Nielsen', u'/wiki/Composer', u'/wiki/Musician', u'/wiki/Musical_instrument', u'/wiki/Music', u'/wiki/Culture'] True
+/wiki/Dogme_95 ['/wiki/Dogme_95', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Dogme_95', u'/wiki/Denmark'] True
+/wiki/Lars_von_Trier ['/wiki/Lars_von_Trier', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Lars_von_Trier', u'/wiki/Denmark'] True
+/wiki/Jul_(Denmark) ['/wiki/Jul_(Denmark)', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Jul_(Denmark)', u'/wiki/Denmark'] True
+/wiki/List_of_World_Heritage_Sites_in_Northern_Europe ['/wiki/List_of_World_Heritage_Sites_in_Northern_Europe', u'/wiki/UNESCO', u'/wiki/List_of_specialized_agencies_of_the_United_Nations'] True
+/wiki/UNESCO ['/wiki/List_of_World_Heritage_Sites_in_Northern_Europe', u'/wiki/UNESCO', u'/wiki/List_of_specialized_agencies_of_the_United_Nations'] True
+/wiki/List_of_specialized_agencies_of_the_United_Nations ['/wiki/List_of_World_Heritage_Sites_in_Northern_Europe', u'/wiki/UNESCO', u'/wiki/List_of_specialized_agencies_of_the_United_Nations'] True
+/wiki/Kronborg_Castle ['/wiki/Kronborg_Castle', u'/wiki/Castle', u'/wiki/Fortification', u'/wiki/Military'] True
+/wiki/Castle ['/wiki/Kronborg_Castle', u'/wiki/Castle', u'/wiki/Fortification', u'/wiki/Military'] True
+/wiki/Fortification ['/wiki/Kronborg_Castle', u'/wiki/Castle', u'/wiki/Fortification', u'/wiki/Military'] True
+/wiki/Military ['/wiki/Kronborg_Castle', u'/wiki/Castle', u'/wiki/Fortification', u'/wiki/Military'] True
+/wiki/Roskilde_Cathedral ['/wiki/Roskilde_Cathedral', u'/wiki/Roskilde', u'/wiki/Copenhagen'] True
+/wiki/Roskilde ['/wiki/Roskilde_Cathedral', u'/wiki/Roskilde', u'/wiki/Copenhagen'] True
+/wiki/Copenhagen ['/wiki/Roskilde_Cathedral', u'/wiki/Roskilde', u'/wiki/Copenhagen'] True
+/wiki/Par_force_hunting_landscape_in_North_Zealand ['/wiki/Par_force_hunting_landscape_in_North_Zealand', u'/wiki/Copenhagen'] True
+/wiki/Copenhagen ['/wiki/Par_force_hunting_landscape_in_North_Zealand', u'/wiki/Copenhagen'] True
+/wiki/Anders_Bording ['/wiki/Anders_Bording', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Anders_Bording', u'/wiki/Denmark'] True
+/wiki/State_media ['/wiki/State_media', u'/wiki/Mass_media', u'/wiki/Media_(communication)', u'/wiki/Communication', u'/wiki/Meaning_(semiotics)', u'/wiki/Semiotics', u'/wiki/Sign_process', u'/wiki/Action_(philosophy)'] True
+/wiki/Mass_media ['/wiki/State_media', u'/wiki/Mass_media', u'/wiki/Media_(communication)', u'/wiki/Communication', u'/wiki/Meaning_(semiotics)', u'/wiki/Semiotics', u'/wiki/Sign_process', u'/wiki/Action_(philosophy)'] True
+/wiki/Media_(communication) ['/wiki/State_media', u'/wiki/Mass_media', u'/wiki/Media_(communication)', u'/wiki/Communication', u'/wiki/Meaning_(semiotics)', u'/wiki/Semiotics', u'/wiki/Sign_process', u'/wiki/Action_(philosophy)'] True
+/wiki/Communication ['/wiki/State_media', u'/wiki/Mass_media', u'/wiki/Media_(communication)', u'/wiki/Communication', u'/wiki/Meaning_(semiotics)', u'/wiki/Semiotics', u'/wiki/Sign_process', u'/wiki/Action_(philosophy)'] True
+/wiki/Meaning_(semiotics) ['/wiki/State_media', u'/wiki/Mass_media', u'/wiki/Media_(communication)', u'/wiki/Communication', u'/wiki/Meaning_(semiotics)', u'/wiki/Semiotics', u'/wiki/Sign_process', u'/wiki/Action_(philosophy)'] True
+/wiki/Semiotics ['/wiki/State_media', u'/wiki/Mass_media', u'/wiki/Media_(communication)', u'/wiki/Communication', u'/wiki/Meaning_(semiotics)', u'/wiki/Semiotics', u'/wiki/Sign_process', u'/wiki/Action_(philosophy)'] True
+/wiki/Sign_process ['/wiki/State_media', u'/wiki/Mass_media', u'/wiki/Media_(communication)', u'/wiki/Communication', u'/wiki/Meaning_(semiotics)', u'/wiki/Semiotics', u'/wiki/Sign_process', u'/wiki/Action_(philosophy)'] True
+/wiki/Action_(philosophy) ['/wiki/State_media', u'/wiki/Mass_media', u'/wiki/Media_(communication)', u'/wiki/Communication', u'/wiki/Meaning_(semiotics)', u'/wiki/Semiotics', u'/wiki/Sign_process', u'/wiki/Action_(philosophy)'] True
+/wiki/Freedom_of_the_press_in_Denmark ['/wiki/Freedom_of_the_press_in_Denmark', u'/wiki/Danish_Constitution', u'/wiki/Constitution'] True
+/wiki/Danish_Constitution ['/wiki/Freedom_of_the_press_in_Denmark', u'/wiki/Danish_Constitution', u'/wiki/Constitution'] True
+/wiki/Constitution ['/wiki/Freedom_of_the_press_in_Denmark', u'/wiki/Danish_Constitution', u'/wiki/Constitution'] True
+/wiki/German_occupation_of_Denmark ['/wiki/German_occupation_of_Denmark', u'/wiki/World_War_II'] True
+/wiki/World_War_II ['/wiki/German_occupation_of_Denmark', u'/wiki/World_War_II'] True
+/wiki/Danish_Film_Institute ['/wiki/Danish_Film_Institute', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Danish_Film_Institute', u'/wiki/Denmark'] True
+/wiki/Silent_film ['/wiki/Silent_film', u'/wiki/Film', u'/wiki/Cinematography', u'/wiki/Motion-picture', u'/wiki/Cinematography'] False
+/wiki/Film ['/wiki/Silent_film', u'/wiki/Film', u'/wiki/Cinematography', u'/wiki/Motion-picture', u'/wiki/Cinematography'] False
+/wiki/Cinematography ['/wiki/Silent_film', u'/wiki/Film', u'/wiki/Cinematography', u'/wiki/Motion-picture', u'/wiki/Cinematography'] False
+/wiki/Motion-picture ['/wiki/Silent_film', u'/wiki/Film', u'/wiki/Cinematography', u'/wiki/Motion-picture', u'/wiki/Cinematography'] False
+/wiki/Cinematography ['/wiki/Silent_film', u'/wiki/Film', u'/wiki/Cinematography', u'/wiki/Motion-picture', u'/wiki/Cinematography'] False
+/wiki/Carl_Theodor_Dreyer ['/wiki/Carl_Theodor_Dreyer', u'/wiki/The_Passion_of_Joan_of_Arc', u'/wiki/Silent_film'] False
+/wiki/The_Passion_of_Joan_of_Arc ['/wiki/Carl_Theodor_Dreyer', u'/wiki/The_Passion_of_Joan_of_Arc', u'/wiki/Silent_film'] False
+/wiki/Silent_film ['/wiki/Carl_Theodor_Dreyer', u'/wiki/The_Passion_of_Joan_of_Arc', u'/wiki/Silent_film'] False
+/wiki/Early_cinema ['/wiki/Early_cinema', u'/wiki/Auguste_and_Louis_Lumi%C3%A8re', u'/wiki/Film_director', u'/wiki/Film'] False
+/wiki/Auguste_and_Louis_Lumi%C3%A8re ['/wiki/Early_cinema', u'/wiki/Auguste_and_Louis_Lumi%C3%A8re', u'/wiki/Film_director', u'/wiki/Film'] False
+/wiki/Film_director ['/wiki/Early_cinema', u'/wiki/Auguste_and_Louis_Lumi%C3%A8re', u'/wiki/Film_director', u'/wiki/Film'] False
+/wiki/Film ['/wiki/Early_cinema', u'/wiki/Auguste_and_Louis_Lumi%C3%A8re', u'/wiki/Film_director', u'/wiki/Film'] False
+/wiki/Erik_Balling ['/wiki/Erik_Balling', u'/wiki/Denmark'] True
+/wiki/Denmark ['/wiki/Erik_Balling', u'/wiki/Denmark'] True
+/wiki/Gabriel_Axel ['/wiki/Gabriel_Axel', u'/wiki/Babette%27s_Feast', u'/wiki/Drama_(film_and_television)', u'/wiki/Film'] False
+/wiki/Babette%27s_Feast ['/wiki/Gabriel_Axel', u'/wiki/Babette%27s_Feast', u'/wiki/Drama_(film_and_television)', u'/wiki/Film'] False
+/wiki/Drama_(film_and_television) ['/wiki/Gabriel_Axel', u'/wiki/Babette%27s_Feast', u'/wiki/Drama_(film_and_television)', u'/wiki/Film'] False
+/wiki/Film ['/wiki/Gabriel_Axel', u'/wiki/Babette%27s_Feast', u'/wiki/Drama_(film_and_television)', u'/wiki/Film'] False
+/wiki/Bille_August ['/wiki/Bille_August', u'/wiki/Academy_Awards', u'/wiki/Film_industry', u'/wiki/Filmmaking', u'/wiki/Film_producer', u'/wiki/Film_production', u'/wiki/Film_producer'] False
+/wiki/Academy_Awards ['/wiki/Bille_August', u'/wiki/Academy_Awards', u'/wiki/Film_industry', u'/wiki/Filmmaking', u'/wiki/Film_producer', u'/wiki/Film_production', u'/wiki/Film_producer'] False
+/wiki/Film_industry ['/wiki/Bille_August', u'/wiki/Academy_Awards', u'/wiki/Film_industry', u'/wiki/Filmmaking', u'/wiki/Film_producer', u'/wiki/Film_production', u'/wiki/Film_producer'] False
+/wiki/Filmmaking ['/wiki/Bille_August', u'/wiki/Academy_Awards', u'/wiki/Film_industry', u'/wiki/Filmmaking', u'/wiki/Film_producer', u'/wiki/Film_production', u'/wiki/Film_producer'] False
+/wiki/Film_producer ['/wiki/Bille_August', u'/wiki/Academy_Awards', u'/wiki/Film_industry', u'/wiki/Filmmaking', u'/wiki/Film_producer', u'/wiki/Film_production', u'/wiki/Film_producer'] False
+/wiki/Film_production ['/wiki/Bille_August', u'/wiki/Academy_Awards', u'/wiki/Film_industry', u'/wiki/Filmmaking', u'/wiki/Film_producer', u'/wiki/Film_production', u'/wiki/Film_producer'] False
+/wiki/Film_producer ['/wiki/Bille_August', u'/wiki/Academy_Awards', u'/wiki/Film_industry', u'/wiki/Filmmaking', u'/wiki/Film_producer', u'/wiki/Film_production', u'/wiki/Film_producer'] False
+/wiki/Palme_d%27Or ['/wiki/Palme_d%27Or', u'/wiki/Cannes_Film_Festival', u'/wiki/Film_festival', u'/wiki/Film'] False
+/wiki/Cannes_Film_Festival ['/wiki/Palme_d%27Or', u'/wiki/Cannes_Film_Festival', u'/wiki/Film_festival', u'/wiki/Film'] False
+/wiki/Film_festival ['/wiki/Palme_d%27Or', u'/wiki/Cannes_Film_Festival', u'/wiki/Film_festival', u'/wiki/Film'] False
+/wiki/Film ['/wiki/Palme_d%27Or', u'/wiki/Cannes_Film_Festival', u'/wiki/Film_festival', u'/wiki/Film'] False
