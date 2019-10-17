@@ -1,0 +1,2 @@
+scrapy runspider scraper.py
+scrapy runspider path_scraper.py
