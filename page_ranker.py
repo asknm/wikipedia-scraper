@@ -18,7 +18,7 @@ class PageRanker:
                         else:
                             self.pages.append((path[i], i, path))
         self.pages.sort(key=lambda tup: tup[1])
-        file = open("top_pages2.txt", "w")
+        file = open("top_pages.txt", "w")
         for p in self.pages:
             file.write(p[0] + ' ' + str(p[1]) + '\n')
 

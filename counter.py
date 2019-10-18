@@ -12,7 +12,7 @@ class Counter:
             else:
                 pages.append((page, 1))
         pages.sort(key=lambda tup: tup[1])
-        file = open("top_pages.txt", "w")
+        file = open("top_pages2.txt", "w")
         for p in pages:
             file.write(p[0] + ' ' + str(p[1]) + '\n')
 

@@ -1,1 +1,0 @@
-Fix that starting page is not random after first round
