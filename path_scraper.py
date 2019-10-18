@@ -4,9 +4,6 @@ import random
 
 class WikiSpider(scrapy.Spider):
     name = "wiki_spider"
-    custom_settings = {
-        'DUPEFILTER_DEBUG': True,
-    }
     file = open("to_visit.txt", "r")
     lines = file.readlines()
     start = random.choice(lines).split('\n')[0]
@@ -27,8 +24,10 @@ class WikiSpider(scrapy.Spider):
                 in_parentheses -= len(word.split(']')) - 1
                 if in_parentheses == 0 and word.startswith('href='):
                     link = word.split('"')[-2]
-                    if link.startswith("/wiki/") and len(link.split('/')) == 3 and '#' not in link \
-                            and not link == '/wiki/Geographic_coordinate_system':
+                    if link.startswith("/wiki/") and len(link.split('/'))\
+                            == 3 and '#' not in link \
+                            and not link == '/wiki/Geographic_coordinate' \
+                                            '_system':
                         done = True
                         break
                     else:
@@ -80,7 +79,8 @@ class WikiSpider(scrapy.Spider):
     def set_visited(self, value):
         file = open("completed_with_path.txt", "a")
         for i in range(len(self.visited)):
-            file.write(self.visited[i] + " " + str(self.visited) + " " + str(value) + "\n")
+            file.write(self.visited[i] + " " + str(self.visited) + " "
+                       + str(value) + "\n")
         file.close()
         file = open("to_visit.txt", "r")
         to_visit = file.readlines()

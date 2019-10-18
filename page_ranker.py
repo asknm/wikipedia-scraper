@@ -5,17 +5,18 @@ class PageRanker:
         paths = []
 
         for line in file:
-            path = line.split()[1:-1]
-            for i in range(len(path)):
-                path[i] = path[i].split("'")[1]
-            if path not in paths:
-                paths.append(path)
+            if line.split()[-1] == 'True':
+                path = line.split()[1:-1]
                 for i in range(len(path)):
-                    index = self.in_pages(path[i])
-                    if index > -1:
-                        self.add_points(index, i)
-                    else:
-                        self.pages.append((path[i], i, path))
+                    path[i] = path[i].split("'")[1]
+                if path not in paths:
+                    paths.append(path)
+                    for i in range(len(path)):
+                        index = self.in_pages(path[i])
+                        if index > -1:
+                            self.add_points(index, i)
+                        else:
+                            self.pages.append((path[i], i, path))
         self.pages.sort(key=lambda tup: tup[1])
         file = open("top_pages2.txt", "w")
         for p in self.pages:

@@ -1,2 +1,1 @@
-Fix problem with page ranker with loops
 Fix that starting page is not random after first round
